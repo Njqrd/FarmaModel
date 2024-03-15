@@ -1,0 +1,4 @@
+,symbol,companyName,marketCap,sector,industry,beta,price,lastAnnualDividend,volume,exchange,exchangeShortName,country,isEtf,isFund,isActivelyTrading
+0,LNG,"Cheniere Energy, Inc.",36414810720,Energy,Oil & Gas Midstream,0.941,155.16,1.74,382311,American Stock Exchange,AMEX,US,False,False,True
+1,CQP,"Cheniere Energy Partners, L.P.",23432424423,Energy,Oil & Gas Midstream,0.679,48.41,4.13,23771,American Stock Exchange,AMEX,US,False,False,True
+2,CBOE,"Cboe Global Markets, Inc.",19454011410,Financial Services,Financial Data & Stock Exchanges,0.602,184.255,2.2,130593,New York Stock Exchange Arca,AMEX,US,False,False,True

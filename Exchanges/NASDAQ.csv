@@ -1,0 +1,362 @@
+,symbol,companyName,marketCap,sector,industry,beta,price,lastAnnualDividend,volume,exchange,exchangeShortName,country,isEtf,isFund,isActivelyTrading
+0,MSFT,Microsoft Corporation,2992906927600,Technology,Software—Infrastructure,0.89,402.79,3.0,5330687,NASDAQ Global Select,NASDAQ,US,False,False,True
+1,AAPL,Apple Inc.,2662415188500,Technology,Consumer Electronics,1.289,172.415,0.96,23297980,NASDAQ Global Select,NASDAQ,US,False,False,True
+2,NVDA,NVIDIA Corporation,2179511250000,Technology,Semiconductors,1.725,871.8045,0.16,33188939,NASDAQ Global Select,NASDAQ,US,False,False,True
+3,AMZN,"Amazon.com, Inc.",1792107998540,Consumer Cyclical,Internet Retail,1.171,172.5271,0.0,11595419,NASDAQ Global Select,NASDAQ,US,False,False,True
+4,GOOGL,Alphabet Inc.,1722336302297,Communication Services,Internet Content & Information,1.044,138.12,0.0,10843709,NASDAQ Global Select,NASDAQ,US,False,False,True
+5,GOOG,Alphabet Inc.,1722241998404,Communication Services,Internet Content & Information,1.044,139.01,0.0,7635789,NASDAQ Global Select,NASDAQ,US,False,False,True
+6,META,"Meta Platforms, Inc.",1238768797845,Communication Services,Internet Content & Information,1.208,485.905,2.0,11191763,NASDAQ Global Select,NASDAQ,US,False,False,True
+7,AVGO,Broadcom Inc.,597303326900,Technology,Semiconductors,1.273,1288.9,21.0,1297086,NASDAQ Global Select,NASDAQ,US,False,False,True
+8,TSLA,"Tesla, Inc.",567944237658,Consumer Cyclical,Auto Manufacturers,2.415,178.3302,0.0,42496155,NASDAQ Global Select,NASDAQ,US,False,False,True
+9,AMD,"Advanced Micro Devices, Inc.",323844710750,Technology,Semiconductors,1.651,200.425,0.0,32562414,NASDAQ Global Select,NASDAQ,US,False,False,True
+10,COST,Costco Wholesale Corporation,316937161280,Consumer Defensive,Discount Stores,0.765,714.26,4.08,1467060,NASDAQ Global Select,NASDAQ,US,False,False,True
+11,NFLX,"Netflix, Inc.",263148373200,Communication Services,Entertainment,1.219,608.07,0.0,884242,NASDAQ Global Select,NASDAQ,US,False,False,True
+12,ADBE,Adobe Inc.,251768520000,Technology,Software—Infrastructure,1.294,557.01,0.0,944158,NASDAQ Global Select,NASDAQ,US,False,False,True
+13,PEP,"PepsiCo, Inc.",224966702400,Consumer Defensive,Beverages—Non-Alcoholic,0.534,163.68,5.06,1235991,NASDAQ Global Select,NASDAQ,US,False,False,True
+14,CSCO,"Cisco Systems, Inc.",201892613400,Technology,Communication Equipment,0.853,49.86,1.6,4261486,NASDAQ Global Select,NASDAQ,US,False,False,True
+15,TMUS,"T-Mobile US, Inc.",194563599100,Communication Services,Telecom Services,0.487,163.93,1.3,944380,NASDAQ Global Select,NASDAQ,US,False,False,True
+16,QCOM,QUALCOMM Incorporated,189965520000,Technology,Semiconductors,1.413,170.22,3.2,2092096,NASDAQ Global Select,NASDAQ,US,False,False,True
+17,INTC,Intel Corporation,188230137200,Technology,Semiconductors,0.996,44.5199,0.5,13041391,NASDAQ Global Select,NASDAQ,US,False,False,True
+18,INTU,Intuit Inc.,180300876420,Technology,Software—Application,1.215,643.98,3.6,317868,NASDAQ Global Select,NASDAQ,US,False,False,True
+19,CMCSA,Comcast Corporation,171275172250,Communication Services,Telecom Services,0.98,43.225,1.24,3675184,NASDAQ Global Select,NASDAQ,US,False,False,True
+20,AMAT,"Applied Materials, Inc.",166063074420,Technology,Semiconductor Equipment & Materials,1.593,199.86,1.28,2474926,NASDAQ Global Select,NASDAQ,US,False,False,True
+21,TXN,Texas Instruments Incorporated,156397536000,Technology,Semiconductors,1.029,172.0,5.2,791512,NASDAQ Global Select,NASDAQ,US,False,False,True
+22,AMGN,Amgen Inc.,146664952730,Healthcare,Drug Manufacturers—General,0.578,273.67,9.0,485529,NASDAQ Global Select,NASDAQ,US,False,False,True
+23,ISRG,"Intuitive Surgical, Inc.",134496927240,Healthcare,Medical Instruments & Supplies,1.359,381.74,0.0,458295,NASDAQ Global Select,NASDAQ,US,False,False,True
+24,HON,Honeywell International Inc.,129862479840,Industrials,Conglomerates,1.023,199.12,4.32,639578,NASDAQ Global Select,NASDAQ,US,False,False,True
+25,LRCX,Lam Research Corporation,121643263035,Technology,Semiconductor Equipment & Materials,1.517,927.845,8.0,326037,NASDAQ Global Select,NASDAQ,US,False,False,True
+26,BKNG,Booking Holdings Inc.,120700173040,Consumer Cyclical,Travel Services,1.403,3532.24,35.0,71979,NASDAQ Global Select,NASDAQ,US,False,False,True
+27,VRTX,Vertex Pharmaceuticals Incorporated,106031559380,Healthcare,Biotechnology,0.351,410.485,0.0,295939,NASDAQ Global Select,NASDAQ,US,False,False,True
+28,ABNB,"Airbnb, Inc.",105061195820,Consumer Cyclical,Travel Services,1.251,162.31,0.0,992565,NASDAQ Global Select,NASDAQ,US,False,False,True
+29,MU,"Micron Technology, Inc.",104529237900,Technology,Semiconductors,1.239,94.69,0.46,5599244,NASDAQ Global Select,NASDAQ,US,False,False,True
+30,SBUX,Starbucks Corporation,104162400000,Consumer Cyclical,Restaurants,0.982,92.0,2.28,1986610,NASDAQ Global Select,NASDAQ,US,False,False,True
+31,REGN,"Regeneron Pharmaceuticals, Inc.",104120623520,Healthcare,Biotechnology,0.11,964.58,0.0,97193,NASDAQ Global Select,NASDAQ,US,False,False,True
+32,ADP,"Automatic Data Processing, Inc.",99429907595,Industrials,Staffing & Employment Services,0.789,242.045,5.6,289193,NASDAQ Global Select,NASDAQ,US,False,False,True
+33,ADI,"Analog Devices, Inc.",97728589560,Technology,Semiconductors,1.173,197.07,3.68,611971,NASDAQ Global Select,NASDAQ,US,False,False,True
+34,MDLZ,"Mondelez International, Inc.",97108137600,Consumer Defensive,Confectioners,0.578,72.12,1.7,1176774,NASDAQ Global Select,NASDAQ,US,False,False,True
+35,GILD,"Gilead Sciences, Inc.",93482580800,Healthcare,Drug Manufacturers—General,0.2,75.04,3.08,2229391,NASDAQ Global Select,NASDAQ,US,False,False,True
+36,PANW,"Palo Alto Networks, Inc.",92080269000,Technology,Software—Infrastructure,1.208,284.99,0.0,1929238,NASDAQ Global Select,NASDAQ,US,False,False,True
+37,KLAC,KLA Corporation,91936130220,Technology,Semiconductor Equipment & Materials,1.34,679.83,5.8,262823,NASDAQ Global Select,NASDAQ,US,False,False,True
+38,SNPS,"Synopsys, Inc.",85896763680,Technology,Software—Infrastructure,1.064,563.095,0.0,204489,NASDAQ Global Select,NASDAQ,US,False,False,True
+39,EQIX,"Equinix, Inc.",84019072130,Real Estate,REIT—Specialty,0.589,887.95,17.04,93145,NASDAQ Global Select,NASDAQ,US,False,False,True
+40,CDNS,"Cadence Design Systems, Inc.",82572811090,Technology,Software—Application,1.044,303.31,0.0,366439,NASDAQ Global Select,NASDAQ,US,False,False,True
+41,CME,CME Group Inc.,77698873320,Financial Services,Financial Data & Stock Exchanges,0.498,215.835,8.6,303657,NASDAQ Global Select,NASDAQ,US,False,False,True
+42,CRWD,"CrowdStrike Holdings, Inc.",76261564240,Technology,Software—Infrastructure,1.061,317.69,0.0,1209411,NASDAQ Global Select,NASDAQ,US,False,False,True
+43,CSX,CSX Corporation,74329392200,Industrials,Railroads,1.183,37.94,0.48,1554276,NASDAQ Global Select,NASDAQ,US,False,False,True
+44,MAR,"Marriott International, Inc.",71895047175,Consumer Cyclical,Lodging,1.628,248.355,2.08,291582,NASDAQ Global Select,NASDAQ,US,False,False,True
+45,WDAY,"Workday, Inc.",70590659731,Technology,Software—Application,1.261517,269.43,0.0,680391,NASDAQ Global Select,NASDAQ,US,False,False,True
+46,COIN,"Coinbase Global, Inc.",64830996341,Technology,Software—Application,3.367,267.5924,0.0,8932639,NASDAQ Global Select,NASDAQ,US,False,False,True
+47,PYPL,"PayPal Holdings, Inc.",64004312800,Financial Services,Credit Services,1.444,59.72,0.0,4306433,NASDAQ Global Select,NASDAQ,US,False,False,True
+48,ORLY,"O'Reilly Automotive, Inc.",63548176972,Consumer Cyclical,Specialty Retail,0.862,1076.42,0.0,62615,NASDAQ Global Select,NASDAQ,US,False,False,True
+49,CTAS,Cintas Corporation,62687826400,Industrials,Specialty Business Services,1.258,618.4,5.4,40943,NASDAQ Global Select,NASDAQ,US,False,False,True
+50,MRVL,"Marvell Technology, Inc.",61820395000,Technology,Semiconductors,1.503,71.51,0.24,9782557,NASDAQ Global Select,NASDAQ,US,False,False,True
+51,MNST,Monster Beverage Corporation,61569465600,Consumer Defensive,Beverages—Non-Alcoholic,0.718,59.165,0.0,838362,NASDAQ Global Select,NASDAQ,US,False,False,True
+52,SMCI,"Super Micro Computer, Inc.",60466190565,Technology,Computer Hardware,1.272,1081.041,0.0,3976749,NASDAQ Global Select,NASDAQ,US,False,False,True
+53,PCAR,PACCAR Inc,59219847360,Industrials,Farm & Heavy Construction Machinery,0.91,113.04,1.08,513554,NASDAQ Global Select,NASDAQ,US,False,False,True
+54,ROP,"Roper Technologies, Inc.",58584377910,Industrials,Specialty Industrial Machinery,0.99,547.405,3.0,60318,NASDAQ Global Select,NASDAQ,US,False,False,True
+55,ADSK,"Autodesk, Inc.",54723649734,Technology,Software—Application,1.433,255.8196,0.0,269674,NASDAQ Global Select,NASDAQ,US,False,False,True
+56,FTNT,"Fortinet, Inc.",53740273330,Technology,Software—Infrastructure,1.084,70.43,0.0,741843,NASDAQ Global Select,NASDAQ,US,False,False,True
+57,CEG,Constellation Energy Corporation,53243320000,Utilities,Utilities—Renewable,0.736,167.96,1.41,776413,NASDAQ Global Select,NASDAQ,US,False,False,True
+58,DASH,"DoorDash, Inc.",52447801617,Communication Services,Internet Content & Information,1.774,129.82,0.0,1254282,NASDAQ Global Select,NASDAQ,US,False,False,True
+59,DXCM,"DexCom, Inc.",52040669850,Healthcare,Medical Devices,1.174,134.99,0.0,781121,NASDAQ Global Select,NASDAQ,US,False,False,True
+60,CPRT,"Copart, Inc.",51832416420,Consumer Cyclical,Auto & Truck Dealerships,1.217,53.91,0.0,1217037,NASDAQ Global Select,NASDAQ,US,False,False,True
+61,ROST,"Ross Stores, Inc.",48823303320,Consumer Cyclical,Apparel Retail,1.048,145.02,1.47,349825,NASDAQ Global Select,NASDAQ,US,False,False,True
+62,MCHP,Microchip Technology Incorporated,48191801840,Technology,Semiconductors,1.644,89.18,1.68,1171165,NASDAQ Global Select,NASDAQ,US,False,False,True
+63,ODFL,"Old Dominion Freight Line, Inc.",46823309955,Industrials,Trucking,1.029,430.215,2.08,141707,NASDAQ Global Select,NASDAQ,US,False,False,True
+64,IDXX,"IDEXX Laboratories, Inc.",45822557759,Healthcare,Diagnostics & Research,1.27,551.485,0.0,90612,NASDAQ Global Select,NASDAQ,US,False,False,True
+65,IBKR,"Interactive Brokers Group, Inc.",45270090163,Financial Services,Capital Markets,0.832,107.52,0.4,297890,NASDAQ Global Select,NASDAQ,US,False,False,True
+66,AEP,"American Electric Power Company, Inc.",43679142952,Utilities,Utilities—Regulated Electric,0.509,83.011,3.52,1037164,NASDAQ Global Select,NASDAQ,US,False,False,True
+67,PAYX,"Paychex, Inc.",43171443560,Industrials,Staffing & Employment Services,0.939,119.98,3.56,299191,NASDAQ Global Select,NASDAQ,US,False,False,True
+68,CHTR,"Charter Communications, Inc.",42550925000,Communication Services,Telecom Services,0.962,293.0,0.0,721992,NASDAQ Global Select,NASDAQ,US,False,False,True
+69,FAST,Fastenal Company,42541660550,Industrials,Industrial Distribution,1.04,74.33,1.56,582361,NASDAQ Global Select,NASDAQ,US,False,False,True
+70,MRNA,"Moderna, Inc.",42480786505,Healthcare,Biotechnology,1.601,111.185,0.0,4476357,NASDAQ Global Select,NASDAQ,US,False,False,True
+71,KHC,The Kraft Heinz Company,42440303500,Consumer Defensive,Packaged Foods,0.666,34.985,1.6,1192081,NASDAQ Global Select,NASDAQ,US,False,False,True
+72,GEHC,GE HealthCare Technologies Inc.,42229829417,Healthcare,Health Information Services,0.0,92.74,0.12,631266,NASDAQ Global Select,NASDAQ,US,False,False,True
+73,KDP,Keurig Dr Pepper Inc.,40635573150,Consumer Defensive,Beverages—Non-Alcoholic,0.661,29.285,0.86,1532838,NASDAQ Global Select,NASDAQ,US,False,False,True
+74,DDOG,"Datadog, Inc.",39949343704,Technology,Software—Application,1.165,120.375,0.0,1395360,NASDAQ Global Select,NASDAQ,US,False,False,True
+75,TTD,"The Trade Desk, Inc.",39872805989,Technology,Software—Application,1.501,81.55,0.0,637570,NASDAQ Global Market,NASDAQ,US,False,False,True
+76,CTSH,Cognizant Technology Solutions Corporation,38224308760,Technology,Information Technology Services,1.073,76.78,1.2,500448,NASDAQ Global Select,NASDAQ,US,False,False,True
+77,EXC,Exelon Corporation,36867959130,Utilities,Utilities—Regulated Electric,0.605,36.885,1.52,1169012,NASDAQ Global Select,NASDAQ,US,False,False,True
+78,EA,Electronic Arts Inc.,36664379000,Communication Services,Electronic Gaming & Multimedia,0.767,137.14,0.76,557306,NASDAQ Global Select,NASDAQ,US,False,False,True
+79,CSGP,"CoStar Group, Inc.",35388639850,Real Estate,Real Estate Services,0.829,86.65,0.0,259423,NASDAQ Global Select,NASDAQ,US,False,False,True
+80,MPWR,"Monolithic Power Systems, Inc.",35203313840,Technology,Semiconductors,1.25,723.44,5.0,126918,NASDAQ Global Select,NASDAQ,US,False,False,True
+81,ON,ON Semiconductor Corporation,34399984500,Technology,Semiconductors,1.809,80.5,0.0,1802644,NASDAQ Global Select,NASDAQ,US,False,False,True
+82,NDAQ,"Nasdaq, Inc.",34253576850,Financial Services,Financial Data & Stock Exchanges,0.927,59.55,0.88,371776,NASDAQ Global Select,NASDAQ,US,False,False,True
+83,VRSK,"Verisk Analytics, Inc.",33674424550,Industrials,Consulting Services,0.787,234.845,1.56,173742,NASDAQ Global Select,NASDAQ,US,False,False,True
+84,CDW,CDW Corporation,33192711650,Technology,Information Technology Services,1.092,247.31,2.48,113203,NASDAQ Global Select,NASDAQ,US,False,False,True
+85,BIIB,Biogen Inc.,32924266500,Healthcare,Drug Manufacturers—General,-0.024,226.5,0.0,212354,NASDAQ Global Select,NASDAQ,US,False,False,True
+86,FANG,"Diamondback Energy, Inc.",32615650425,Energy,Oil & Gas E&P,1.912,182.775,8.12,183049,NASDAQ Global Select,NASDAQ,US,False,False,True
+87,DLTR,"Dollar Tree, Inc.",32014111680,Consumer Defensive,Discount Stores,0.921,146.94,0.0,585783,NASDAQ Global Select,NASDAQ,US,False,False,True
+88,BKR,Baker Hughes Company,30787068800,Energy,Oil & Gas Equipment & Services,1.403,30.76,0.84,1058160,NASDAQ Global Select,NASDAQ,US,False,False,True
+89,ZS,"Zscaler, Inc.",30031543200,Technology,Software—Infrastructure,0.844,200.4,0.0,622017,NASDAQ Global Select,NASDAQ,US,False,False,True
+90,FWONK,Formula One Group,29860929235,Communication Services,Entertainment,1.136,71.45,,272187,NASDAQ Global Select,NASDAQ,US,False,False,True
+91,XEL,Xcel Energy Inc.,29092950180,Utilities,Utilities—Regulated Electric,0.37,52.405,2.19,2983889,NASDAQ Global Select,NASDAQ,US,False,False,True
+92,GFS,GLOBALFOUNDRIES Inc.,28959967650,Technology,Semiconductors,1.644,52.35,0.0,311422,NASDAQ Global Select,NASDAQ,US,False,False,True
+93,ANSS,"ANSYS, Inc.",28931678144,Technology,Software—Application,1.155,332.48,0.0,69210,NASDAQ Global Select,NASDAQ,US,False,False,True
+94,MSTR,MicroStrategy Incorporated,27111204380,Technology,Software—Application,2.83,1597.775,0.0,1584574,NASDAQ Global Select,NASDAQ,US,False,False,True
+95,MDB,"MongoDB, Inc.",26752988328,Technology,Software—Infrastructure,1.237,370.655,0.0,987688,NASDAQ Global Market,NASDAQ,US,False,False,True
+96,TSCO,Tractor Supply Company,26699744970,Consumer Cyclical,Specialty Retail,0.842,247.41,4.4,115136,NASDAQ Global Select,NASDAQ,US,False,False,True
+97,EBAY,eBay Inc.,26498290000,Consumer Cyclical,Internet Retail,1.313,51.155,1.08,2077799,NASDAQ Global Select,NASDAQ,US,False,False,True
+98,SPLK,Splunk Inc.,26369407500,Technology,Software—Infrastructure,1.003,156.495,0.0,498392,NASDAQ Global Select,NASDAQ,US,False,False,True
+99,ULTA,"Ulta Beauty, Inc.",26368651693,Consumer Cyclical,Specialty Retail,1.311,542.995,0.0,178926,NASDAQ Global Select,NASDAQ,US,False,False,True
+100,TROW,"T. Rowe Price Group, Inc.",26288643780,Financial Services,Asset Management,1.402,117.54,4.96,235791,NASDAQ Global Select,NASDAQ,US,False,False,True
+101,FITB,Fifth Third Bancorp,24980410740,Financial Services,Banks—Regional,1.278,36.67,1.36,1345739,NASDAQ Global Select,NASDAQ,US,False,False,True
+102,TTWO,"Take-Two Interactive Software, Inc.",24972937470,Communication Services,Electronic Gaming & Multimedia,0.745,146.395,0.0,398997,NASDAQ Global Select,NASDAQ,US,False,False,True
+103,TW,Tradeweb Markets Inc.,24229806211,Financial Services,Capital Markets,0.922,102.7775,0.37,74580,NASDAQ Global Select,NASDAQ,US,False,False,True
+104,SBAC,SBA Communications Corporation,24085604110,Real Estate,REIT—Specialty,0.555,222.79,3.92,225630,NASDAQ Global Select,NASDAQ,US,False,False,True
+105,AXON,"Axon Enterprise, Inc.",23390555736,Industrials,Aerospace & Defense,0.932,310.62,0.0,150287,NASDAQ Global Select,NASDAQ,US,False,False,True
+106,ALGN,"Align Technology, Inc.",23192146080,Healthcare,Medical Devices,1.654,308.8,0.0,104167,NASDAQ Global Select,NASDAQ,US,False,False,True
+107,FCNCA,"First Citizens BancShares, Inc.",22141114906,Financial Services,Banks—Regional,0.885,1536.61,6.56,11953,NASDAQ Global Select,NASDAQ,US,False,False,True
+108,PTC,PTC Inc.,22074081280,Technology,Software—Application,1.172,184.64,0.0,82315,NASDAQ Global Select,NASDAQ,US,False,False,True
+109,WBD,"Warner Bros. Discovery, Inc.",21932813100,Communication Services,Entertainment,1.509,8.99,0.0,8234094,NASDAQ Global Select,NASDAQ,US,False,False,True
+110,ILMN,"Illumina, Inc.",21816970000,Healthcare,Diagnostics & Research,1.192,137.3,0.0,399144,NASDAQ Global Select,NASDAQ,US,False,False,True
+111,ZM,"Zoom Video Communications, Inc.",21450849896,Technology,Software—Application,-0.067,69.745,0.0,1871927,NASDAQ Global Select,NASDAQ,US,False,False,True
+112,NTAP,"NetApp, Inc.",21126813490,Technology,Computer Hardware,1.254,102.37,2.0,487086,NASDAQ Global Select,NASDAQ,US,False,False,True
+113,APP,AppLovin Corporation,21125153516,Technology,Software—Application,1.873,61.77,0.0,1399889,NASDAQ Global Select,NASDAQ,US,False,False,True
+114,JBHT,"J.B. Hunt Transport Services, Inc.",20907515200,Industrials,Integrated Freight & Logistics,1.114,202.4,1.72,93738,NASDAQ Global Select,NASDAQ,US,False,False,True
+115,ENTG,"Entegris, Inc.",20820822240,Technology,Semiconductor Equipment & Materials,1.316,138.44,0.4,271796,NASDAQ Global Select,NASDAQ,US,False,False,True
+116,STLD,"Steel Dynamics, Inc.",20310265100,Basic Materials,Steel,1.419,128.42,1.84,194221,NASDAQ Global Select,NASDAQ,US,False,False,True
+117,COO,"The Cooper Companies, Inc.",20163796200,Healthcare,Medical Instruments & Supplies,0.932,101.45,0.02,286568,NASDAQ Global Select,NASDAQ,US,False,False,True
+118,WDC,Western Digital Corporation,20095786200,Technology,Computer Hardware,1.54,61.67,0.0,1510454,NASDAQ Global Select,NASDAQ,US,False,False,True
+119,DKNG,DraftKings Inc.,19617340400,Consumer Cyclical,Gambling,1.858,41.42,0.0,2761683,NASDAQ Global Select,NASDAQ,US,False,False,True
+120,CELH,"Celsius Holdings, Inc.",19574399405,Consumer Defensive,Beverages—Non-Alcoholic,1.864,84.085,0.0,1689352,NASDAQ Capital Market,NASDAQ,US,False,False,True
+121,LPLA,LPL Financial Holdings Inc.,19573693700,Financial Services,Capital Markets,0.848,262.9,1.2,45507,NASDAQ Global Select,NASDAQ,US,False,False,True
+122,HBAN,Huntington Bancshares Incorporated,19473065750,Financial Services,Banks—Regional,1.115,13.445,0.62,3857071,NASDAQ Global Select,NASDAQ,US,False,False,True
+123,VRSN,"VeriSign, Inc.",19331431000,Technology,Software—Infrastructure,0.883,191.59,0.0,93610,NASDAQ Global Select,NASDAQ,US,False,False,True
+124,ALNY,"Alnylam Pharmaceuticals, Inc.",18899456760,Healthcare,Biotechnology,0.391,150.06,0.0,97774,NASDAQ Global Select,NASDAQ,US,False,False,True
+125,ERIE,Erie Indemnity Company,18809125302,Financial Services,Insurance Brokers,0.421,407.22,5.1,19168,NASDAQ Global Select,NASDAQ,US,False,False,True
+126,PFG,"Principal Financial Group, Inc.",18691359660,Financial Services,Insurance—Diversified,1.244,79.245,2.76,278590,NASDAQ Global Select,NASDAQ,US,False,False,True
+127,WBA,"Walgreens Boots Alliance, Inc.",18670440400,Healthcare,Pharmaceutical Retailers,0.718,21.65,1.0,2685429,NASDAQ Global Select,NASDAQ,US,False,False,True
+128,CINF,Cincinnati Financial Corporation,18332938300,Financial Services,Insurance—Property & Casualty,0.631,117.02,3.24,150167,NASDAQ Global Select,NASDAQ,US,False,False,True
+129,BGNE,"BeiGene, Ltd.",18164428316,Healthcare,Biotechnology,0.619,165.14,0.0,41500,NASDAQ Global Select,NASDAQ,US,False,False,True
+130,HOLX,"Hologic, Inc.",17905356960,Healthcare,Medical Instruments & Supplies,1.0,76.28,0.0,234381,NASDAQ Global Select,NASDAQ,US,False,False,True
+131,EXPE,"Expedia Group, Inc.",17865114163,Consumer Cyclical,Travel Services,1.865,136.62,0.0,399715,NASDAQ Global Select,NASDAQ,US,False,False,True
+132,WMG,Warner Music Group Corp.,17584647929,Communication Services,Entertainment,1.472,33.955,0.68,89135,NASDAQ Global Select,NASDAQ,US,False,False,True
+133,ENPH,"Enphase Energy, Inc.",17457249810,Technology,Solar,1.473,128.59,0.0,879562,NASDAQ Global Market,NASDAQ,US,False,False,True
+134,FSLR,"First Solar, Inc.",17361894010,Technology,Solar,1.406,162.49,0.0,714807,NASDAQ Global Select,NASDAQ,US,False,False,True
+135,OKTA,"Okta, Inc.",17275437400,Technology,Software—Infrastructure,0.998,107.9,0.0,480269,NASDAQ Global Select,NASDAQ,US,False,False,True
+136,SWKS,"Skyworks Solutions, Inc.",17195454320,Technology,Semiconductors,1.372,107.32,2.72,481052,NASDAQ Global Select,NASDAQ,US,False,False,True
+137,TPG,TPG Inc.,17035202656,Financial Services,Asset Management,1.622,44.55,1.34,122710,NASDAQ Global Select,NASDAQ,US,False,False,True
+138,CG,The Carlyle Group Inc.,16988578310,Financial Services,Asset Management,1.796,46.915,1.4,555220,NASDAQ Global Select,NASDAQ,US,False,False,True
+139,AKAM,"Akamai Technologies, Inc.",16812253500,Technology,Software—Infrastructure,0.723,110.95,0.0,623586,NASDAQ Global Select,NASDAQ,US,False,False,True
+140,BMRN,BioMarin Pharmaceutical Inc.,16267644720,Healthcare,Biotechnology,0.309,86.22,0.0,164416,NASDAQ Global Select,NASDAQ,US,False,False,True
+141,TER,"Teradyne, Inc.",16180661700,Technology,Semiconductor Equipment & Materials,1.552,105.7,0.48,280958,NASDAQ Global Select,NASDAQ,US,False,False,True
+142,SIRI,Sirius XM Holdings Inc.,15946209000,Communication Services,Entertainment,1.062,4.15,0.11,5012549,NASDAQ Global Select,NASDAQ,US,False,False,True
+143,MANH,"Manhattan Associates, Inc.",15690761732,Technology,Software—Application,1.445,254.86,0.0,58010,NASDAQ Global Select,NASDAQ,US,False,False,True
+144,POOL,Pool Corporation,15465992362,Industrials,Industrial Distribution,1.008,403.01,4.4,62466,NASDAQ Global Select,NASDAQ,US,False,False,True
+145,NTNX,"Nutanix, Inc.",15449669669,Technology,Software—Infrastructure,1.289,63.6601,0.0,738431,NASDAQ Global Select,NASDAQ,US,False,False,True
+146,TRMB,Trimble Inc.,15424229860,Technology,Scientific & Technical Instruments,1.499,62.78,0.0,154911,NASDAQ Global Select,NASDAQ,US,False,False,True
+147,SSNC,"SS&C Technologies Holdings, Inc.",15407994350,Technology,Software—Application,1.432,62.35,0.96,137484,NASDAQ Global Select,NASDAQ,US,False,False,True
+148,SAIA,"Saia, Inc.",15259723440,Industrials,Trucking,1.619,573.95,0.0,47287,NASDAQ Global Select,NASDAQ,US,False,False,True
+149,HOOD,"Robinhood Markets, Inc.",15094688348,Technology,Software—Infrastructure,1.634,17.26,0.0,6679007,NASDAQ Global Select,NASDAQ,US,False,False,True
+150,NWS,News Corporation,15046527464,Communication Services,Entertainment,1.346,27.19,0.2,177503,NASDAQ Global Select,NASDAQ,US,False,False,True
+151,NDSN,Nordson Corporation,14973489882,Industrials,Specialty Industrial Machinery,1.005,261.81,2.72,25219,NASDAQ Global Select,NASDAQ,US,False,False,True
+152,HST,"Host Hotels & Resorts, Inc.",14589602170,Real Estate,REIT—Hotel & Motel,1.325,20.735,0.8,543445,NASDAQ Global Select,NASDAQ,US,False,False,True
+153,BSY,"Bentley Systems, Incorporated",14571965002,Technology,Software—Application,1.106,49.01,0.24,108764,NASDAQ Global Select,NASDAQ,US,False,False,True
+154,ZBRA,Zebra Technologies Corporation,14481847590,Technology,Communication Equipment,1.784,281.85,0.0,54096,NASDAQ Global Select,NASDAQ,US,False,False,True
+155,LECO,"Lincoln Electric Holdings, Inc.",14318209144,Industrials,Tools & Accessories,1.209,251.98,2.84,34889,NASDAQ Global Select,NASDAQ,US,False,False,True
+156,VTRS,Viatris Inc.,14105006404,Healthcare,Drug Manufacturers—Specialty & Generic,1.142,11.8772,0.48,2690533,NASDAQ Global Select,NASDAQ,US,False,False,True
+157,GEN,Gen Digital Inc.,14069341900,Technology,Software—Infrastructure,1.092,22.09,0.5,612368,NASDAQ Global Select,NASDAQ,US,False,False,True
+158,UAL,"United Airlines Holdings, Inc.",14027703864,Industrials,Airlines,1.543,42.764,0.0,2009004,NASDAQ Global Select,NASDAQ,US,False,False,True
+159,NBIX,"Neurocrine Biosciences, Inc.",13832537575,Healthcare,Drug Manufacturers—Specialty & Generic,0.244,139.01,0.0,178137,NASDAQ Global Select,NASDAQ,US,False,False,True
+160,LKQ,LKQ Corporation,13644946260,Consumer Cyclical,Auto Parts,1.286,51.18,1.2,137493,NASDAQ Global Select,NASDAQ,US,False,False,True
+161,INCY,Incyte Corporation,13543408320,Healthcare,Biotechnology,0.655,60.32,0.0,534386,NASDAQ Global Select,NASDAQ,US,False,False,True
+162,RPRX,Royalty Pharma plc,13525833760,Healthcare,Biotechnology,0.446,30.28,0.84,300431,NASDAQ Global Select,NASDAQ,US,False,False,True
+163,FOX,Fox Corporation,13323165946,Communication Services,Entertainment,0.794,26.755,0.52,278474,NASDAQ Global Select,NASDAQ,US,False,False,True
+164,Z,"Zillow Group, Inc.",13314367552,Communication Services,Internet Content & Information,1.842,57.51,0.0,490448,NASDAQ Global Select,NASDAQ,US,False,False,True
+165,AZPN,"Aspen Technology, Inc.",13221011017,Technology,Software—Application,0.762,207.81,2.1,36112,NASDAQ Global Select,NASDAQ,US,False,False,True
+166,MORN,"Morningstar, Inc.",13141912474,Financial Services,Financial Data & Stock Exchanges,1.148,307.57,1.62,8368,NASDAQ Global Select,NASDAQ,US,False,False,True
+167,RIVN,"Rivian Automotive, Inc.",12811200000,Consumer Cyclical,Auto Manufacturers,1.894,13.345,0.0,28606245,NASDAQ Global Select,NASDAQ,US,False,False,True
+168,LNT,Alliant Energy Corporation,12689140360,Utilities,Utilities—Regulated Electric,0.534,49.5476,1.92,227883,NASDAQ Global Select,NASDAQ,US,False,False,True
+169,JKHY,"Jack Henry & Associates, Inc.",12592995914,Technology,Information Technology Services,0.664,172.82,2.2,38675,NASDAQ Global Select,NASDAQ,US,False,False,True
+170,PODD,Insulet Corporation,12581031944,Healthcare,Medical Devices,0.978,179.92,0.0,160506,NASDAQ Global Select,NASDAQ,US,False,False,True
+171,BRKR,Bruker Corporation,12515615542,Healthcare,Medical Devices,1.166,90.9096,0.2,174525,NASDAQ Global Select,NASDAQ,US,False,False,True
+172,GLPI,"Gaming and Leisure Properties, Inc.",12342814600,Real Estate,REIT—Specialty,0.936,46.225,2.94,200918,NASDAQ Global Select,NASDAQ,US,False,False,True
+173,MEDP,"Medpace Holdings, Inc.",12324328731,Healthcare,Diagnostics & Research,1.383,400.67,0.0,59832,NASDAQ Global Select,NASDAQ,US,False,False,True
+174,KRTX,"Karuna Therapeutics, Inc.",12171945470,Healthcare,Biotechnology,1.149,319.075,0.0,31124,NASDAQ Global Market,NASDAQ,US,False,False,True
+175,LEGN,Legend Biotech Corporation,12018974842,Healthcare,Biotechnology,0.039,66.115,0.0,388843,NASDAQ Global Select,NASDAQ,US,False,False,True
+176,ARCC,Ares Capital Corporation,11976157413,Financial Services,Asset Management,1.033,20.5666,1.92,1585776,NASDAQ Global Market,NASDAQ,US,False,False,True
+177,LAMR,Lamar Advertising Company,11918205834,Real Estate,REIT—Specialty,1.516,116.77,5.2,48434,NASDAQ Global Select,NASDAQ,US,False,False,True
+178,TECH,Bio-Techne Corporation,11897076520,Healthcare,Biotechnology,1.223,75.685,0.32,203184,NASDAQ Global Select,NASDAQ,US,False,False,True
+179,AFRM,"Affirm Holdings, Inc.",11880631324,Technology,Software—Infrastructure,3.6,38.715,0.0,2394357,NASDAQ Global Select,NASDAQ,US,False,False,True
+180,EVRG,"Evergy, Inc.",11840284200,Utilities,Utilities—Regulated Electric,0.557,51.54,2.57,425002,NASDAQ Global Select,NASDAQ,US,False,False,True
+181,DOCU,"DocuSign, Inc.",11830211340,Technology,Software—Application,0.87,58.01,0.0,2993750,NASDAQ Global Select,NASDAQ,US,False,False,True
+182,SRPT,"Sarepta Therapeutics, Inc.",11684068132,Healthcare,Biotechnology,0.933,124.4901,0.0,122027,NASDAQ Global Select,NASDAQ,US,False,False,True
+183,PAA,"Plains All American Pipeline, L.P.",11623757180,Energy,Oil & Gas Midstream,1.551,16.58,1.27,294918,NASDAQ Global Select,NASDAQ,US,False,False,True
+184,UTHR,United Therapeutics Corporation,11609802535,Healthcare,Biotechnology,0.521,246.71,0.0,76947,NASDAQ Global Select,NASDAQ,US,False,False,True
+185,WYNN,"Wynn Resorts, Limited",11593124164,Consumer Cyclical,Resorts & Casinos,1.947,103.438,1.0,576519,NASDAQ Global Select,NASDAQ,US,False,False,True
+186,REG,Regency Centers Corporation,11353454290,Real Estate,REIT—Retail,1.179,61.51,2.68,251808,NASDAQ Global Select,NASDAQ,US,False,False,True
+187,FFIV,"F5, Inc.",11280340538,Technology,Software—Infrastructure,1.105,191.8223,0.0,71536,NASDAQ Global Select,NASDAQ,US,False,False,True
+188,QRVO,"Qorvo, Inc.",11278795770,Technology,Semiconductors,1.563,116.82,0.0,167724,NASDAQ Global Select,NASDAQ,US,False,False,True
+189,CASY,"Casey's General Stores, Inc.",11131281199,Consumer Cyclical,Specialty Retail,0.826,299.965,1.72,78138,NASDAQ Global Select,NASDAQ,US,False,False,True
+190,FIVE,"Five Below, Inc.",11126868480,Consumer Cyclical,Specialty Retail,1.209,201.6,0.0,147911,NASDAQ Global Select,NASDAQ,US,False,False,True
+191,LSCC,Lattice Semiconductor Corporation,11085922845,Technology,Semiconductors,1.384,80.595,0.0,530357,NASDAQ Global Select,NASDAQ,US,False,False,True
+192,EXAS,Exact Sciences Corporation,11032546525,Healthcare,Diagnostics & Research,1.226,60.775,0.0,321165,NASDAQ Capital Market,NASDAQ,US,False,False,True
+193,RGEN,Repligen Corporation,10805092914,Healthcare,Medical Instruments & Supplies,1.03,193.74,0.0,40671,NASDAQ Global Select,NASDAQ,US,False,False,True
+194,DOX,Amdocs Limited,10793910300,Technology,Software—Infrastructure,0.694,92.65,1.92,78215,NASDAQ Global Select,NASDAQ,US,False,False,True
+195,CHK,Chesapeake Energy Corporation,10790587418,Energy,Oil & Gas E&P,0.498,82.5,2.91,786890,NASDAQ Global Select,NASDAQ,US,False,False,True
+196,EWBC,"East West Bancorp, Inc.",10752903700,Financial Services,Banks—Diversified,1.375,76.79,2.2,393196,NASDAQ Global Select,NASDAQ,US,False,False,True
+197,NTRA,"Natera, Inc.",10536611360,Healthcare,Diagnostics & Research,1.105463,88.43,0.0,207053,NASDAQ Global Select,NASDAQ,US,False,False,True
+198,CFLT,"Confluent, Inc.",10002336443,Technology,Software—Infrastructure,0.947,31.995,0.0,858439,NASDAQ Global Select,NASDAQ,US,False,False,True
+199,WING,Wingstop Inc.,10001876868,Consumer Cyclical,Restaurants,1.662,340.92,0.88,308951,NASDAQ Global Select,NASDAQ,US,False,False,True
+200,TXRH,"Texas Roadhouse, Inc.",9913948635,Consumer Cyclical,Restaurants,1.002,148.35,2.26,105868,NASDAQ Global Select,NASDAQ,US,False,False,True
+201,TTEK,"Tetra Tech, Inc.",9828193648,Industrials,Engineering & Construction,0.957,183.82,1.04,45695,NASDAQ Global Select,NASDAQ,US,False,False,True
+202,LSXMK,The Liberty SiriusXM Group,9732529719,Communication Services,Broadcasting,1.141,29.8,0.0,285100,NASDAQ Global Select,NASDAQ,US,False,False,True
+203,DUOL,"Duolingo, Inc.",9661853461,Technology,Software—Application,0.867,225.345,0.0,291075,NASDAQ Global Select,NASDAQ,US,False,False,True
+204,HSIC,"Henry Schein, Inc.",9632809760,Healthcare,Medical Distribution,0.871,74.96,0.0,225141,NASDAQ Global Select,NASDAQ,US,False,False,True
+205,AAL,American Airlines Group Inc.,9513553734,Industrials,Airlines,1.577,14.5299,0.0,7014548,NASDAQ Global Select,NASDAQ,US,False,False,True
+206,SWAV,"ShockWave Medical, Inc.",9507949416,Healthcare,Medical Devices,0.895,254.245,0.0,70039,NASDAQ Global Select,NASDAQ,US,False,False,True
+207,CZR,"Caesars Entertainment, Inc.",9416620500,Consumer Cyclical,Resorts & Casinos,2.811,43.535,0.0,546909,NASDAQ Global Select,NASDAQ,US,False,False,True
+208,COHR,"Coherent, Inc.",9307234662,Technology,Scientific & Technical Instruments,1.679,61.47,0.0,727833,NASDAQ Global Select,NASDAQ,US,False,False,True
+209,APA,APA Corporation,9287832400,Energy,Oil & Gas E&P,3.268,30.8,1.0,926606,NASDAQ Global Select,NASDAQ,US,False,False,True
+210,ROKU,"Roku, Inc.",9254445176,Communication Services,Entertainment,1.655,64.47,0.0,1129533,NASDAQ Global Select,NASDAQ,US,False,False,True
+211,MTCH,"Match Group, Inc.",9220952860,Communication Services,Internet Content & Information,1.484,34.405,0.0,1001666,NASDAQ Global Select,NASDAQ,US,False,False,True
+212,PCTY,Paylocity Holding Corporation,9215535383,Technology,Software—Application,0.869,163.595,0.0,59486,NASDAQ Global Select,NASDAQ,US,False,False,True
+213,CART,Instacart (Maplebear Inc.),9178220325,Consumer Cyclical,Internet Retail,,34.44,0.0,644313,NASDAQ Global Market,NASDAQ,US,False,False,True
+214,SEIC,SEI Investments Company,9069855600,Financial Services,Asset Management,1.01,69.05,0.92,111646,NASDAQ Global Select,NASDAQ,US,False,False,True
+215,LNW,"Light & Wonder, Inc.",8949693159,Consumer Cyclical,Gambling,1.775,99.63,0.0,87076,NASDAQ Global Select,NASDAQ,US,False,False,True
+216,WWD,"Woodward, Inc.",8859658605,Industrials,Aerospace & Defense,1.35,146.93,1.0,56591,NASDAQ Global Select,NASDAQ,US,False,False,True
+217,WSC,WillScot Mobile Mini Holdings Corp.,8750064260,Industrials,Rental & Leasing Services,1.348,46.06,0.0,211094,NASDAQ Capital Market,NASDAQ,US,False,False,True
+218,CHRW,"C.H. Robinson Worldwide, Inc.",8687339120,Industrials,Integrated Freight & Logistics,0.725,74.32,2.44,347497,NASDAQ Global Select,NASDAQ,US,False,False,True
+219,GTLB,GitLab Inc.,8679040000,Technology,Software—Application,0.0,56.8,0.0,894612,NASDAQ Global Select,NASDAQ,US,False,False,True
+220,NXT,Nextracker Inc.,8673007988,Technology,Solar,,59.945,0.0,744550,NASDAQ Global Select,NASDAQ,US,False,False,True
+221,MKSI,"MKS Instruments, Inc.",8504636382,Technology,Scientific & Technical Instruments,1.67,126.83,0.88,100787,NASDAQ Global Select,NASDAQ,US,False,False,True
+222,ETSY,"Etsy, Inc.",8460328800,Consumer Cyclical,Internet Retail,2.021,71.4,0.0,661404,NASDAQ Global Select,NASDAQ,US,False,False,True
+223,GNTX,Gentex Corporation,8360565072,Consumer Cyclical,Auto Parts,0.987,36.116,0.48,196255,NASDAQ Global Select,NASDAQ,US,False,False,True
+224,LBRDA,Liberty Broadband Corporation,8358698481,Communication Services,Telecom Services,0.962,58.15,0.0,35684,NASDAQ Global Select,NASDAQ,US,False,False,True
+225,MKTX,MarketAxess Holdings Inc.,8323430624,Financial Services,Capital Markets,0.767232,220.96,2.88,240203,NASDAQ Global Select,NASDAQ,US,False,False,True
+226,APPF,"AppFolio, Inc.",8302430330,Technology,Software—Application,0.805,227.65,0.0,18228,NASDAQ Global Market,NASDAQ,US,False,False,True
+227,CHDN,Churchill Downs Incorporated,8289444274,Consumer Cyclical,Gambling,1.021,112.51,0.38,107964,NASDAQ Global Select,NASDAQ,US,False,False,True
+228,AMKR,"Amkor Technology, Inc.",8268118500,Technology,Semiconductors,1.967,33.625,0.32,251203,NASDAQ Global Select,NASDAQ,US,False,False,True
+229,MIDD,The Middleby Corporation,8224905696,Industrials,Specialty Industrial Machinery,1.558,153.44,0.0,34462,NASDAQ Global Select,NASDAQ,US,False,False,True
+230,DBX,"Dropbox, Inc.",8112866720,Technology,Software—Infrastructure,0.711,23.585,0.0,1628434,NASDAQ Global Select,NASDAQ,US,False,False,True
+231,OLED,Universal Display Corporation,7927106816,Technology,Semiconductor Equipment & Materials,1.457,167.36,1.6,72680,NASDAQ Global Select,NASDAQ,US,False,False,True
+232,WFRD,Weatherford International plc,7914606016,Energy,Oil & Gas Equipment & Services,1.869,109.4399,0.0,108160,NASDAQ Global Select,NASDAQ,US,False,False,True
+233,PCVX,"Vaxcyte, Inc.",7764723000,Healthcare,Biotechnology,0.913,71.625,0.0,72259,NASDAQ Global Select,NASDAQ,US,False,False,True
+234,PPC,Pilgrim's Pride Corporation,7731226150,Consumer Defensive,Packaged Foods,0.82,32.65,0.0,108484,NASDAQ Global Select,NASDAQ,US,False,False,True
+235,COKE,"Coca-Cola Consolidated, Inc.",7721950438,Consumer Defensive,Beverages—Non-Alcoholic,0.834,823.79,2.0,12755,NASDAQ Global Select,NASDAQ,US,False,False,True
+236,PARA,Paramount Global,7702073668,Communication Services,Entertainment,1.783,11.185,0.2,3941334,NASDAQ Global Select,NASDAQ,US,False,False,True
+237,CROX,"Crocs, Inc.",7619181090,Consumer Cyclical,Footwear & Accessories,1.999,125.94,0.0,281043,NASDAQ Global Select,NASDAQ,US,False,False,True
+238,RGLD,"Royal Gold, Inc.",7532829262,Basic Materials,Gold,0.647,114.6682,1.6,153293,NASDAQ Global Select,NASDAQ,US,False,False,True
+239,SOFI,"SoFi Technologies, Inc.",7520972574,Financial Services,Credit Services,1.814,7.7001,0.0,19144347,NASDAQ Global Select,NASDAQ,US,False,False,True
+240,CERE,"Cerevel Therapeutics Holdings, Inc.",7519062160,Healthcare,Biotechnology,1.496,41.41,0.0,148651,NASDAQ Capital Market,NASDAQ,US,False,False,True
+241,ACHC,"Acadia Healthcare Company, Inc.",7488799020,Healthcare,Medical Care Facilities,1.327,81.145,0.0,92136,NASDAQ Global Select,NASDAQ,US,False,False,True
+242,IEP,Icahn Enterprises L.P.,7469507433,Industrials,Conglomerates,0.82,17.4101,4.0,607546,NASDAQ Global Select,NASDAQ,US,False,False,True
+243,APLS,"Apellis Pharmaceuticals, Inc.",7439909400,Healthcare,Biotechnology,0.901,61.7,0.0,139049,NASDAQ Global Select,NASDAQ,US,False,False,True
+244,HAS,"Hasbro, Inc.",7167167240,Consumer Cyclical,Leisure,0.713,51.64,2.8,268938,NASDAQ Global Select,NASDAQ,US,False,False,True
+245,VKTX,"Viking Therapeutics, Inc.",7149695280,Healthcare,Biotechnology,1.056,65.38,0.0,3114975,NASDAQ Capital Market,NASDAQ,US,False,False,True
+246,LCID,"Lucid Group, Inc.",7084154000,Consumer Cyclical,Auto Manufacturers,1.052,3.08,0.0,8444300,NASDAQ Global Select,NASDAQ,US,False,False,True
+247,MAT,"Mattel, Inc.",7021388958,Consumer Cyclical,Leisure,0.959,19.8775,0.0,387780,NASDAQ Global Select,NASDAQ,US,False,False,True
+248,CGNX,Cognex Corporation,7012965240,Technology,Scientific & Technical Instruments,1.479,40.86,0.3,198328,NASDAQ Global Select,NASDAQ,US,False,False,True
+249,LYFT,"Lyft, Inc.",7011803280,Technology,Software—Application,1.956,17.922,0.0,3383038,NASDAQ Global Select,NASDAQ,US,False,False,True
+250,XRAY,DENTSPLY SIRONA Inc.,7010943030,Healthcare,Medical Instruments & Supplies,0.998,33.81,0.64,299097,NASDAQ Global Select,NASDAQ,US,False,False,True
+251,HQY,"HealthEquity, Inc.",7008242016,Healthcare,Health Information Services,0.53,81.68,0.0,49063,NASDAQ Global Select,NASDAQ,US,False,False,True
+252,MASI,Masimo Corporation,6989833720,Healthcare,Medical Instruments & Supplies,0.951,132.1,0.0,70424,NASDAQ Global Select,NASDAQ,US,False,False,True
+253,ENSG,"The Ensign Group, Inc.",6965347844,Healthcare,Medical Care Facilities,0.942,122.92,0.23,82462,NASDAQ Global Select,NASDAQ,US,False,False,True
+254,UFPI,"UFP Industries, Inc.",6908700273,Basic Materials,Lumber & Wood Production,1.484,112.11,1.32,45622,NASDAQ Global Select,NASDAQ,US,False,False,True
+255,CBSH,"Commerce Bancshares, Inc.",6821140040,Financial Services,Banks—Regional,0.79,52.52,1.08,31679,NASDAQ Global Select,NASDAQ,US,False,False,True
+256,AGNC,AGNC Investment Corp.,6814622075,Real Estate,REIT—Mortgage,1.437,9.805,1.44,5356856,NASDAQ Global Select,NASDAQ,US,False,False,True
+257,ALTR,Altair Engineering Inc.,6794619012,Technology,Software—Infrastructure,1.428,82.37,0.0,34772,NASDAQ Global Select,NASDAQ,US,False,False,True
+258,CACC,Credit Acceptance Corporation,6783136020,Financial Services,Credit Services,1.458,551.34,0.0,12842,NASDAQ Global Select,NASDAQ,US,False,False,True
+259,EXEL,"Exelixis, Inc.",6764258140,Healthcare,Biotechnology,0.532,22.31,0.0,436483,NASDAQ Global Select,NASDAQ,US,False,False,True
+260,SPSC,"SPS Commerce, Inc.",6747885119,Technology,Software—Infrastructure,0.789,182.505,0.0,24151,NASDAQ Global Select,NASDAQ,US,False,False,True
+261,NFE,New Fortress Energy Inc.,6706662140,Utilities,Utilities—Regulated Gas,1.518,32.71,0.4,331927,NASDAQ Global Select,NASDAQ,US,False,False,True
+262,LSTR,"Landstar System, Inc.",6700810087,Industrials,Integrated Freight & Logistics,0.834,187.61,1.29,42074,NASDAQ Global Select,NASDAQ,US,False,False,True
+263,CHRD,Chord Energy Corporation,6667390290,Energy,Oil & Gas E&P,0.914,160.9,10.33,221104,NASDAQ Global Select,NASDAQ,US,False,False,True
+264,MTSI,"MACOM Technology Solutions Holdings, Inc.",6633776555,Technology,Semiconductors,1.629,92.05,0.0,53374,NASDAQ Global Select,NASDAQ,US,False,False,True
+265,RMBS,Rambus Inc.,6632954240,Technology,Semiconductors,1.154,61.48,0.0,441324,NASDAQ Global Select,NASDAQ,US,False,False,True
+266,CYTK,"Cytokinetics, Incorporated",6576869250,Healthcare,Biotechnology,0.694,63.85,0.0,390400,NASDAQ Global Select,NASDAQ,US,False,False,True
+267,AAON,"AAON, Inc.",6455967830,Industrials,Building Products & Equipment,0.916,79.135,0.32,85098,NASDAQ Global Select,NASDAQ,US,False,False,True
+268,ITCI,"Intra-Cellular Therapies, Inc.",6429934224,Healthcare,Drug Manufacturers—Specialty & Generic,1.016,66.42,0.0,79093,NASDAQ Global Select,NASDAQ,US,False,False,True
+269,PNFP,"Pinnacle Financial Partners, Inc.",6427559246,Financial Services,Banks—Regional,1.073,83.54,0.88,129064,NASDAQ Global Select,NASDAQ,US,False,False,True
+270,IONS,"Ionis Pharmaceuticals, Inc.",6420375600,Healthcare,Biotechnology,0.397,44.05,0.0,139294,NASDAQ Global Select,NASDAQ,US,False,False,True
+271,ZI,ZoomInfo Technologies Inc.,6392283170,Technology,Software—Application,1.176,16.835,0.0,1472019,NASDAQ Global Select,NASDAQ,US,False,False,True
+272,SSB,SouthState Corporation,6354908352,Financial Services,Banks—Regional,0.737,83.34,2.08,23642,NASDAQ Global Select,NASDAQ,US,False,False,True
+273,SIGI,"Selective Insurance Group, Inc.",6337371309,Financial Services,Insurance—Property & Casualty,0.546,104.505,1.3,16607,NASDAQ Global Select,NASDAQ,US,False,False,True
+274,SFM,"Sprouts Farmers Market, Inc.",6310386018,Consumer Defensive,Grocery Stores,0.49,62.3482,0.0,237242,NASDAQ Global Select,NASDAQ,US,False,False,True
+275,NOVT,Novanta Inc.,6282282330,Technology,Scientific & Technical Instruments,1.33,175.26,0.0,7821,NASDAQ Global Select,NASDAQ,US,False,False,True
+276,QLYS,"Qualys, Inc.",6264694166,Technology,Software—Infrastructure,0.519,169.42,0.0,84977,NASDAQ Global Select,NASDAQ,US,False,False,True
+277,ZION,"Zions Bancorporation, National Association",6146210175,Financial Services,Banks—Regional,1.117,41.485,1.64,529445,NASDAQ Global Select,NASDAQ,US,False,False,True
+278,VNOM,Viper Energy Partners LP,6136878181,Energy,Oil & Gas Midstream,1.82,34.7,1.82,198320,NASDAQ Global Select,NASDAQ,US,False,False,True
+279,BPOP,"Popular, Inc.",6090282435,Financial Services,Banks—Regional,0.838,84.2899,2.48,106532,NASDAQ Global Select,NASDAQ,US,False,False,True
+280,FYBR,"Frontier Communications Parent, Inc.",6074187490,Communication Services,Telecom Services,1.049,24.71,0.0,222432,NASDAQ Global Select,NASDAQ,US,False,False,True
+281,REYN,Reynolds Consumer Products Inc.,6067160010,Consumer Cyclical,Packaging & Containers,0.493,28.89,0.92,58076,NASDAQ Global Select,NASDAQ,US,False,False,True
+282,CHX,ChampionX Corporation,6061692000,Energy,Oil & Gas Equipment & Services,2.437,31.72,0.38,138154,NASDAQ Global Select,NASDAQ,US,False,False,True
+283,ALGM,"Allegro MicroSystems, Inc.",6027462460,Technology,Semiconductors,1.85,31.21,0.0,232263,NASDAQ Global Select,NASDAQ,US,False,False,True
+284,DRS,"Leonardo DRS, Inc.",6014456685,Industrials,Aerospace & Defense,0.0,22.91,0.0,91979,NASDAQ Global Select,NASDAQ,US,False,False,True
+285,HLNE,Hamilton Lane Incorporated,5993496925,Financial Services,Asset Management,1.191,107.27,1.78,12117,NASDAQ Global Select,NASDAQ,US,False,False,True
+286,NSIT,"Insight Enterprises, Inc.",5962377090,Technology,Electronics & Computer Distribution,1.514,182.95,0.0,78706,NASDAQ Global Select,NASDAQ,US,False,False,True
+287,WTFC,Wintrust Financial Corporation,5937965116,Financial Services,Banks—Regional,1.206,96.595,1.8,79528,NASDAQ Global Select,NASDAQ,US,False,False,True
+288,RCM,R1 RCM Inc.,5919643800,Healthcare,Health Information Services,0.796,14.085,0.0,1781690,NASDAQ Global Select,NASDAQ,US,False,False,True
+289,LFUS,"Littelfuse, Inc.",5904794763,Technology,Electronic Components,1.335,236.97,2.6,28773,NASDAQ Global Select,NASDAQ,US,False,False,True
+290,MARA,"Marathon Digital Holdings, Inc.",5874938876,Financial Services,Capital Markets,5.403,21.9509,0.0,36390396,NASDAQ Capital Market,NASDAQ,US,False,False,True
+291,FRSH,Freshworks Inc.,5833392573,Technology,Software—Application,0.93,19.07,0.0,391456,NASDAQ Global Select,NASDAQ,US,False,False,True
+292,JSM,Navient Corporation SR NT 6% 121543,5786363062,Financial Services,Credit Services,0.0,21.1101,1.875,765,NASDAQ Global Select,NASDAQ,US,False,False,True
+293,FTAIM,FTAI Aviation Ltd.,5727546101,Industrials,Rental & Leasing Services,1.933,25.4,2.38,3266,NASDAQ Global Select,NASDAQ,US,False,False,True
+294,OPCH,"Option Care Health, Inc.",5676854560,Healthcare,Medical Care Facilities,1.303,32.72,0.0,67294,NASDAQ Global Select,NASDAQ,US,False,False,True
+295,BOKF,BOK Financial Corporation,5631640487,Financial Services,Banks—Regional,1.196,86.555,2.2,21661,NASDAQ Global Select,NASDAQ,US,False,False,True
+296,LANC,Lancaster Colony Corporation,5610981480,Consumer Defensive,Packaged Foods,0.359,203.88,3.6,7574,NASDAQ Global Select,NASDAQ,US,False,False,True
+297,FTAI,FTAI Aviation Ltd,5557638240,Industrials,Rental & Leasing Services,1.933,55.44,1.2,130330,NASDAQ Global Select,NASDAQ,US,False,False,True
+298,BPMC,Blueprint Medicines Corporation,5510907000,Healthcare,Biotechnology,0.633,90.0,0.0,60612,NASDAQ Global Select,NASDAQ,US,False,False,True
+299,TENB,"Tenable Holdings, Inc.",5509707400,Technology,Software—Infrastructure,0.946,46.645,0.0,975017,NASDAQ Global Select,NASDAQ,US,False,False,True
+300,NXST,"Nexstar Media Group, Inc.",5509518228,Communication Services,Entertainment,1.503,164.815,6.76,69892,NASDAQ Global Select,NASDAQ,US,False,False,True
+301,RVMD,"Revolution Medicines, Inc.",5441357600,Healthcare,Biotechnology,1.532,33.04,0.0,386106,NASDAQ Global Select,NASDAQ,US,False,False,True
+302,PEGA,Pegasystems Inc.,5419004425,Technology,Software—Application,1.064,64.585,0.12,78732,NASDAQ Global Select,NASDAQ,US,False,False,True
+303,VRNS,"Varonis Systems, Inc.",5412649440,Technology,Software—Infrastructure,0.862,49.61,0.0,125042,NASDAQ Global Select,NASDAQ,US,False,False,True
+304,BBIO,"BridgeBio Pharma, Inc.",5408132640,Healthcare,Biotechnology,1.046,29.32,0.0,331238,NASDAQ Global Select,NASDAQ,US,False,False,True
+305,EXLS,"ExlService Holdings, Inc.",5371401600,Technology,Information Technology Services,0.97,32.4,0.0,205364,NASDAQ Global Select,NASDAQ,US,False,False,True
+306,BECN,"Beacon Roofing Supply, Inc.",5361564443,Industrials,Building Products & Equipment,1.619,84.525,0.0,68782,NASDAQ Global Select,NASDAQ,US,False,False,True
+307,CWST,"Casella Waste Systems, Inc.",5315930725,Industrials,Waste Management,0.893,93.25,0.0,32542,NASDAQ Global Select,NASDAQ,US,False,False,True
+308,NUVL,"Nuvalent, Inc.",5309284830,Healthcare,Biotechnology,1.358,82.87,0.0,49844,NASDAQ Global Select,NASDAQ,US,False,False,True
+309,HALO,"Halozyme Therapeutics, Inc.",5308260375,Healthcare,Biotechnology,1.245,41.855,0.0,148175,NASDAQ Global Select,NASDAQ,US,False,False,True
+310,BRZE,"Braze, Inc.",5269932255,Technology,Software—Application,1.208,52.75,0.0,109416,NASDAQ Global Select,NASDAQ,US,False,False,True
+311,MDGL,"Madrigal Pharmaceuticals, Inc.",5256594619,Healthcare,Biotechnology,-0.484,264.185,0.0,187943,NASDAQ Global Select,NASDAQ,US,False,False,True
+312,FRPT,"Freshpet, Inc.",5231537358,Consumer Defensive,Packaged Foods,1.227,108.33,0.0,159831,NASDAQ Global Market,NASDAQ,US,False,False,True
+313,FCFS,"FirstCash Holdings, Inc",5229809926,Financial Services,Credit Services,0.609,115.94,1.4,20025,NASDAQ Global Select,NASDAQ,US,False,False,True
+314,EEFT,"Euronet Worldwide, Inc.",5134529805,Technology,Software—Infrastructure,1.394,112.15,0.0,36110,NASDAQ Global Select,NASDAQ,US,False,False,True
+315,ASO,"Academy Sports and Outdoors, Inc.",5067506676,Consumer Cyclical,Specialty Retail,1.382,68.34,0.44,268215,NASDAQ Global Select,NASDAQ,US,False,False,True
+316,OZK,Bank OZK,5046258000,Financial Services,Banks—Regional,1.248,43.85,1.52,256397,NASDAQ Global Select,NASDAQ,US,False,False,True
+317,BCPC,Balchem Corporation,5034443073,Basic Materials,Specialty Chemicals,0.712,156.025,0.79,7204,NASDAQ Global Select,NASDAQ,US,False,False,True
+318,HCP,"HashiCorp, Inc.",5028278848,Technology,Software—Infrastructure,1.411,26.29,0.0,731315,NASDAQ Global Select,NASDAQ,US,False,False,True
+319,CRUS,"Cirrus Logic, Inc.",4987369450,Technology,Semiconductors,1.003,92.47,0.0,49119,NASDAQ Global Select,NASDAQ,US,False,False,True
+320,ONB,Old National Bancorp,4915963680,Financial Services,Banks—Regional,0.82,16.795,0.56,215912,NASDAQ Global Select,NASDAQ,US,False,False,True
+321,KRYS,"Krystal Biotech, Inc.",4902117339,Healthcare,Biotechnology,0.86,173.265,0.0,119998,NASDAQ Global Market,NASDAQ,US,False,False,True
+322,PTEN,"Patterson-UTI Energy, Inc.",4835034240,Energy,Oil & Gas Drilling,2.228,11.845,0.32,926501,NASDAQ Global Select,NASDAQ,US,False,False,True
+323,TXG,"10x Genomics, Inc.",4796453517,Healthcare,Health Information Services,1.924,40.25,0.0,236820,NASDAQ Global Select,NASDAQ,US,False,False,True
+324,COLM,Columbia Sportswear Company,4781264172,Consumer Cyclical,Apparel Manufacturing,0.944,79.96,1.2,53014,NASDAQ Global Select,NASDAQ,US,False,False,True
+325,UBSI,"United Bankshares, Inc.",4767214725,Financial Services,Banks—Regional,1.018,35.325,1.48,101494,NASDAQ Global Select,NASDAQ,US,False,False,True
+326,SRCL,"Stericycle, Inc.",4759800282,Industrials,Waste Management,1.106,51.42,0.0,115240,NASDAQ Global Select,NASDAQ,US,False,False,True
+327,SLAB,Silicon Laboratories Inc.,4662871905,Technology,Semiconductors,1.266,146.15,0.0,39365,NASDAQ Global Select,NASDAQ,US,False,False,True
+328,FELE,"Franklin Electric Co., Inc.",4650423800,Industrials,Specialty Industrial Machinery,0.958,101.0,1.0,13496,NASDAQ Global Select,NASDAQ,US,False,False,True
+329,ACT,"Enact Holdings, Inc.",4634845170,Financial Services,Insurance—Specialty,0.511,29.13,0.64,40440,NASDAQ Global Select,NASDAQ,US,False,False,True
+330,IMVT,"Immunovant, Inc.",4628308515,Healthcare,Biotechnology,0.715,31.855,0.0,170414,NASDAQ Global Select,NASDAQ,US,False,False,True
+331,FFIN,"First Financial Bankshares, Inc.",4628019840,Financial Services,Banks—Regional,0.815,32.42,0.72,32741,NASDAQ Global Select,NASDAQ,US,False,False,True
+332,COOP,Mr. Cooper Group Inc.,4626163542,Financial Services,Mortgage Finance,1.369,71.61,0.0,30333,NASDAQ Capital Market,NASDAQ,US,False,False,True
+333,OLLI,"Ollie's Bargain Outlet Holdings, Inc.",4577847698,Consumer Defensive,Discount Stores,0.763,74.325,0.0,106306,NASDAQ Global Market,NASDAQ,US,False,False,True
+334,SLM,SLM Corporation,4568957250,Financial Services,Credit Services,1.168,20.735,0.44,793559,NASDAQ Global Select,NASDAQ,US,False,False,True
+335,AVAV,"AeroVironment, Inc.",4565158004,Industrials,Aerospace & Defense,0.416,162.255,0.0,132296,NASDAQ Global Select,NASDAQ,US,False,False,True
+336,FIZZ,National Beverage Corp.,4529078987,Consumer Defensive,Beverages—Non-Alcoholic,0.829,48.495,0.0,17754,NASDAQ Global Select,NASDAQ,US,False,False,True
+337,VERX,"Vertex, Inc.",4493451471,Technology,Software—Application,0.629,29.115,0.0,43975,NASDAQ Global Market,NASDAQ,US,False,False,True
+338,FROG,JFrog Ltd.,4472357204,Technology,Software—Application,0.992,42.0706,0.0,162268,NASDAQ Global Select,NASDAQ,US,False,False,True
+339,IAC,IAC Inc.,4442677712,Communication Services,Internet Content & Information,1.358,51.68,0.0,88283,NASDAQ Global Select,NASDAQ,US,False,False,True
+340,IPAR,"Inter Parfums, Inc.",4410508850,Consumer Defensive,Household & Personal Products,1.156,137.735,3.0,23172,NASDAQ Global Select,NASDAQ,US,False,False,True
+341,FIVN,"Five9, Inc.",4391896707,Technology,Software—Infrastructure,0.833,59.895,0.0,298246,NASDAQ Global Market,NASDAQ,US,False,False,True
+342,CNXC,Concentrix Corporation,4390617770,Technology,Information Technology Services,0.564,66.22,1.21,60543,NASDAQ Global Select,NASDAQ,US,False,False,True
+343,PECO,"Phillips Edison & Company, Inc.",4377000880,Real Estate,REIT—Retail,0.289,35.87,1.17,73622,NASDAQ Global Select,NASDAQ,US,False,False,True
+344,MMSI,"Merit Medical Systems, Inc.",4318102200,Healthcare,Medical Instruments & Supplies,0.897,74.54,0.0,35268,NASDAQ Global Select,NASDAQ,US,False,False,True
+345,IOVA,"Iovance Biotherapeutics, Inc.",4316689685,Healthcare,Biotechnology,0.62,15.455,0.0,1983585,NASDAQ Global Market,NASDAQ,US,False,False,True
+346,ITRI,"Itron, Inc.",4305961494,Technology,Scientific & Technical Instruments,1.411,94.47,0.0,87910,NASDAQ Global Select,NASDAQ,US,False,False,True
+347,LNTH,"Lantheus Holdings, Inc.",4257152900,Healthcare,Drug Manufacturers—Specialty & Generic,0.546,62.125,0.0,144644,NASDAQ Global Market,NASDAQ,US,False,False,True
+348,CVLT,"Commvault Systems, Inc.",4234738584,Technology,Software—Application,0.612,96.99,0.0,61288,NASDAQ Global Select,NASDAQ,US,False,False,True
+349,POWI,"Power Integrations, Inc.",4232887260,Technology,Semiconductors,1.214,74.41,0.8,50312,NASDAQ Global Select,NASDAQ,US,False,False,True
+350,SYNA,Synaptics Incorporated,4231425576,Technology,Semiconductors,1.569,107.66,0.0,48197,NASDAQ Global Select,NASDAQ,US,False,False,True
+351,AVT,"Avnet, Inc.",4218629335,Technology,Electronics & Computer Distribution,1.248,46.685,1.22,101415,NASDAQ Global Select,NASDAQ,US,False,False,True
+352,IPGP,IPG Photonics Corporation,4159201073,Technology,Semiconductor Equipment & Materials,1.185,90.225,0.0,34161,NASDAQ Global Select,NASDAQ,US,False,False,True
+353,VLY,Valley National Bancorp,4147412750,Financial Services,Banks—Regional,1.107,8.15,0.44,2209546,NASDAQ Global Select,NASDAQ,US,False,False,True
+354,RARE,Ultragenyx Pharmaceutical Inc.,4119255071,Healthcare,Biotechnology,0.662,50.03,0.0,65301,NASDAQ Global Select,NASDAQ,US,False,False,True
+355,BL,"BlackLine, Inc.",4118770695,Technology,Software—Application,0.841,66.95,0.0,187424,NASDAQ Global Select,NASDAQ,US,False,False,True
+356,INSM,Insmed Incorporated,4111743480,Healthcare,Biotechnology,0.922,27.69,0.0,330308,NASDAQ Global Select,NASDAQ,US,False,False,True
+357,COLB,"Columbia Banking System, Inc.",4094285250,Financial Services,Banks—Regional,0.882,19.625,1.44,526162,NASDAQ Global Select,NASDAQ,US,False,False,True
+358,SYM,Symbotic Inc.,4066587600,Financial Services,Shell Companies,1.908,45.61,0.0,500833,NASDAQ Global Market,NASDAQ,US,False,False,True
+359,EXPO,"Exponent, Inc.",4037977152,Industrials,Consulting Services,0.679,79.86,1.12,22161,NASDAQ Global Select,NASDAQ,US,False,False,True
+360,UMBF,UMB Financial Corporation,4025106102,Financial Services,Banks—Regional,0.833,82.58,1.56,15876,NASDAQ Global Select,NASDAQ,US,False,False,True

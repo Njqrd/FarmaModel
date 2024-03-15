@@ -1,0 +1,17 @@
+,symbol,companyName,marketCap,sector,industry,beta,price,lastAnnualDividend,volume,exchange,exchangeShortName,country,isEtf,isFund,isActivelyTrading
+0,GDVTZ,Gould Investors L.P.,301017667919,Real Estate,Real Estate—Diversified,0.0,440.02,9.0,40,Other OTC,PNK,US,False,False,True
+1,BMYMP,Bristol-Myers Squibb Company PFD CONV 2,108773782040,,,0.0,895.0,3.1,1,Other OTC,PNK,US,False,False,True
+2,BSQKZ,"Block, Inc.",49378578600,,,2.543,80.2,0.0,1048,Other OTC,PNK,US,False,False,True
+3,PPWLM,PacifiCorp,39537750000,Utilities,Utilities—Diversified,0.0,110.75,7.0,31,Other OTC,PNK,US,False,False,True
+4,SLMNP,"A. Schulman, Inc.",25075850000,Basic Materials,Chemicals,-1.473372,850.0,60.0,16,Other OTC,PNK,US,False,False,True
+5,FCNCB,"First Citizens BancShares, Inc.",22141879051,Financial Services,Banks—Regional,0.885,1360.02,6.56,244,Other OTC,PNK,US,False,False,True
+6,PSHZF,"Pershing Square Holdings, Ltd.",10779036860,Financial Services,Collective Investments,0.985103,49.98,0.9771799999999999,3080,Other OTC,PNK,US,False,False,True
+7,SKYE,"Skye Bioscience, Inc.",10240137169,Healthcare,Biotechnology,0.62863,10.54,0.0,37096,Other OTC,PNK,US,False,False,True
+8,NIOIF,NIO Inc.,8826805720,Consumer Cyclical,Automobiles & Auto Parts,1.939,5.62,0.0,100,Other OTC,PNK,US,False,False,True
+9,UEPEP,Union Electric Company,7557165788,Utilities,Utilities—Regulated Electric,0.0,73.9999,4.56,150,Other OTC,PNK,US,False,False,True
+10,UEPEM,Union Electric Company,6740184000,Utilities,Utilities—Regulated Electric,0.0,66.0,4.0,50,Other OTC,PNK,US,False,False,True
+11,OASPW,Oasis Petroleum Inc.,6723119798,,,0.914,85.85,0.0,377,Other OTC,PNK,US,False,False,True
+12,WLLAW,Chord Energy Corporation,6698059808,Energy,Oil & Gas E&P,0.914,26.77,0.0,1736,Other OTC,PNK,US,False,False,True
+13,WLLBW,Chord Energy Corporation,6660002668,Energy,Oil & Gas E&P,0.914,17.5,0.0,272,Other OTC,PNK,US,False,False,True
+14,UEPEN,Union Electric Company,6127440000,Utilities,Utilities—Regulated Electric,0.0,60.0,3.5,30,Other OTC,PNK,US,False,False,True
+15,TLNE,Talen Energy Corporation,4929498679,Utilities,Utilities - Independent Power Producers,,83.51,0.0,2431,Other OTC,PNK,US,False,False,True

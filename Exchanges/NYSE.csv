@@ -1,0 +1,683 @@
+,symbol,companyName,marketCap,sector,industry,beta,price,lastAnnualDividend,volume,exchange,exchangeShortName,country,isEtf,isFund,isActivelyTrading
+0,BRK-B,Berkshire Hathaway Inc.,875683147687,Financial Services,Insurance—Diversified,0.894,403.952,0.0,655169,New York Stock Exchange,NYSE,US,False,False,True
+1,BRK-A,Berkshire Hathaway Inc.,872432136055,Financial Services,Insurance—Diversified,0.894,609365.0,0.0,14992,New York Stock Exchange,NYSE,US,False,False,True
+2,LLY,Eli Lilly and Company,693752742960,Healthcare,Drug Manufacturers—General,0.344,730.14,5.2,1621799,New York Stock Exchange,NYSE,US,False,False,True
+3,V,Visa Inc.,561124625560,Financial Services,Credit Services,0.962,279.31,2.08,935816,New York Stock Exchange,NYSE,US,False,False,True
+4,JPM,JPMorgan Chase & Co.,538672395550,Financial Services,Banks—Diversified,1.127,187.015,4.2,1571995,New York Stock Exchange,NYSE,US,False,False,True
+5,WMT,Walmart Inc.,483255980690,Consumer Defensive,Discount Stores,0.497,60.011,0.83,3351976,New York Stock Exchange,NYSE,US,False,False,True
+6,UNH,UnitedHealth Group Incorporated,447875537200,Healthcare,Healthcare Plans,0.546,485.8,7.52,1344228,New York Stock Exchange,NYSE,US,False,False,True
+7,MA,Mastercard Incorporated,432377441610,Financial Services,Credit Services,1.078,467.07,2.64,337240,New York Stock Exchange,NYSE,US,False,False,True
+8,XOM,Exxon Mobil Corporation,428685830384,Energy,Oil & Gas Integrated,0.947,108.0401,3.8,5080649,New York Stock Exchange,NYSE,US,False,False,True
+9,JNJ,Johnson & Johnson,384738138603,Healthcare,Drug Manufacturers—General,0.531,159.7239,4.76,1006565,New York Stock Exchange,NYSE,US,False,False,True
+10,PG,The Procter & Gamble Company,379071522000,Consumer Defensive,Household & Personal Products,0.43,161.1,3.76,1798455,New York Stock Exchange,NYSE,US,False,False,True
+11,HD,"The Home Depot, Inc.",368266845240,Consumer Cyclical,Home Improvement Retail,0.99,370.02,9.0,710988,New York Stock Exchange,NYSE,US,False,False,True
+12,ABBV,AbbVie Inc.,315111750950,Healthcare,Drug Manufacturers—General,0.555,178.385,6.2,1301369,New York Stock Exchange,NYSE,US,False,False,True
+13,ORCL,Oracle Corporation,312222333600,Technology,Software—Infrastructure,0.994,113.58,1.6,3163031,New York Stock Exchange,NYSE,US,False,False,True
+14,MRK,"Merck & Co., Inc.",309691219200,Healthcare,Drug Manufacturers—General,0.384,122.28,3.08,1537181,New York Stock Exchange,NYSE,US,False,False,True
+15,CRM,"Salesforce, Inc.",295190400000,Technology,Software—Application,1.283,304.32,1.6,1234103,New York Stock Exchange,NYSE,US,False,False,True
+16,BAC,Bank of America Corporation,280069879500,Financial Services,Banks—Diversified,1.388,35.575,0.96,8033915,New York Stock Exchange,NYSE,US,False,False,True
+17,CVX,Chevron Corporation,279667716600,Energy,Oil & Gas Integrated,1.118,150.58,6.52,2149293,New York Stock Exchange,NYSE,US,False,False,True
+18,KO,The Coca-Cola Company,258122293300,Consumer Defensive,Beverages—Non-Alcoholic,0.591,59.855,1.94,3157841,New York Stock Exchange,NYSE,US,False,False,True
+19,TMO,Thermo Fisher Scientific Inc.,229817929320,Healthcare,Diagnostics & Research,0.813,594.81,1.4,358275,New York Stock Exchange,NYSE,US,False,False,True
+20,MCD,McDonald's Corporation,211257974160,Consumer Cyclical,Restaurants,0.718,292.58,6.68,635556,New York Stock Exchange,NYSE,US,False,False,True
+21,ABT,Abbott Laboratories,208568636000,Healthcare,Medical Devices,0.743,120.2,2.2,788920,New York Stock Exchange,NYSE,US,False,False,True
+22,DIS,The Walt Disney Company,204673578590,Communication Services,Entertainment,1.412,111.5813,0.9,2124031,New York Stock Exchange,NYSE,US,False,False,True
+23,WFC,Wells Fargo & Company,203717320800,Financial Services,Banks—Diversified,1.196,56.945,1.4,3924854,New York Stock Exchange,NYSE,US,False,False,True
+24,DHR,Danaher Corporation,186656402680,Healthcare,Diagnostics & Research,0.86,252.34,1.08,343332,New York Stock Exchange,NYSE,US,False,False,True
+25,GE,General Electric Company,180738963100,Industrials,Specialty Industrial Machinery,1.217,166.07,0.32,3304870,New York Stock Exchange,NYSE,US,False,False,True
+26,IBM,International Business Machines Corporation,175560334480,Technology,Information Technology Services,0.708,191.504,6.64,1337269,New York Stock Exchange,NYSE,US,False,False,True
+27,VZ,Verizon Communications Inc.,167750373000,Communication Services,Telecom Services,0.384,39.9,2.66,3046991,New York Stock Exchange,NYSE,US,False,False,True
+28,CAT,Caterpillar Inc.,166559707695,Industrials,Farm & Heavy Construction Machinery,1.152,333.535,5.2,602026,New York Stock Exchange,NYSE,US,False,False,True
+29,UBER,"Uber Technologies, Inc.",161514323000,Technology,Software—Application,1.368,77.782,0.0,5040061,New York Stock Exchange,NYSE,US,False,False,True
+30,AXP,American Express Company,158918419800,Financial Services,Credit Services,1.23,219.54,2.8,715786,New York Stock Exchange,NYSE,US,False,False,True
+31,PFE,Pfizer Inc.,156585209400,Healthcare,Drug Manufacturers—General,0.557,27.73,1.68,15946897,New York Stock Exchange,NYSE,US,False,False,True
+32,NOW,"ServiceNow, Inc.",153280550000,Technology,Software—Application,0.972,747.71,0.0,321273,New York Stock Exchange,NYSE,US,False,False,True
+33,NKE,"NIKE, Inc.",153174086051,Consumer Cyclical,Footwear & Accessories,1.101,101.09,1.48,2367372,New York Stock Exchange,NYSE,US,False,False,True
+34,UNP,Union Pacific Corporation,151398730730,Industrials,Railroads,1.076,248.285,5.2,294827,New York Stock Exchange,NYSE,US,False,False,True
+35,BX,Blackstone Inc.,151005028454,Financial Services,Asset Management,1.499,124.605,3.35,600109,New York Stock Exchange,NYSE,US,False,False,True
+36,PM,Philip Morris International Inc.,144867804900,Consumer Defensive,Tobacco,0.632,93.315,5.2,851126,New York Stock Exchange,NYSE,US,False,False,True
+37,MS,Morgan Stanley,141123801000,Financial Services,Capital Markets,1.413,86.3,3.4,1294915,New York Stock Exchange,NYSE,US,False,False,True
+38,LOW,"Lowe's Companies, Inc.",137656172115,Consumer Cyclical,Home Improvement Retail,1.12,239.355,4.4,447348,New York Stock Exchange,NYSE,US,False,False,True
+39,SYK,Stryker Corporation,135670589920,Healthcare,Medical Devices,0.899,356.78,3.2,358110,New York Stock Exchange,NYSE,US,False,False,True
+40,SPGI,S&P Global Inc.,133404552000,Financial Services,Financial Data & Stock Exchanges,1.152,424.72,3.64,215549,New York Stock Exchange,NYSE,US,False,False,True
+41,COP,ConocoPhillips,133322545300,Energy,Oil & Gas E&P,1.244,113.33,2.47,1238067,New York Stock Exchange,NYSE,US,False,False,True
+42,UPS,"United Parcel Service, Inc.",131607010924,Industrials,Integrated Freight & Logistics,1.049,154.35,6.52,501688,New York Stock Exchange,NYSE,US,False,False,True
+43,GS,"The Goldman Sachs Group, Inc.",124912011840,Financial Services,Capital Markets,1.416,383.68,11.0,450687,New York Stock Exchange,NYSE,US,False,False,True
+44,PLD,"Prologis, Inc.",124202084514,Real Estate,REIT—Industrial,1.014,134.2898,3.84,479366,New York Stock Exchange,NYSE,US,False,False,True
+45,T,AT&T Inc.,123850558850,Communication Services,Telecom Services,0.694,17.315,1.11,7989242,New York Stock Exchange,NYSE,US,False,False,True
+46,BLK,"BlackRock, Inc.",122805657840,Financial Services,Asset Management,1.383,824.52,20.4,114646,New York Stock Exchange,NYSE,US,False,False,True
+47,RTX,Raytheon Technologies Corporation,120993627700,Industrials,Aerospace & Defense,0.611,91.19,2.36,1488850,New York Stock Exchange,NYSE,US,False,False,True
+48,SCHW,The Charles Schwab Corporation,118769955600,Financial Services,Capital Markets,0.996,66.97,1.0,1853769,New York Stock Exchange,NYSE,US,False,False,True
+49,ELV,Elevance Health Inc.,117613016155,Healthcare,Healthcare Plans,0.783,505.495,6.52,153156,New York Stock Exchange,NYSE,US,False,False,True
+50,NEE,"NextEra Energy, Inc.",117522141743,Utilities,Utilities—Regulated Electric,0.497,57.26,2.06,2595331,New York Stock Exchange,NYSE,US,False,False,True
+51,BA,The Boeing Company,116749942385,Industrials,Aerospace & Defense,1.522,191.351,0.0,7062274,New York Stock Exchange,NYSE,US,False,False,True
+52,PGR,The Progressive Corporation,115056443100,Financial Services,Insurance—Property & Casualty,0.347,196.45,1.15,563234,New York Stock Exchange,NYSE,US,False,False,True
+53,TJX,"The TJX Companies, Inc.",109432073600,Consumer Cyclical,Apparel Retail,0.866,96.02,1.33,993892,New York Stock Exchange,NYSE,US,False,False,True
+54,BMY,Bristol-Myers Squibb Company,109309480450,Healthcare,Drug Manufacturers—General,0.372,54.055,2.4,3670894,New York Stock Exchange,NYSE,US,False,False,True
+55,C,Citigroup Inc.,108928976300,Financial Services,Banks—Diversified,1.498,56.99,2.1,3110580,New York Stock Exchange,NYSE,US,False,False,True
+56,LMT,Lockheed Martin Corporation,104897105479,Industrials,Aerospace & Defense,0.475,434.0995,12.6,264923,New York Stock Exchange,NYSE,US,False,False,True
+57,DE,Deere & Company,103588146120,Industrials,Farm & Heavy Construction Machinery,1.033,372.14,5.88,206185,New York Stock Exchange,NYSE,US,False,False,True
+58,MMC,"Marsh & McLennan Companies, Inc.",100632150080,Financial Services,Insurance Brokers,0.891,204.68,2.84,182905,New York Stock Exchange,NYSE,US,False,False,True
+59,CI,Cigna Corporation,100143281700,Healthcare,Healthcare Plans,0.558,342.54,5.6,273437,New York Stock Exchange,NYSE,US,False,False,True
+60,BSX,Boston Scientific Corporation,97752873000,Healthcare,Medical Devices,0.779,66.63,0.0,1716663,New York Stock Exchange,NYSE,US,False,False,True
+61,AMT,American Tower Corporation,95942596960,Real Estate,REIT—Specialty,0.676,205.73,6.8,383834,New York Stock Exchange,NYSE,US,False,False,True
+62,CVS,CVS Health Corporation,94698362500,Healthcare,Healthcare Plans,0.499,75.25,2.66,1155351,New York Stock Exchange,NYSE,US,False,False,True
+63,FI,"Fiserv, Inc.",88406945220,Technology,Information Technology Services,0.907,149.74,0.0,514924,New York Stock Exchange,NYSE,US,False,False,True
+64,KKR,KKR & Co. Inc.,86704037820,Financial Services,Asset Management,1.619,97.97,0.66,1169892,New York Stock Exchange,NYSE,US,False,False,True
+65,SHW,The Sherwin-Williams Company,85628744825,Basic Materials,Specialty Chemicals,1.153,336.505,2.86,210725,New York Stock Exchange,NYSE,US,False,False,True
+66,DELL,Dell Technologies Inc.,85371412664,Technology,Computer Hardware,0.962,116.0,1.78,2504315,New York Stock Exchange,NYSE,US,False,False,True
+67,HCA,"HCA Healthcare, Inc.",84623810060,Healthcare,Medical Care Facilities,1.651,319.94,3.06,323807,New York Stock Exchange,NYSE,US,False,False,True
+68,ANET,"Arista Networks, Inc.",84217346920,Technology,Computer Hardware,1.1,269.38,0.0,826510,New York Stock Exchange,NYSE,US,False,False,True
+69,WM,"Waste Management, Inc.",83498248170,Industrials,Waste Management,0.722,207.915,3.0,302813,New York Stock Exchange,NYSE,US,False,False,True
+70,ZTS,Zoetis Inc.,83476022105,Healthcare,Drug Manufacturers—Specialty & Generic,0.867,182.315,1.73,879492,New York Stock Exchange,NYSE,US,False,False,True
+71,ITW,Illinois Tool Works Inc.,77517684000,Industrials,Specialty Industrial Machinery,1.144,259.43,5.6,205219,New York Stock Exchange,NYSE,US,False,False,True
+72,TGT,Target Corporation,77302993590,Consumer Defensive,Discount Stores,1.126,167.445,4.4,803336,New York Stock Exchange,NYSE,US,False,False,True
+73,ICE,"Intercontinental Exchange, Inc.",76803258478,Financial Services,Financial Data & Stock Exchanges,0.9425,137.075,1.68,639737,New York Stock Exchange,NYSE,US,False,False,True
+74,SO,The Southern Company,75220155696,Utilities,Utilities—Regulated Electric,0.486,68.9448,2.8,577473,New York Stock Exchange,NYSE,US,False,False,True
+75,MO,"Altria Group, Inc.",74672655624,Consumer Defensive,Tobacco,0.68,42.3444,3.92,2540091,New York Stock Exchange,NYSE,US,False,False,True
+76,GD,General Dynamics Corporation,74281457600,Industrials,Aerospace & Defense,0.679,271.12,5.68,83846,New York Stock Exchange,NYSE,US,False,False,True
+77,DUK,Duke Energy Corporation,73042050360,Utilities,Utilities—Regulated Electric,0.46,94.76,4.1,391447,New York Stock Exchange,NYSE,US,False,False,True
+78,CMG,"Chipotle Mexican Grill, Inc.",72615999204,Consumer Cyclical,Restaurants,1.286,2648.17,0.0,66827,New York Stock Exchange,NYSE,US,False,False,True
+79,SLB,Schlumberger Limited,72532462500,Energy,Oil & Gas Equipment & Services,1.599,50.625,1.1,2684984,New York Stock Exchange,NYSE,US,False,False,True
+80,CL,Colgate-Palmolive Company,72297352330,Consumer Defensive,Household & Personal Products,0.412,87.83,1.92,925715,New York Stock Exchange,NYSE,US,False,False,True
+81,MCO,Moody's Corporation,70253508840,Financial Services,Financial Data & Stock Exchanges,1.268,384.82,3.4,94631,New York Stock Exchange,NYSE,US,False,False,True
+82,BDX,"Becton, Dickinson and Company",69450596290,Healthcare,Medical Instruments & Supplies,0.445,240.395,3.8,150652,New York Stock Exchange,NYSE,US,False,False,True
+83,NOC,Northrop Grumman Corporation,69229611120,Industrials,Aerospace & Defense,0.343,461.42,7.48,100272,New York Stock Exchange,NYSE,US,False,False,True
+84,EOG,"EOG Resources, Inc.",69200038620,Energy,Oil & Gas E&P,1.397,119.31,3.64,924918,New York Stock Exchange,NYSE,US,False,False,True
+85,MCK,McKesson Corporation,69049647155,Healthcare,Medical Distribution,0.442,525.46,2.48,167717,New York Stock Exchange,NYSE,US,False,False,True
+86,PH,Parker-Hannifin Corporation,67985919840,Industrials,Specialty Industrial Machinery,1.519,529.44,5.92,147802,New York Stock Exchange,NYSE,US,False,False,True
+87,USB,U.S. Bancorp,67498191600,Financial Services,Banks—Regional,1.054,43.32,1.96,1290984,New York Stock Exchange,NYSE,US,False,False,True
+88,SCCO,Southern Copper Corporation,66093430370,Basic Materials,Copper,1.276,85.49,3.2,362848,New York Stock Exchange,NYSE,US,False,False,True
+89,APH,Amphenol Corporation,65324209500,Technology,Electronic Components,1.307,108.9,0.88,319404,New York Stock Exchange,NYSE,US,False,False,True
+90,MPC,Marathon Petroleum Corporation,64339969950,Energy,Oil & Gas Refining & Marketing,1.499,178.05,3.3,570961,New York Stock Exchange,NYSE,US,False,False,True
+91,TDG,TransDigm Group Incorporated,63916383504,Industrials,Aerospace & Defense,1.417,1149.445,35.0,59953,New York Stock Exchange,NYSE,US,False,False,True
+92,ECL,Ecolab Inc.,63528070065,Basic Materials,Specialty Chemicals,1.101,222.505,2.28,378426,New York Stock Exchange,NYSE,US,False,False,True
+93,PSX,Phillips 66,62890128000,Energy,Oil & Gas Refining & Marketing,1.356,147.0,4.2,520367,New York Stock Exchange,NYSE,US,False,False,True
+94,FDX,FedEx Corporation,62486994115,Industrials,Integrated Freight & Logistics,1.207,250.055,5.04,225694,New York Stock Exchange,NYSE,US,False,False,True
+95,EMR,Emerson Electric Co.,62229545000,Industrials,Specialty Industrial Machinery,1.361,108.85,2.1,492052,New York Stock Exchange,NYSE,US,False,False,True
+96,APO,"Apollo Global Management, Inc.",61335820755,Financial Services,Asset Management,1.64,107.955,1.72,672966,New York Stock Exchange,NYSE,US,False,False,True
+97,EPD,Enterprise Products Partners L.P.,60701242875,Energy,Oil & Gas Midstream,0.983,27.9955,2.01,1027555,New York Stock Exchange,NYSE,US,False,False,True
+98,PNC,"The PNC Financial Services Group, Inc.",59949665600,Financial Services,Banks—Regional,1.157,150.7,6.15,270852,New York Stock Exchange,NYSE,US,False,False,True
+99,NSC,Norfolk Southern Corporation,57868709580,Industrials,Railroads,1.304,256.19,5.4,164157,New York Stock Exchange,NYSE,US,False,False,True
+100,RSG,"Republic Services, Inc.",57654038805,Industrials,Waste Management,0.68,183.255,2.14,146673,New York Stock Exchange,NYSE,US,False,False,True
+101,FCX,Freeport-McMoRan Inc.,57390744100,Basic Materials,Copper,2.016,40.01,0.6,2346535,New York Stock Exchange,NYSE,US,False,False,True
+102,PXD,Pioneer Natural Resources Company,56758707850,Energy,Oil & Gas E&P,1.329,242.95,10.94,298883,New York Stock Exchange,NYSE,US,False,False,True
+103,MSI,"Motorola Solutions, Inc.",55661200320,Technology,Communication Equipment,0.901,335.04,3.92,159304,New York Stock Exchange,NYSE,US,False,False,True
+104,PLTR,Palantir Technologies Inc.,55126153500,Technology,Software—Infrastructure,2.811,26.115,0.0,29005746,New York Stock Exchange,NYSE,US,False,False,True
+105,EW,Edwards Lifesciences Corporation,55061041000,Healthcare,Medical Devices,1.047,91.57,0.0,551266,New York Stock Exchange,NYSE,US,False,False,True
+106,APD,"Air Products and Chemicals, Inc.",54886116900,Basic Materials,Specialty Chemicals,0.821,246.9,7.02,390660,New York Stock Exchange,NYSE,US,False,False,True
+107,AJG,Arthur J. Gallagher & Co.,54219512000,Financial Services,Insurance Brokers,0.684,250.09,2.4,134176,New York Stock Exchange,NYSE,US,False,False,True
+108,EL,The Estée Lauder Companies Inc.,54172501719,Consumer Defensive,Household & Personal Products,1.072,151.12,2.64,325233,New York Stock Exchange,NYSE,US,False,False,True
+109,OXY,Occidental Petroleum Corporation,53425166755,Energy,Oil & Gas E&P,1.653,60.745,0.88,1634448,New York Stock Exchange,NYSE,US,False,False,True
+110,SNOW,Snowflake Inc.,52964612000,Technology,Software—Application,0.937,160.84,0.0,2378007,New York Stock Exchange,NYSE,US,False,False,True
+111,WELL,Welltower Inc.,52427796480,Real Estate,REIT—Healthcare Facilities,1.081,92.16,2.44,289702,New York Stock Exchange,NYSE,US,False,False,True
+112,AZO,"AutoZone, Inc.",52320620587,Consumer Cyclical,Specialty Retail,0.699,3025.73,0.0,38879,New York Stock Exchange,NYSE,US,False,False,True
+113,COF,Capital One Financial Corporation,52130867320,Financial Services,Credit Services,1.478,137.11,2.4,391731,New York Stock Exchange,NYSE,US,False,False,True
+114,MMM,3M Company,51730509200,Industrials,Conglomerates,1.0,93.596,6.04,1041708,New York Stock Exchange,NYSE,US,False,False,True
+115,PSA,Public Storage,51676872285,Real Estate,REIT—Industrial,0.532,294.135,12.0,116025,New York Stock Exchange,NYSE,US,False,False,True
+116,HLT,Hilton Worldwide Holdings Inc.,51346283625,Consumer Cyclical,Lodging,1.257,203.625,0.6,185498,New York Stock Exchange,NYSE,US,False,False,True
+117,MET,"MetLife, Inc.",51327189800,Financial Services,Insurance—Life,1.033,70.99,2.08,511431,New York Stock Exchange,NYSE,US,False,False,True
+118,CARR,Carrier Global Corporation,50878845140,Industrials,Building Products & Equipment,1.254,56.635,0.76,850411,New York Stock Exchange,NYSE,US,False,False,True
+119,AIG,"American International Group, Inc.",50802573170,Financial Services,Insurance—Diversified,1.033,74.605,1.44,423976,New York Stock Exchange,NYSE,US,False,False,True
+120,DHI,"D.R. Horton, Inc.",50515820080,Consumer Cyclical,Residential Construction,1.638,152.24,1.2,478394,New York Stock Exchange,NYSE,US,False,False,True
+121,SQ,"Block, Inc.",50394617244,Technology,Software—Infrastructure,2.543,81.87,0.0,4912787,New York Stock Exchange,NYSE,US,False,False,True
+122,ET,Energy Transfer LP,50162785200,Energy,Oil & Gas Midstream,1.639,14.895,1.26,3602746,New York Stock Exchange,NYSE,US,False,False,True
+123,TRV,"The Travelers Companies, Inc.",49907079690,Financial Services,Insurance—Property & Casualty,0.593,217.815,4.0,184029,New York Stock Exchange,NYSE,US,False,False,True
+124,TFC,Truist Financial Corporation,49451009150,Financial Services,Banks—Regional,1.064,37.055,2.08,1300657,New York Stock Exchange,NYSE,US,False,False,True
+125,VLO,Valero Energy Corporation,49388538690,Energy,Oil & Gas Refining & Marketing,1.521,148.545,4.28,589025,New York Stock Exchange,NYSE,US,False,False,True
+126,CTA-PA,E. I. du Pont de Nemours and Company,49326093949,Basic Materials,Agricultural Inputs,0.0,56.84,3.5,100,New York Stock Exchange,NYSE,US,False,False,True
+127,CCI,Crown Castle Inc.,48497473350,Real Estate,REIT—Specialty,0.751,111.69,6.26,430199,New York Stock Exchange,NYSE,US,False,False,True
+128,SPG,"Simon Property Group, Inc.",48433920420,Real Estate,REIT—Retail,1.681,148.62,7.8,238157,New York Stock Exchange,NYSE,US,False,False,True
+129,AFL,Aflac Incorporated,47585849760,Financial Services,Insurance—Life,0.905,82.47,2.0,304019,New York Stock Exchange,NYSE,US,False,False,True
+130,STZ,"Constellation Brands, Inc.",47530542802,Consumer Defensive,Beverages—Wineries & Distilleries,0.959,260.0196,3.56,378041,New York Stock Exchange,NYSE,US,False,False,True
+131,F,Ford Motor Company,47497221710,Consumer Cyclical,Auto Manufacturers,1.643,12.1701,0.6,10829919,New York Stock Exchange,NYSE,US,False,False,True
+132,COR,Cencora,47353037160,Healthcare,Medical Distribution,0.446,237.38,2.04,148092,New York Stock Exchange,NYSE,US,False,False,True
+133,GWW,"W.W. Grainger, Inc.",47185319438,Industrials,Industrial Distribution,1.138,959.57,7.44,36221,New York Stock Exchange,NYSE,US,False,False,True
+134,IQV,IQVIA Holdings Inc.,46680675545,Healthcare,Diagnostics & Research,1.508,256.4675,0.0,158834,New York Stock Exchange,NYSE,US,False,False,True
+135,GM,General Motors Company,45738516600,Consumer Cyclical,Auto Manufacturers,1.5,39.62,0.48,3126286,New York Stock Exchange,NYSE,US,False,False,True
+136,O,Realty Income Corporation,45729990020,Real Estate,REIT—Retail,0.925,53.105,3.08,1181635,New York Stock Exchange,NYSE,US,False,False,True
+137,SRE,Sempra,45242975500,Utilities,Utilities—Diversified,0.714,71.57,2.48,673209,New York Stock Exchange,NYSE,US,False,False,True
+138,LEN,Lennar Corporation,45090073276,Consumer Cyclical,Residential Construction,1.52,163.37,2.0,663856,New York Stock Exchange,NYSE,US,False,False,True
+139,OKE,"ONEOK, Inc.",44932400950,Energy,Oil & Gas Midstream,1.61,77.05,3.96,322008,New York Stock Exchange,NYSE,US,False,False,True
+140,HES,Hess Corporation,44755117920,Energy,Oil & Gas E&P,1.276,145.71,1.75,465500,New York Stock Exchange,NYSE,US,False,False,True
+141,URI,"United Rentals, Inc.",44466728964,Industrials,Rental & Leasing Services,1.839,661.79,6.52,220283,New York Stock Exchange,NYSE,US,False,False,True
+142,WMB,"The Williams Companies, Inc.",43930758750,Energy,Oil & Gas Midstream,1.065,36.105,1.9,1690000,New York Stock Exchange,NYSE,US,False,False,True
+143,NUE,Nucor Corporation,43803552750,Basic Materials,Steel,1.617,181.95,2.16,329796,New York Stock Exchange,NYSE,US,False,False,True
+144,MSCI,MSCI Inc.,43754042752,Financial Services,Financial Data & Stock Exchanges,1.066,553.21,6.4,57168,New York Stock Exchange,NYSE,US,False,False,True
+145,A,"Agilent Technologies, Inc.",43193376450,Healthcare,Diagnostics & Research,1.107,147.39,0.94,347376,New York Stock Exchange,NYSE,US,False,False,True
+146,KMB,Kimberly-Clark Corporation,42457364490,Consumer Defensive,Household & Personal Products,0.412,126.03,4.88,247426,New York Stock Exchange,NYSE,US,False,False,True
+147,AMP,"Ameriprise Financial, Inc.",42069476180,Financial Services,Asset Management,1.466227,409.93,5.4,61068,New York Stock Exchange,NYSE,US,False,False,True
+148,BK,The Bank of New York Mellon Corporation,41644922400,Financial Services,Asset Management,1.102,55.2,1.68,702744,New York Stock Exchange,NYSE,US,False,False,True
+149,ALL,The Allstate Corporation,41527756620,Financial Services,Insurance—Property & Casualty,0.509,157.86,3.68,315006,New York Stock Exchange,NYSE,US,False,False,True
+150,AME,"AMETEK, Inc.",41373273235,Industrials,Specialty Industrial Machinery,1.222,179.095,1.12,126412,New York Stock Exchange,NYSE,US,False,False,True
+151,CNC,Centene Corporation,41334212640,Healthcare,Healthcare Plans,0.379,77.28,0.0,578284,New York Stock Exchange,NYSE,US,False,False,True
+152,HUM,Humana Inc.,41328478620,Healthcare,Healthcare Plans,0.453,342.54,3.54,296183,New York Stock Exchange,NYSE,US,False,False,True
+153,MPLX,MPLX LP,40893731200,Energy,Oil & Gas Midstream,1.335,40.46,3.4,332221,New York Stock Exchange,NYSE,US,False,False,True
+154,LHX,"L3Harris Technologies, Inc.",40750258615,Industrials,Aerospace & Defense,0.651,214.3735,4.64,143353,New York Stock Exchange,NYSE,US,False,False,True
+155,NEM,Newmont Corporation,40442979500,Basic Materials,Gold,0.498,35.09,1.0,6203151,New York Stock Exchange,NYSE,US,False,False,True
+156,HSY,The Hershey Company,40282206965,Consumer Defensive,Confectioners,0.339,197.51,5.48,634646,New York Stock Exchange,NYSE,US,False,False,True
+157,DOW,Dow Inc.,39995867267,Basic Materials,Chemicals,1.305,56.9504,2.8,830941,New York Stock Exchange,NYSE,US,False,False,True
+158,D,"Dominion Energy, Inc.",39962779960,Utilities,Utilities—Regulated Electric,0.608,47.72,2.67,936023,New York Stock Exchange,NYSE,US,False,False,True
+159,SYY,Sysco Corporation,39833867450,Consumer Defensive,Food Distribution,1.151,80.015,2.0,426866,New York Stock Exchange,NYSE,US,False,False,True
+160,PRU,"Prudential Financial, Inc.",39823870000,Financial Services,Insurance—Life,1.358,110.93,5.2,209847,New York Stock Exchange,NYSE,US,False,False,True
+161,FIS,"Fidelity National Information Services, Inc.",39799212640,Technology,Information Technology Services,0.972,69.04,1.92,614016,New York Stock Exchange,NYSE,US,False,False,True
+162,KR,The Kroger Co.,39586250575,Consumer Defensive,Grocery Stores,0.461,55.025,1.16,1932112,New York Stock Exchange,NYSE,US,False,False,True
+163,KMI,"Kinder Morgan, Inc.",39549173400,Energy,Oil & Gas Midstream,0.882,17.82,1.13,2898797,New York Stock Exchange,NYSE,US,False,False,True
+164,LVS,Las Vegas Sands Corp.,39542493870,Consumer Cyclical,Resorts & Casinos,1.177,52.47,0.6,743145,New York Stock Exchange,NYSE,US,False,False,True
+165,YUM,"Yum! Brands, Inc.",39259032120,Consumer Cyclical,Restaurants,1.1,139.545,2.68,239116,New York Stock Exchange,NYSE,US,False,False,True
+166,OTIS,Otis Worldwide Corporation,38958143675,Industrials,Specialty Industrial Machinery,0.907,96.085,1.36,543969,New York Stock Exchange,NYSE,US,False,False,True
+167,KVUE,Kenvue Inc.,38559673641,Consumer Defensive,Household & Personal Products,,20.135,0.8,2984673,New York Stock Exchange,NYSE,US,False,False,True
+168,CTVA,"Corteva, Inc.",38443672740,Basic Materials,Agricultural Inputs,0.765,54.78,0.64,830211,New York Stock Exchange,NYSE,US,False,False,True
+169,CMI,Cummins Inc.,37999234590,Industrials,Specialty Industrial Machinery,1.038,267.87,6.72,1439414,New York Stock Exchange,NYSE,US,False,False,True
+170,GIS,"General Mills, Inc.",37333088600,Consumer Defensive,Packaged Foods,0.134,65.74,2.36,795773,New York Stock Exchange,NYSE,US,False,False,True
+171,VEEV,Veeva Systems Inc.,36855757320,Healthcare,Health Information Services,0.741,228.895,0.0,150447,New York Stock Exchange,NYSE,US,False,False,True
+172,MLM,"Martin Marietta Materials, Inc.",36598301775,Basic Materials,Building Materials,0.954,591.99,2.96,111097,New York Stock Exchange,NYSE,US,False,False,True
+173,IT,"Gartner, Inc.",36138121650,Technology,Information Technology Services,1.289,463.5,0.0,44241,New York Stock Exchange,NYSE,US,False,False,True
+174,IR,Ingersoll Rand Inc.,35974388120,Industrials,Specialty Industrial Machinery,1.442,89.17,0.08,477889,New York Stock Exchange,NYSE,US,False,False,True
+175,PCG,PG&E Corporation,35108717100,Utilities,Utilities—Regulated Electric,1.327,16.455,0.02,5300115,New York Stock Exchange,NYSE,US,False,False,True
+176,VMC,Vulcan Materials Company,34902638920,Basic Materials,Building Materials,0.832,263.96,1.84,177815,New York Stock Exchange,NYSE,US,False,False,True
+177,PWR,"Quanta Services, Inc.",34670772120,Industrials,Engineering & Construction,1.105,237.88,0.36,155554,New York Stock Exchange,NYSE,US,False,False,True
+178,DG,Dollar General Corporation,34594922170,Consumer Defensive,Discount Stores,0.41,157.61,2.36,487690,New York Stock Exchange,NYSE,US,False,False,True
+179,GPN,Global Payments Inc.,33482583225,Industrials,Specialty Business Services,0.968,129.785,1.0,353626,New York Stock Exchange,NYSE,US,False,False,True
+180,EFX,Equifax Inc.,33072700360,Industrials,Consulting Services,1.517,266.81,1.56,99357,New York Stock Exchange,NYSE,US,False,False,True
+181,PPG,"PPG Industries, Inc.",33043917300,Basic Materials,Specialty Chemicals,1.281,140.46,2.57,204305,New York Stock Exchange,NYSE,US,False,False,True
+182,NET,"Cloudflare, Inc.",33012942233,Technology,Software—Infrastructure,1.133,97.77,0.0,1060960,New York Stock Exchange,NYSE,US,False,False,True
+183,ROK,"Rockwell Automation, Inc.",32835191680,Industrials,Specialty Industrial Machinery,1.429,286.54,5.0,284698,New York Stock Exchange,NYSE,US,False,False,True
+184,RCL,Royal Caribbean Cruises Ltd.,32534237123,Consumer Cyclical,Travel Services,2.518,126.765,0.0,526320,New York Stock Exchange,NYSE,US,False,False,True
+185,LYB,LyondellBasell Industries N.V.,32354943100,Basic Materials,Specialty Chemicals,1.199,99.7,5.0,154030,New York Stock Exchange,NYSE,US,False,False,True
+186,PEG,Public Service Enterprise Group Incorporated,32099031060,Utilities,Utilities—Regulated Electric,0.585,64.38,2.4,724843,New York Stock Exchange,NYSE,US,False,False,True
+187,HAL,Halliburton Company,31963562820,Energy,Oil & Gas Equipment & Services,2.003,35.91,0.68,1097451,New York Stock Exchange,NYSE,US,False,False,True
+188,FICO,Fair Isaac Corporation,31761977884,Technology,Software—Application,1.221,1278.04,0.0,37828,New York Stock Exchange,NYSE,US,False,False,True
+189,EXR,Extra Space Storage Inc.,31521501375,Real Estate,REIT—Industrial,0.746,148.985,6.48,232479,New York Stock Exchange,NYSE,US,False,False,True
+190,ED,"Consolidated Edison, Inc.",31068259200,Utilities,Utilities—Regulated Electric,0.351,89.92,3.32,187948,New York Stock Exchange,NYSE,US,False,False,True
+191,HUBS,"HubSpot, Inc.",30967186950,Technology,Software—Application,1.586,611.1,0.0,128003,New York Stock Exchange,NYSE,US,False,False,True
+192,XYL,Xylem Inc.,30450931500,Industrials,Specialty Industrial Machinery,1.107,125.95,1.44,159765,New York Stock Exchange,NYSE,US,False,False,True
+193,DFS,Discover Financial Services,30214427450,Financial Services,Credit Services,1.445,120.59,2.8,244062,New York Stock Exchange,NYSE,US,False,False,True
+194,DD,"DuPont de Nemours, Inc.",29961580250,Basic Materials,Specialty Chemicals,1.222,71.75,1.52,406926,New York Stock Exchange,NYSE,US,False,False,True
+195,HPQ,HP Inc.,29819208475,Technology,Computer Hardware,1.056,30.475,1.1,1806270,New York Stock Exchange,NYSE,US,False,False,True
+196,FTV,Fortive Corporation,29607278800,Technology,Scientific & Technical Instruments,1.176,84.26,0.32,130112,New York Stock Exchange,NYSE,US,False,False,True
+197,DVN,Devon Energy Corporation,29410025000,Energy,Oil & Gas E&P,2.2,46.315,2.42,1803615,New York Stock Exchange,NYSE,US,False,False,True
+198,ADM,Archer-Daniels-Midland Company,29261281660,Consumer Defensive,Farm Products,0.751,54.86,2.0,1146500,New York Stock Exchange,NYSE,US,False,False,True
+199,HIG,"The Hartford Financial Services Group, Inc.",29058975000,Financial Services,Insurance—Diversified,0.869,97.35,1.88,401962,New York Stock Exchange,NYSE,US,False,False,True
+200,CBRE,"CBRE Group, Inc.",28484753280,Real Estate,Real Estate Services,1.421,93.18,0.0,189576,New York Stock Exchange,NYSE,US,False,False,True
+201,MTD,Mettler-Toledo International Inc.,28037650619,Healthcare,Diagnostics & Research,1.147,1305.37,0.0,30618,New York Stock Exchange,NYSE,US,False,False,True
+202,CAH,"Cardinal Health, Inc.",27838016850,Healthcare,Medical Distribution,0.691,114.45,2.0,401663,New York Stock Exchange,NYSE,US,False,False,True
+203,GLW,Corning Incorporated,27823252400,Technology,Electronic Components,1.074,32.6,1.12,471309,New York Stock Exchange,NYSE,US,False,False,True
+204,RMD,ResMed Inc.,27460045410,Healthcare,Medical Instruments & Supplies,0.655,186.69,1.92,95471,New York Stock Exchange,NYSE,US,False,False,True
+205,DAL,"Delta Air Lines, Inc.",27116106600,Industrials,Airlines,1.431,42.15,0.4,2310099,New York Stock Exchange,NYSE,US,False,False,True
+206,HWM,Howmet Aerospace Inc.,26938509120,Industrials,Specialty Industrial Machinery,1.265,65.655,0.18,1461449,New York Stock Exchange,NYSE,US,False,False,True
+207,EIX,Edison International,26614790208,Utilities,Utilities—Regulated Electric,0.966,69.2149,3.12,299095,New York Stock Exchange,NYSE,US,False,False,True
+208,KEYS,"Keysight Technologies, Inc.",26604079960,Technology,Scientific & Technical Instruments,1.051,152.41,0.0,226068,New York Stock Exchange,NYSE,US,False,False,True
+209,RBLX,Roblox Corporation,26585640011,Communication Services,Electronic Gaming & Multimedia,1.656,42.09,0.0,3202235,New York Stock Exchange,NYSE,US,False,False,True
+210,ZBH,"Zimmer Biomet Holdings, Inc.",26573492700,Healthcare,Medical Devices,1.02254,127.275,0.96,151578,New York Stock Exchange,NYSE,US,False,False,True
+211,AVB,"AvalonBay Communities, Inc.",26419490500,Real Estate,REIT—Residential,0.927,186.02,6.8,79276,New York Stock Exchange,NYSE,US,False,False,True
+212,WST,"West Pharmaceutical Services, Inc.",26150991261,Healthcare,Medical Instruments & Supplies,1.03,356.77,0.8,75889,New York Stock Exchange,NYSE,US,False,False,True
+213,BF-B,Brown-Forman Corporation,26128600664,Consumer Defensive,Beverages—Wineries & Distilleries,0.788,54.87,0.87,338866,New York Stock Exchange,NYSE,US,False,False,True
+214,WEC,"WEC Energy Group, Inc.",25748281390,Utilities,Utilities—Regulated Electric,0.398,81.595,3.34,309968,New York Stock Exchange,NYSE,US,False,False,True
+215,VRT,Vertiv Holdings Co,25733318900,Industrials,Electrical Equipment & Parts,1.742,67.37,0.1,4027028,New York Stock Exchange,NYSE,US,False,False,True
+216,CHD,"Church & Dwight Co., Inc.",25460069880,Consumer Defensive,Household & Personal Products,0.529,104.44,1.14,211386,New York Stock Exchange,NYSE,US,False,False,True
+217,WY,Weyerhaeuser Company,25409216430,Real Estate,REIT—Specialty,1.448,34.83,0.8,466309,New York Stock Exchange,NYSE,US,False,False,True
+218,RKT,"Rocket Companies, Inc.",25297046695,Financial Services,Mortgage Finance,2.365,12.74,0.0,789807,New York Stock Exchange,NYSE,US,False,False,True
+219,ARES,Ares Management Corporation,25212000840,Financial Services,Asset Management,1.189,132.78,3.24,121740,New York Stock Exchange,NYSE,US,False,False,True
+220,WAB,Westinghouse Air Brake Technologies Corporation,24823006380,Industrials,Railroads,1.406,140.22,0.71,116181,New York Stock Exchange,NYSE,US,False,False,True
+221,RJF,"Raymond James Financial, Inc.",24784449960,Financial Services,Capital Markets,1.053,118.57,1.8,177728,New York Stock Exchange,NYSE,US,False,False,True
+222,BRO,"Brown & Brown, Inc.",24226006530,Financial Services,Insurance Brokers,0.785,84.765,0.52,150261,New York Stock Exchange,NYSE,US,False,False,True
+223,NVR,"NVR, Inc.",24159396575,Consumer Cyclical,Residential Construction,1.131,7582.63,0.0,4424,New York Stock Exchange,NYSE,US,False,False,True
+224,MTB,M&T Bank Corporation,23905545280,Financial Services,Banks—Regional,0.785,143.47,5.2,242028,New York Stock Exchange,NYSE,US,False,False,True
+225,EQR,Equity Residential,23870151060,Real Estate,REIT—Residential,0.849,62.89,2.65,258760,New York Stock Exchange,NYSE,US,False,False,True
+226,BR,"Broadridge Financial Solutions, Inc.",23728702560,Technology,Information Technology Services,1.001,201.48,3.2,45871,New York Stock Exchange,NYSE,US,False,False,True
+227,DOV,Dover Corporation,23712541500,Industrials,Specialty Industrial Machinery,1.27,169.5,2.04,126688,New York Stock Exchange,NYSE,US,False,False,True
+228,HPE,Hewlett Packard Enterprise Company,23569000000,Technology,Communication Equipment,1.201,18.13,0.52,5273192,New York Stock Exchange,NYSE,US,False,False,True
+229,IRM,Iron Mountain Incorporated,23520501914,Real Estate,REIT—Specialty,0.956,80.4736,2.6,331370,New York Stock Exchange,NYSE,US,False,False,True
+230,BLDR,"Builders FirstSource, Inc.",23374678600,Industrials,Building Products & Equipment,2.041,191.69,0.0,542480,New York Stock Exchange,NYSE,US,False,False,True
+231,PHM,"PulteGroup, Inc.",23366257920,Consumer Cyclical,Residential Construction,1.563,110.16,0.8,323843,New York Stock Exchange,NYSE,US,False,False,True
+232,PINS,"Pinterest, Inc.",23357027894,Communication Services,Internet Content & Information,1.003,34.4,0.0,3952510,New York Stock Exchange,NYSE,US,False,False,True
+233,DTW,DTE Energy Company JR SUB DB 2017 E,23310809898,,,0.0,24.82,1.31252,1122,New York Stock Exchange,NYSE,US,False,False,True
+234,MOH,"Molina Healthcare, Inc.",23298680000,Healthcare,Healthcare Plans,0.472,398.95,0.0,68286,New York Stock Exchange,NYSE,US,False,False,True
+235,DTE,DTE Energy Company,23222701711,Utilities,Utilities—Regulated Electric,0.656,112.59,3.88,324654,New York Stock Exchange,NYSE,US,False,False,True
+236,AWK,"American Water Works Company, Inc.",23209927125,Utilities,Utilities—Regulated Water,0.625,119.175,2.83,310605,New York Stock Exchange,NYSE,US,False,False,True
+237,DTG,DTE Energy Company 2021 Series ,23199446052,,,0.0,21.3,1.09376,2458,New York Stock Exchange,NYSE,US,False,False,True
+238,TRGP,Targa Resources Corp.,23134478850,Energy,Oil & Gas Midstream,2.187,103.67,2.0,183108,New York Stock Exchange,NYSE,US,False,False,True
+239,DTB,DTE Energy Company 2020 Series ,23115121196,,,0.0,21.05,1.3672,1556,New York Stock Exchange,NYSE,US,False,False,True
+240,DECK,Deckers Outdoor Corporation,23106770322,Consumer Cyclical,Footwear & Accessories,1.013,900.21,0.0,95022,New York Stock Exchange,NYSE,US,False,False,True
+241,LYV,"Live Nation Entertainment, Inc.",23100571820,Communication Services,Entertainment,1.302,100.09,0.0,353925,New York Stock Exchange,NYSE,US,False,False,True
+242,HEI,HEICO Corporation,22491424176,Industrials,Aerospace & Defense,1.166,184.2,0.2,61111,New York Stock Exchange,NYSE,US,False,False,True
+243,ARE,"Alexandria Real Estate Equities, Inc.",22322854400,Real Estate,REIT—Office,1.063,127.6,5.08,145937,New York Stock Exchange,NYSE,US,False,False,True
+244,BAX,Baxter International Inc.,22120537858,Healthcare,Medical Instruments & Supplies,0.621,43.5592,1.16,399764,New York Stock Exchange,NYSE,US,False,False,True
+245,ETR,Entergy Corporation,21995499700,Utilities,Utilities—Regulated Electric,0.701,103.15,4.52,130619,New York Stock Exchange,NYSE,US,False,False,True
+246,STT,State Street Corporation,21948309360,Financial Services,Asset Management,1.53,72.69,2.76,308341,New York Stock Exchange,NYSE,US,False,False,True
+247,FE,FirstEnergy Corp.,21920668560,Utilities,Utilities—Regulated Electric,0.473,38.16,1.64,708147,New York Stock Exchange,NYSE,US,False,False,True
+248,ROL,"Rollins, Inc.",21801438675,Consumer Cyclical,Personal Services,0.632,45.055,0.6,271784,New York Stock Exchange,NYSE,US,False,False,True
+249,WRB,W. R. Berkley Corporation,21666845711,Financial Services,Insurance—Property & Casualty,0.568,84.455,0.44,122750,New York Stock Exchange,NYSE,US,False,False,True
+250,VLTO,Veralto Corporation,21569856000,Industrials,Pollution And Treatment Controls,1.55,87.54,0.36,222520,New York Stock Exchange,NYSE,US,False,False,True
+251,IOT,Samsara Inc.,21546704831,Technology,Software—Infrastructure,1.551,39.875,0.0,3676477,New York Stock Exchange,NYSE,US,False,False,True
+252,INVH,Invitation Homes Inc.,21360393990,Real Estate,REIT—Residential,0.94,34.905,1.12,343222,New York Stock Exchange,NYSE,US,False,False,True
+253,ES,Eversource Energy,21115849495,Utilities,Utilities—Regulated Electric,0.596,60.385,2.86,552005,New York Stock Exchange,NYSE,US,False,False,True
+254,GPC,Genuine Parts Company,21057752805,Consumer Cyclical,Specialty Retail,0.945,151.035,4.0,350577,New York Stock Exchange,NYSE,US,False,False,True
+255,FLT,"FLEETCOR Technologies, Inc.",20980532664,Technology,Software—Infrastructure,1.223,291.99,0.0,61938,New York Stock Exchange,NYSE,US,False,False,True
+256,WAT,Waters Corporation,20865364344,Healthcare,Diagnostics & Research,0.926,352.44,0.0,75917,New York Stock Exchange,NYSE,US,False,False,True
+257,BALL,Ball Corporation,20668238160,Consumer Cyclical,Packaging & Containers,0.892,65.48,0.8,196900,New York Stock Exchange,NYSE,US,False,False,True
+258,IFF,International Flavors & Fragrances Inc.,20586048450,Basic Materials,Specialty Chemicals,1.229,80.63,1.6,419602,New York Stock Exchange,NYSE,US,False,False,True
+259,DRI,"Darden Restaurants, Inc.",20481374720,Consumer Cyclical,Restaurants,1.253,171.52,5.14,176900,New York Stock Exchange,NYSE,US,False,False,True
+260,HUBB,Hubbell Incorporated,20472643520,Industrials,Electrical Equipment & Parts,0.932,381.76,4.88,91477,New York Stock Exchange,NYSE,US,False,False,True
+261,VST,Vistra Corp.,20319962850,Utilities,Utilities—Independent Power Producers,1.039,58.41,0.86,2831821,New York Stock Exchange,NYSE,US,False,False,True
+262,CCL,Carnival Corporation & plc,20234478574,Consumer Cyclical,Travel Services,2.55,16.15,0.0,8294287,New York Stock Exchange,NYSE,US,False,False,True
+263,TDY,Teledyne Technologies Incorporated,20122652136,Technology,Scientific & Technical Instruments,1.017,424.74,0.0,33890,New York Stock Exchange,NYSE,US,False,False,True
+264,LUV,Southwest Airlines Co.,20068827275,Industrials,Airlines,1.163,33.635,0.72,1297763,New York Stock Exchange,NYSE,US,False,False,True
+265,PPL,PPL Corporation,20036985495,Utilities,Utilities—Regulated Electric,0.824,27.165,1.03,931547,New York Stock Exchange,NYSE,US,False,False,True
+266,SNAP,Snap Inc.,19700294340,Communication Services,Internet Content & Information,1.131,11.935,0.0,9641206,New York Stock Exchange,NYSE,US,False,False,True
+267,CTRA,Coterra Energy Inc.,19645762110,Energy,Oil & Gas E&P,0.19,26.13,0.84,1984912,New York Stock Exchange,NYSE,US,False,False,True
+268,MKL,Markel Corporation,19608195681,Financial Services,Insurance—Property & Casualty,0.698,1495.6671,0.0,5769,New York Stock Exchange,NYSE,US,False,False,True
+269,AEE,Ameren Corporation,19550405802,Utilities,Utilities—Regulated Electric,0.443,73.418,2.68,233747,New York Stock Exchange,NYSE,US,False,False,True
+270,CLX,The Clorox Company,19291657170,Consumer Defensive,Household & Personal Products,0.42,155.445,4.8,154100,New York Stock Exchange,NYSE,US,False,False,True
+271,TSN,"Tyson Foods, Inc.",19210615341,Consumer Defensive,Farm Products,0.76,54.99,1.96,555447,New York Stock Exchange,NYSE,US,False,False,True
+272,JBL,Jabil Inc.,18867879780,Technology,Electronic Components,1.414,147.93,0.32,278649,New York Stock Exchange,NYSE,US,False,False,True
+273,BAH,Booz Allen Hamilton Holding Corporation,18752202355,Industrials,Consulting Services,0.532,144.5301,2.04,127220,New York Stock Exchange,NYSE,US,False,False,True
+274,HRL,Hormel Foods Corporation,18610438240,Consumer Defensive,Packaged Foods,0.267,33.98,1.13,661731,New York Stock Exchange,NYSE,US,False,False,True
+275,MKC,"McCormick & Company, Incorporated",18594905281,Consumer Defensive,Packaged Foods,0.72,69.3752,1.68,201078,New York Stock Exchange,NYSE,US,False,False,True
+276,OMC,Omnicom Group Inc.,18389589840,Communication Services,Advertising Agencies,0.972,92.88,2.8,347736,New York Stock Exchange,NYSE,US,False,False,True
+277,J,Jacobs Engineering Group Inc.,18371432710,Industrials,Engineering & Construction,0.727,146.21,1.16,75582,New York Stock Exchange,NYSE,US,False,False,True
+278,K,Kellogg Company,18338696740,Consumer Defensive,Packaged Foods,0.415,53.83,2.24,636201,New York Stock Exchange,NYSE,US,False,False,True
+279,LH,Laboratory Corporation of America Holdings,18239608000,Healthcare,Diagnostics & Research,0.999,216.88,2.88,61957,New York Stock Exchange,NYSE,US,False,False,True
+280,WLK,Westlake Corporation,18039991200,Basic Materials,Specialty Chemicals,1.295,140.7,1.86,66157,New York Stock Exchange,NYSE,US,False,False,True
+281,RS,Reliance Steel & Aluminum Co.,18016644996,Basic Materials,Steel,0.873,313.74,4.4,38965,New York Stock Exchange,NYSE,US,False,False,True
+282,CNP,"CenterPoint Energy, Inc.",17956245850,Utilities,Utilities—Regulated Electric,0.928,28.43,0.8,922765,New York Stock Exchange,NYSE,US,False,False,True
+283,RF,Regions Financial Corporation,17936225280,Financial Services,Banks—Regional,1.206,19.52,0.96,849051,New York Stock Exchange,NYSE,US,False,False,True
+284,FDS,FactSet Research Systems Inc.,17900227136,Financial Services,Financial Data & Stock Exchanges,0.731,469.99,3.92,45116,New York Stock Exchange,NYSE,US,False,False,True
+285,IEX,IDEX Corporation,17877111951,Industrials,Specialty Industrial Machinery,0.966,236.33,2.56,31482,New York Stock Exchange,NYSE,US,False,False,True
+286,TYL,"Tyler Technologies, Inc.",17845164571,Technology,Software—Application,0.816,422.11,0.0,111777,New York Stock Exchange,NYSE,US,False,False,True
+287,EPAM,"EPAM Systems, Inc.",17834894000,Technology,Information Technology Services,1.490474,308.0,0.0,105352,New York Stock Exchange,NYSE,US,False,False,True
+288,VTR,"Ventas, Inc.",17748574200,Real Estate,REIT—Healthcare Facilities,1.274,44.1,1.8,146942,New York Stock Exchange,NYSE,US,False,False,True
+289,CMS,CMS Energy Corporation,17653390020,Utilities,Utilities—Regulated Electric,0.374,59.955,2.06,301426,New York Stock Exchange,NYSE,US,False,False,True
+290,TXT,Textron Inc.,17585391990,Industrials,Aerospace & Defense,1.291,91.185,0.08,237179,New York Stock Exchange,NYSE,US,False,False,True
+291,ATO,Atmos Energy Corporation,17513278200,Utilities,Utilities—Regulated Gas,0.656,116.105,3.22,155079,New York Stock Exchange,NYSE,US,False,False,True
+292,EXPD,"Expeditors International of Washington, Inc.",17416095970,Industrials,Integrated Freight & Logistics,0.987,121.03,1.38,433246,New York Stock Exchange,NYSE,US,False,False,True
+293,SYF,Synchrony Financial,17225774960,Financial Services,Credit Services,1.612,42.34,0.98,1035154,New York Stock Exchange,NYSE,US,False,False,True
+294,LDOS,"Leidos Holdings, Inc.",17222887255,Technology,Information Technology Services,0.707,126.845,1.52,142319,New York Stock Exchange,NYSE,US,False,False,True
+295,AVY,Avery Dennison Corporation,17196658320,Industrials,Business Equipment & Supplies,0.911,213.6,3.24,73629,New York Stock Exchange,NYSE,US,False,False,True
+296,AVTR,"Avantor, Inc.",17163900705,Basic Materials,Specialty Chemicals,1.365,25.305,0.0,704464,New York Stock Exchange,NYSE,US,False,False,True
+297,PSTG,"Pure Storage, Inc.",17109937950,Technology,Computer Hardware,1.158,54.15,0.0,1591529,New York Stock Exchange,NYSE,US,False,False,True
+298,CE,Celanese Corporation,17033987460,Basic Materials,Chemicals,1.343,156.41,2.8,100446,New York Stock Exchange,NYSE,US,False,False,True
+299,CSL,Carlisle Companies Incorporated,16783640204,Industrials,Building Products & Equipment,0.917,351.495,3.4,33030,New York Stock Exchange,NYSE,US,False,False,True
+300,L,Loews Corporation,16678407060,Financial Services,Insurance—Property & Casualty,0.826,75.06,0.25,108483,New York Stock Exchange,NYSE,US,False,False,True
+301,PKG,Packaging Corporation of America,16563878042,Consumer Cyclical,Packaging & Containers,0.788,184.815,5.0,86568,New York Stock Exchange,NYSE,US,False,False,True
+302,MAS,Masco Corporation,16543909200,Industrials,Building Products & Equipment,1.257,75.28,1.16,470374,New York Stock Exchange,NYSE,US,False,False,True
+303,SUI,"Sun Communities, Inc.",16539331280,Real Estate,REIT—Residential,0.815,132.94,3.76,93733,New York Stock Exchange,NYSE,US,False,False,True
+304,BBY,"Best Buy Co., Inc.",16441607472,Consumer Cyclical,Specialty Retail,1.509,76.332,3.76,466728,New York Stock Exchange,NYSE,US,False,False,True
+305,LII,Lennox International Inc.,16376999340,Industrials,Building Products & Equipment,1.03,460.2,4.36,64726,New York Stock Exchange,NYSE,US,False,False,True
+306,GDDY,GoDaddy Inc.,16268850430,Technology,Software—Infrastructure,1.117,114.185,0.0,224594,New York Stock Exchange,NYSE,US,False,False,True
+307,CVNA,Carvana Co.,16159974429,Consumer Cyclical,Internet Retail,3.319,80.04,0.0,2468049,New York Stock Exchange,NYSE,US,False,False,True
+308,H,Hyatt Hotels Corporation,15898742437,Consumer Cyclical,Lodging,1.493,154.04,0.6,236044,New York Stock Exchange,NYSE,US,False,False,True
+309,MAA,"Mid-America Apartment Communities, Inc.",15761328640,Real Estate,REIT—Residential,0.788,135.04,5.88,129918,New York Stock Exchange,NYSE,US,False,False,True
+310,CF,"CF Industries Holdings, Inc.",15745056800,Basic Materials,Agricultural Inputs,1.023,83.6,2.0,328122,New York Stock Exchange,NYSE,US,False,False,True
+311,CFG,"Citizens Financial Group, Inc.",15636732345,Financial Services,Banks—Regional,1.346,34.085,1.68,1108090,New York Stock Exchange,NYSE,US,False,False,True
+312,WSO,"Watsco, Inc.",15599051921,Industrials,Industrial Distribution,0.871,394.77,9.8,41193,New York Stock Exchange,NYSE,US,False,False,True
+313,SNA,Snap-on Incorporated,15529397100,Industrials,Tools & Accessories,0.98,294.6,7.44,72067,New York Stock Exchange,NYSE,US,False,False,True
+314,GGG,Graco Inc.,15484240530,Industrials,Specialty Industrial Machinery,0.807,92.07,1.02,60099,New York Stock Exchange,NYSE,US,False,False,True
+315,DPZ,"Domino's Pizza, Inc.",15314454857,Consumer Cyclical,Restaurants,0.855,439.91,6.04,65397,New York Stock Exchange,NYSE,US,False,False,True
+316,TRU,TransUnion,15277500000,Industrials,Consulting Services,1.605,78.75,0.42,133784,New York Stock Exchange,NYSE,US,False,False,True
+317,CRBG,"Corebridge Financial, Inc.",15267640682,Financial Services,Asset Management,0.0,24.5593,0.92,642295,New York Stock Exchange,NYSE,US,False,False,True
+318,WSM,"Williams-Sonoma, Inc.",15243940187,Consumer Cyclical,Specialty Retail,1.646,237.65,3.6,329325,New York Stock Exchange,NYSE,US,False,False,True
+319,EQT,EQT Corporation,15229965660,Energy,Oil & Gas E&P,1.136,34.58,0.63,9916229,New York Stock Exchange,NYSE,US,False,False,True
+320,RPM,RPM International Inc.,15014554540,Basic Materials,Specialty Chemicals,1.034,116.5075,1.84,76191,New York Stock Exchange,NYSE,US,False,False,True
+321,EME,"EMCOR Group, Inc.",14866860612,Industrials,Engineering & Construction,1.089,315.88,0.72,192824,New York Stock Exchange,NYSE,US,False,False,True
+322,BEN,"Franklin Resources, Inc.",14781483520,Financial Services,Asset Management,1.419,28.0719,1.24,542942,New York Stock Exchange,NYSE,US,False,False,True
+323,DKS,"DICK'S Sporting Goods, Inc.",14681334830,Consumer Cyclical,Specialty Retail,1.574,179.6,4.0,205934,New York Stock Exchange,NYSE,US,False,False,True
+324,ALB,Albemarle Corporation,14628819900,Basic Materials,Specialty Chemicals,1.626,124.49,1.6,1541735,New York Stock Exchange,NYSE,US,False,False,True
+325,LW,"Lamb Weston Holdings, Inc.",14557129590,Consumer Defensive,Packaged Foods,0.718,100.83,1.44,169910,New York Stock Exchange,NYSE,US,False,False,True
+326,MRO,Marathon Oil Corporation,14256823620,Energy,Oil & Gas E&P,2.215,24.7001,0.44,1821192,New York Stock Exchange,NYSE,US,False,False,True
+327,DGX,Quest Diagnostics Incorporated,14147801065,Healthcare,Diagnostics & Research,0.895,127.795,3.0,118140,New York Stock Exchange,NYSE,US,False,False,True
+328,XPO,"XPO Logistics, Inc.",14074056730,Industrials,Integrated Freight & Logistics,2.049,121.21,0.0,271336,New York Stock Exchange,NYSE,US,False,False,True
+329,SWK,"Stanley Black & Decker, Inc.",13933692190,Industrials,Tools & Accessories,1.328,90.595,3.24,196975,New York Stock Exchange,NYSE,US,False,False,True
+330,TAP,Molson Coors Beverage Company,13901085947,Consumer Defensive,Beverages—Brewers,0.845,65.4,1.76,373380,New York Stock Exchange,NYSE,US,False,False,True
+331,BURL,"Burlington Stores, Inc.",13894878102,Consumer Cyclical,Apparel Retail,1.473,215.34,0.0,203511,New York Stock Exchange,NYSE,US,False,False,True
+332,KEY,KeyCorp,13876892120,Financial Services,Banks—Regional,1.273,14.86,0.82,2428175,New York Stock Exchange,NYSE,US,False,False,True
+333,FNF,"Fidelity National Financial, Inc.",13816077990,Financial Services,Insurance—Specialty,1.367,50.57,1.92,219981,New York Stock Exchange,NYSE,US,False,False,True
+334,AGR,"Avangrid, Inc.",13808046000,Utilities,Utilities—Regulated Electric,0.542,35.7,1.76,296098,New York Stock Exchange,NYSE,US,False,False,True
+335,PATH,UiPath Inc.,13775513776,Technology,Software—Infrastructure,0.97,24.335,0.0,4565742,New York Stock Exchange,NYSE,US,False,False,True
+336,MGM,MGM Resorts International,13740719474,Consumer Cyclical,Resorts & Casinos,2.188,42.983,0.01,612655,New York Stock Exchange,NYSE,US,False,False,True
+337,DT,"Dynatrace, Inc.",13716593660,Technology,Software—Application,1.078,46.34,0.0,626895,New York Stock Exchange,NYSE,US,False,False,True
+338,TOST,"Toast, Inc.",13609700247,Technology,Software—Infrastructure,1.782,24.7,0.0,1043292,New York Stock Exchange,NYSE,US,False,False,True
+339,CRL,"Charles River Laboratories International, Inc.",13591265064,Healthcare,Diagnostics & Research,1.392,264.68,0.0,95115,New York Stock Exchange,NYSE,US,False,False,True
+340,CAG,"Conagra Brands, Inc.",13577732025,Consumer Defensive,Packaged Foods,0.406,28.405,1.4,606979,New York Stock Exchange,NYSE,US,False,False,True
+341,RVTY,"Revvity, Inc.",13520049675,Healthcare,Diagnostics & Research,1.096,109.4475,0.28,122674,New York Stock Exchange,NYSE,US,False,False,True
+342,OC,Owens Corning,13483770348,Industrials,Building Products & Equipment,1.458,154.975,2.4,138953,New York Stock Exchange,NYSE,US,False,False,True
+343,BG,Bunge Limited,13479857820,Consumer Defensive,Farm Products,0.636,93.99,2.65,313299,New York Stock Exchange,NYSE,US,False,False,True
+344,OVV,Ovintiv Inc.,13420283813,Energy,Oil & Gas E&P,2.67,49.7942,1.2,505568,New York Stock Exchange,NYSE,US,False,False,True
+345,AMH,American Homes 4 Rent,13384353660,Real Estate,REIT—Residential,0.711,36.62,1.04,255609,New York Stock Exchange,NYSE,US,False,False,True
+346,KIM,Kimco Realty Corporation,13057721525,Real Estate,REIT—Retail,1.439,19.405,0.96,438444,New York Stock Exchange,NYSE,US,False,False,True
+347,ELS,"Equity LifeStyle Properties, Inc.",12999858441,Real Estate,REIT—Residential,0.698995,66.49,1.79,69726,New York Stock Exchange,NYSE,US,False,False,True
+348,FND,"Floor & Decor Holdings, Inc.",12860085150,Consumer Cyclical,Home Improvement Retail,1.853,120.45,0.0,397023,New York Stock Exchange,NYSE,US,False,False,True
+349,USFD,US Foods Holding Corp.,12850060410,Consumer Defensive,Food Distribution,1.577,52.47,0.0,176772,New York Stock Exchange,NYSE,US,False,False,True
+350,SJM,The J. M. Smucker Company,12844110720,Consumer Defensive,Packaged Foods,0.212,120.97,4.24,217268,New York Stock Exchange,NYSE,US,False,False,True
+351,CPB,Campbell Soup Company,12767751490,Consumer Defensive,Packaged Foods,0.228,42.83,1.48,650118,New York Stock Exchange,NYSE,US,False,False,True
+352,WES,"Western Midstream Partners, LP",12715775280,Energy,Oil & Gas Midstream,2.756,33.42,2.3,145491,New York Stock Exchange,NYSE,US,False,False,True
+353,KMX,"CarMax, Inc.",12711061290,Consumer Cyclical,Auto & Truck Dealerships,1.605,80.49,0.0,234840,New York Stock Exchange,NYSE,US,False,False,True
+354,BLD,TopBuild Corp.,12641088538,Industrials,Engineering & Construction,1.661,397.82,0.0,77437,New York Stock Exchange,NYSE,US,False,False,True
+355,WPC,W. P. Carey Inc.,12632681440,Real Estate,REIT—Diversified,0.876,57.77,3.44,203893,New York Stock Exchange,NYSE,US,False,False,True
+356,AOS,A. O. Smith Corporation,12498793606,Industrials,Specialty Industrial Machinery,1.238,84.91,1.28,101880,New York Stock Exchange,NYSE,US,False,False,True
+357,IP,International Paper Company,12498184090,Consumer Cyclical,Packaging & Containers,0.963,36.085,1.85,307710,New York Stock Exchange,NYSE,US,False,False,True
+358,NRG,"NRG Energy, Inc.",12475019370,Utilities,Utilities—Independent Power Producers,1.098,59.97,1.63,626383,New York Stock Exchange,NYSE,US,False,False,True
+359,UHAL,U-Haul Holding Company,12456813759,Industrials,Rental & Leasing Services,1.066,65.05,0.0,14295,New York Stock Exchange,NYSE,US,False,False,True
+360,UDR,"UDR, Inc.",12443021080,Real Estate,REIT—Residential,0.785,37.795,1.68,448673,New York Stock Exchange,NYSE,US,False,False,True
+361,WMS,"Advanced Drainage Systems, Inc.",12407045480,Industrials,Building Products & Equipment,1.514,159.85,0.56,53647,New York Stock Exchange,NYSE,US,False,False,True
+362,TOL,"Toll Brothers, Inc.",12383729600,Consumer Cyclical,Residential Construction,1.642,118.88,0.84,268440,New York Stock Exchange,NYSE,US,False,False,True
+363,IPG,"The Interpublic Group of Companies, Inc.",12372945750,Communication Services,Advertising Agencies,1.123,32.67,1.32,1118008,New York Stock Exchange,NYSE,US,False,False,True
+364,ACM,AECOM,12288408160,Industrials,Engineering & Construction,1.23,90.34,0.88,97952,New York Stock Exchange,NYSE,US,False,False,True
+365,NI,NiSource Inc.,12063528653,Utilities,Utilities—Regulated Gas,0.48,26.9561,1.06,616722,New York Stock Exchange,NYSE,US,False,False,True
+366,JNPR,"Juniper Networks, Inc.",12050754150,Technology,Communication Equipment,0.979,37.15,0.88,892500,New York Stock Exchange,NYSE,US,False,False,True
+367,KNSL,"Kinsale Capital Group, Inc.",11998967904,Financial Services,Insurance—Property & Casualty,0.887,517.44,0.6,31101,New York Stock Exchange,NYSE,US,False,False,True
+368,RZC,7.125% Fixed-Rate Reset Subordinated Debentures due 2052,11996026508,,,0.0,26.13,2.22653,21314,New York Stock Exchange,NYSE,US,False,False,True
+369,ACI,"Albertsons Companies, Inc.",11978751800,Consumer Defensive,Grocery Stores,0.321,20.795,0.48,281126,New York Stock Exchange,NYSE,US,False,False,True
+370,RGA,"Reinsurance Group of America, Incorporated",11978313154,Financial Services,Insurance—Reinsurance,0.883,182.16,3.4,35407,New York Stock Exchange,NYSE,US,False,False,True
+371,DVA,DaVita Inc.,11942109000,Healthcare,Medical Care Facilities,1.034,136.17,0.0,160409,New York Stock Exchange,NYSE,US,False,False,True
+372,CNA,CNA Financial Corporation,11844971325,Financial Services,Insurance—Property & Casualty,0.662,43.725,1.76,21251,New York Stock Exchange,NYSE,US,False,False,True
+373,TPL,Texas Pacific Land Corporation,11738894020,Energy,Oil & Gas E&P,1.622,1530.81,14.0,3813,New York Stock Exchange,NYSE,US,False,False,True
+374,GL,Globe Life Inc.,11727300001,Financial Services,Insurance—Life,0.784232,123.68,0.9,216698,New York Stock Exchange,NYSE,US,False,False,True
+375,AES,The AES Corporation,11716184065,Utilities,Utilities—Diversified,1.056,16.495,0.68,2318521,New York Stock Exchange,NYSE,US,False,False,True
+376,PFGC,Performance Food Group Company,11710180290,Consumer Defensive,Food Distribution,1.389,75.265,0.0,175008,New York Stock Exchange,NYSE,US,False,False,True
+377,WRK,WestRock Company,11681077357,Consumer Cyclical,Packaging & Containers,1.097,45.4575,1.21,236028,New York Stock Exchange,NYSE,US,False,False,True
+378,PR,Permian Resources Corporation,11541109638,Energy,Oil & Gas E&P,4.356,15.79,0.6,1482553,New York Stock Exchange,NYSE,US,False,False,True
+379,REXR,"Rexford Industrial Realty, Inc.",11492044980,Real Estate,REIT—Industrial,0.877,53.43,1.67,392727,New York Stock Exchange,NYSE,US,False,False,True
+380,PCOR,"Procore Technologies, Inc.",11465833040,Technology,Software—Application,0.705,79.12,0.0,327665,New York Stock Exchange,NYSE,US,False,False,True
+381,HII,"Huntington Ingalls Industries, Inc.",11459330162,Industrials,Aerospace & Defense,0.603,289.445,5.2,29925,New York Stock Exchange,NYSE,US,False,False,True
+382,TWLO,Twilio Inc.,11384274330,Communication Services,Internet Content & Information,1.347,62.53,0.0,918086,New York Stock Exchange,NYSE,US,False,False,True
+383,ALLY,Ally Financial Inc.,11366546805,Financial Services,Credit Services,1.38,37.395,1.2,832150,New York Stock Exchange,NYSE,US,False,False,True
+384,COTY,Coty Inc.,11301508625,Consumer Defensive,Household & Personal Products,1.833,12.625,0.0,381801,New York Stock Exchange,NYSE,US,False,False,True
+385,RL,Ralph Lauren Corporation,11300233162,Consumer Cyclical,Apparel Manufacturing,1.546,176.72,3.0,252060,New York Stock Exchange,NYSE,US,False,False,True
+386,RRX,Regal Rexnord Corporation,11209151250,Industrials,Specialty Industrial Machinery,1.127,168.75,1.4,78130,New York Stock Exchange,NYSE,US,False,False,True
+387,DINO,HF Sinclair Corporation,11164485800,Energy,Oil & Gas Refining & Marketing,1.266,56.225,1.85,639627,New York Stock Exchange,NYSE,US,False,False,True
+388,EQH,"Equitable Holdings, Inc.",11070046825,Financial Services,Insurance—Diversified,1.408,33.575,0.88,487573,New York Stock Exchange,NYSE,US,False,False,True
+389,SCI,Service Corporation International,10938171300,Consumer Cyclical,Personal Services,0.812,74.9,1.2,213412,New York Stock Exchange,NYSE,US,False,False,True
+390,ELF,"e.l.f. Beauty, Inc.",10863183240,Consumer Defensive,Household & Personal Products,1.595,195.7087,0.0,382629,New York Stock Exchange,NYSE,US,False,False,True
+391,INFA,Informatica Inc.,10796192535,Technology,Software—Infrastructure,1.07,31.835,0.0,66095,New York Stock Exchange,NYSE,US,False,False,True
+392,AFG,"American Financial Group, Inc.",10755966461,Financial Services,Insurance—Property & Casualty,0.775,128.565,2.84,43155,New York Stock Exchange,NYSE,US,False,False,True
+393,FIX,"Comfort Systems USA, Inc.",10719296994,Industrials,Engineering & Construction,1.191,300.39,1.0,140812,New York Stock Exchange,NYSE,US,False,False,True
+394,EMN,Eastman Chemical Company,10659528960,Basic Materials,Specialty Chemicals,1.539,90.84,3.24,173316,New York Stock Exchange,NYSE,US,False,False,True
+395,TPR,"Tapestry, Inc.",10658638020,Consumer Cyclical,Luxury Goods,1.588,46.47,1.4,590829,New York Stock Exchange,NYSE,US,False,False,True
+396,X,United States Steel Corporation,10640621470,Basic Materials,Steel,2.025,47.555,0.2,344214,New York Stock Exchange,NYSE,US,False,False,True
+397,TFX,Teleflex Incorporated,10598064930,Healthcare,Medical Instruments & Supplies,1.106,225.22,1.36,27128,New York Stock Exchange,NYSE,US,False,False,True
+398,PAYC,"Paycom Software, Inc.",10548020592,Technology,Software—Application,1.165,183.28,1.5,189242,New York Stock Exchange,NYSE,US,False,False,True
+399,ESTC,Elastic N.V.,10430603760,Technology,Software—Application,0.969,103.47,0.0,730587,New York Stock Exchange,NYSE,US,False,False,True
+400,DAY,Dayforce Inc,10415466000,Technology,Software - Application,1.305,66.51,0.0,169093,New York Stock Exchange,NYSE,US,False,False,True
+401,U,Unity Software Inc.,10353617655,Technology,Software—Application,2.52,27.245,0.0,1967721,New York Stock Exchange,NYSE,US,False,False,True
+402,ITT,ITT Inc.,10321612000,Industrials,Specialty Industrial Machinery,1.426,125.72,1.28,21795,New York Stock Exchange,NYSE,US,False,False,True
+403,CUBE,CubeSmart,10287192150,Real Estate,REIT—Industrial,0.707,45.73,2.04,296938,New York Stock Exchange,NYSE,US,False,False,True
+404,CLF,Cleveland-Cliffs Inc.,10252296175,Basic Materials,Steel,2.013,20.575,0.0,1667924,New York Stock Exchange,NYSE,US,False,False,True
+405,APG,APi Group Corporation,10237858873,Industrials,Engineering & Construction,1.76,38.585,0.0,440975,New York Stock Exchange,NYSE,US,False,False,True
+406,UHS,"Universal Health Services, Inc.",10231730366,Healthcare,Medical Care Facilities,1.237,170.615,0.8,143989,New York Stock Exchange,NYSE,US,False,False,True
+407,CTLT,"Catalent, Inc.",10188201060,Healthcare,Drug Manufacturers—Specialty & Generic,1.201,56.37,0.0,386340,New York Stock Exchange,NYSE,US,False,False,True
+408,PAG,"Penske Automotive Group, Inc.",10181140048,Consumer Cyclical,Auto & Truck Dealerships,1.198,151.98,3.04,23668,New York Stock Exchange,NYSE,US,False,False,True
+409,FBIN,"Fortune Brands Innovations, Inc.",10125005475,Industrials,Building Products & Equipment,1.628,80.275,0.93,118435,New York Stock Exchange,NYSE,US,False,False,True
+410,TREX,"Trex Company, Inc.",10118325600,Industrials,Building Products & Equipment,1.585,93.15,0.0,107685,New York Stock Exchange,NYSE,US,False,False,True
+411,MOS,The Mosaic Company,10107468380,Basic Materials,Agricultural Inputs,1.499,31.42,0.84,780230,New York Stock Exchange,NYSE,US,False,False,True
+412,BBWI,"Bath & Body Works, Inc.",10070190370,Consumer Cyclical,Specialty Retail,1.848,44.57,0.8,404187,New York Stock Exchange,NYSE,US,False,False,True
+413,BXP,"Boston Properties, Inc.",10059694770,Real Estate,REIT—Office,1.166,64.07,3.92,104762,New York Stock Exchange,NYSE,US,False,False,True
+414,CLH,"Clean Harbors, Inc.",10023260874,Industrials,Waste Management,1.232,185.82,0.0,43197,New York Stock Exchange,NYSE,US,False,False,True
+415,NLY,"Annaly Capital Management, Inc.",9871579200,Real Estate,REIT—Mortgage,1.594,19.74,2.6,722197,New York Stock Exchange,NYSE,US,False,False,True
+416,BJ,"BJ's Wholesale Club Holdings, Inc.",9790165400,Consumer Defensive,Discount Stores,0.263,73.4,0.0,399555,New York Stock Exchange,NYSE,US,False,False,True
+417,BIO,"Bio-Rad Laboratories, Inc.",9788970096,Healthcare,Medical Devices,0.873,342.96,0.0,31067,New York Stock Exchange,NYSE,US,False,False,True
+418,WTRG,"Essential Utilities, Inc.",9736241250,Utilities,Utilities—Regulated Water,0.809,35.625,1.23,238062,New York Stock Exchange,NYSE,US,False,False,True
+419,THC,Tenet Healthcare Corporation,9730513450,Healthcare,Medical Care Facilities,2.072,97.31,0.0,388322,New York Stock Exchange,NYSE,US,False,False,True
+420,CNM,"Core & Main, Inc.",9713409929,Industrials,Industrial Distribution,1.113,48.255,0.0,796177,New York Stock Exchange,NYSE,US,False,False,True
+421,CHE,Chemed Corporation,9679781472,Healthcare,Medical Care Facilities,0.421,640.32,1.6,12402,New York Stock Exchange,NYSE,US,False,False,True
+422,UNM,Unum Group,9608458060,Financial Services,Insurance—Life,0.844,50.17,1.46,211747,New York Stock Exchange,NYSE,US,False,False,True
+423,GWRE,"Guidewire Software, Inc.",9531806004,Technology,Software—Application,1.154,116.34,0.0,107541,New York Stock Exchange,NYSE,US,False,False,True
+424,WEX,WEX Inc.,9520959924,Technology,Software—Infrastructure,1.59,228.13,0.0,66821,New York Stock Exchange,NYSE,US,False,False,True
+425,PEN,"Penumbra, Inc.",9518400941,Healthcare,Medical Devices,0.525,245.93,0.0,25692,New York Stock Exchange,NYSE,US,False,False,True
+426,CCK,"Crown Holdings, Inc.",9452477580,Consumer Cyclical,Packaging & Containers,0.906,78.26,1.0,117979,New York Stock Exchange,NYSE,US,False,False,True
+427,ATR,"AptarGroup, Inc.",9410293484,Healthcare,Medical Instruments & Supplies,0.582,142.545,1.64,26382,New York Stock Exchange,NYSE,US,False,False,True
+428,BWXT,"BWX Technologies, Inc.",9366518252,Industrials,Aerospace & Defense,0.727,102.58,0.96,89332,New York Stock Exchange,NYSE,US,False,False,True
+429,TPX,"Tempur Sealy International, Inc.",9358991640,Consumer Cyclical,"Furnishings, Fixtures & Appliances",1.559,53.91,0.52,196024,New York Stock Exchange,NYSE,US,False,False,True
+430,SNX,TD SYNNEX Corporation,9298396288,Technology,Electronics & Computer Distribution,1.55,104.32,1.6,50746,New York Stock Exchange,NYSE,US,False,False,True
+431,AIZ,"Assurant, Inc.",9215113902,Financial Services,Insurance—Specialty,0.498,177.2901,2.88,57149,New York Stock Exchange,NYSE,US,False,False,True
+432,SKX,"Skechers U.S.A., Inc.",9180472848,Consumer Cyclical,Footwear & Accessories,1.322,59.895,0.0,402201,New York Stock Exchange,NYSE,US,False,False,True
+433,KNX,Knight-Swift Transportation Holdings Inc.,9140560400,Industrials,Trucking,0.997,56.6,0.64,230647,New York Stock Exchange,NYSE,US,False,False,True
+434,TTC,The Toro Company,9129485860,Industrials,Tools & Accessories,0.727,87.89,1.44,105216,New York Stock Exchange,NYSE,US,False,False,True
+435,JEF,Jefferies Financial Group Inc.,9121069100,Financial Services,Capital Markets,1.348,43.03,1.2,120870,New York Stock Exchange,NYSE,US,False,False,True
+436,CW,Curtiss-Wright Corporation,9090585726,Industrials,Aerospace & Defense,1.175,237.89,0.8,21685,New York Stock Exchange,NYSE,US,False,False,True
+437,JLL,Jones Lang LaSalle Incorporated,8846858835,Real Estate,Real Estate Services,1.423,186.475,0.0,40436,New York Stock Exchange,NYSE,US,False,False,True
+438,PNW,Pinnacle West Capital Corporation,8829887340,Utilities,Utilities—Regulated Electric,0.469,71.67,3.52,198219,New York Stock Exchange,NYSE,US,False,False,True
+439,ONTO,Onto Innovation Inc.,8771178900,Technology,Semiconductor Equipment & Materials,1.382,178.53,0.0,159717,New York Stock Exchange,NYSE,US,False,False,True
+440,SSD,"Simpson Manufacturing Co., Inc.",8739891535,Industrials,Building Products & Equipment,1.304,205.8014,1.08,33600,New York Stock Exchange,NYSE,US,False,False,True
+441,EGP,"EastGroup Properties, Inc.",8663839356,Real Estate,REIT—Industrial,0.939,180.66,5.08,23770,New York Stock Exchange,NYSE,US,False,False,True
+442,MTN,"Vail Resorts, Inc.",8643665989,Consumer Cyclical,Resorts & Casinos,1.119,227.665,8.24,194352,New York Stock Exchange,NYSE,US,False,False,True
+443,DCI,"Donaldson Company, Inc.",8617216710,Industrials,Specialty Industrial Machinery,1.095,71.59,1.0,104093,New York Stock Exchange,NYSE,US,False,False,True
+444,HLI,"Houlihan Lokey, Inc.",8611979197,Financial Services,Capital Markets,0.697,124.39,2.2,28873,New York Stock Exchange,NYSE,US,False,False,True
+445,PRI,"Primerica, Inc.",8598993776,Financial Services,Insurance—Life,1.064,246.76,3.0,13431,New York Stock Exchange,NYSE,US,False,False,True
+446,EXP,Eagle Materials Inc.,8590071245,Basic Materials,Building Materials,1.341,249.3475,1.0,78735,New York Stock Exchange,NYSE,US,False,False,True
+447,PSN,Parsons Corporation,8469574900,Industrials,Specialty Industrial Machinery,0.849,80.03,0.0,179494,New York Stock Exchange,NYSE,US,False,False,True
+448,AGCO,AGCO Corporation,8452790330,Industrials,Farm & Heavy Construction Machinery,1.311,113.281,1.16,137072,New York Stock Exchange,NYSE,US,False,False,True
+449,NCLH,Norwegian Cruise Line Holdings Ltd.,8449291450,Consumer Cyclical,Travel Services,2.595,19.85,0.0,2242440,New York Stock Exchange,NYSE,US,False,False,True
+450,MUSA,Murphy USA Inc.,8441653752,Consumer Cyclical,Specialty Retail,0.773,405.72,1.68,36755,New York Stock Exchange,NYSE,US,False,False,True
+451,HESM,Hess Midstream LP,8423198039,Energy,Oil & Gas Midstream,1.485,35.42,2.54,142974,New York Stock Exchange,NYSE,US,False,False,True
+452,RHI,Robert Half International Inc.,8394626110,Industrials,Staffing & Employment Services,1.261,79.79,2.12,190798,New York Stock Exchange,NYSE,US,False,False,True
+453,WBS,Webster Financial Corporation,8366088630,Financial Services,Banks—Regional,1.314,48.71,1.6,103153,New York Stock Exchange,NYSE,US,False,False,True
+454,GPK,Graphic Packaging Holding Company,8350683390,Consumer Cyclical,Packaging & Containers,0.842,27.285,0.4,420098,New York Stock Exchange,NYSE,US,False,False,True
+455,FHN,First Horizon Corporation,8317857080,Financial Services,Banks—Regional,0.947,14.885,0.6,1588916,New York Stock Exchange,NYSE,US,False,False,True
+456,ARMK,Aramark,8271237810,Industrials,Specialty Business Services,1.529,31.515,0.38,398249,New York Stock Exchange,NYSE,US,False,False,True
+457,CACI,CACI International Inc,8265900152,Technology,Information Technology Services,0.889,370.916,0.0,12897,New York Stock Exchange,NYSE,US,False,False,True
+458,KBR,"KBR, Inc.",8225884800,Industrials,Engineering & Construction,0.952,60.9,0.6,201229,New York Stock Exchange,NYSE,US,False,False,True
+459,OWL,Blue Owl Capital Inc.,8165646195,Financial Services,Asset Management,1.267,17.535,0.56,547947,New York Stock Exchange,NYSE,US,False,False,True
+460,ORI,Old Republic International Corporation,8090981640,Financial Services,Insurance—Diversified,0.858,29.085,1.06,269699,New York Stock Exchange,NYSE,US,False,False,True
+461,LEA,Lear Corporation,8082288140,Consumer Cyclical,Auto Parts,1.536,141.71,3.08,91235,New York Stock Exchange,NYSE,US,False,False,True
+462,SITE,"SiteOne Landscape Supply, Inc.",8078687903,Industrials,Industrial Distribution,1.544,178.97,0.0,135655,New York Stock Exchange,NYSE,US,False,False,True
+463,FMC,FMC Corporation,8049579720,Basic Materials,Agricultural Inputs,0.857,64.52,2.32,394397,New York Stock Exchange,NYSE,US,False,False,True
+464,S,"SentinelOne, Inc.",8038831946,Technology,Software—Infrastructure,0.712,26.915,0.0,1649399,New York Stock Exchange,NYSE,US,False,False,True
+465,ELAN,Elanco Animal Health Incorporated,8032946150,Healthcare,Drug Manufacturers—Specialty & Generic,1.297,16.295,0.0,956192,New York Stock Exchange,NYSE,US,False,False,True
+466,CHWY,"Chewy, Inc.",8002707498,Consumer Cyclical,Internet Retail,0.919,18.02,0.0,3033267,New York Stock Exchange,NYSE,US,False,False,True
+467,DLB,"Dolby Laboratories, Inc.",7961716706,Technology,Information Technology Services,0.966,83.3,1.2,32857,New York Stock Exchange,NYSE,US,False,False,True
+468,AR,Antero Resources Corporation,7959552960,Energy,Oil & Gas E&P,3.314,26.22,0.0,1396377,New York Stock Exchange,NYSE,US,False,False,True
+469,RRC,Range Resources Corporation,7958484400,Energy,Oil & Gas E&P,1.834,32.87,0.32,561022,New York Stock Exchange,NYSE,US,False,False,True
+470,WCC,"WESCO International, Inc.",7949780672,Industrials,Industrial Distribution,2.048,156.02,1.54,77928,New York Stock Exchange,NYSE,US,False,False,True
+471,LAD,"Lithia Motors, Inc.",7898339901,Consumer Cyclical,Auto & Truck Dealerships,1.587,286.89,2.0,73580,New York Stock Exchange,NYSE,US,False,False,True
+472,AYI,"Acuity Brands, Inc.",7831165216,Industrials,Electrical Equipment & Parts,1.487,254.12,0.6,35345,New York Stock Exchange,NYSE,US,False,False,True
+473,GPS,"The Gap, Inc.",7819384638,Consumer Cyclical,Apparel Retail,2.223,21.086,0.6,4218923,New York Stock Exchange,NYSE,US,False,False,True
+474,RBC,RBC Bearings Incorporated,7804990974,Industrials,Tools & Accessories,1.453,267.46,0.0,12564,New York Stock Exchange,NYSE,US,False,False,True
+475,SN,"SharkNinja, Inc.",7781714496,Consumer Cyclical,"Furnishings, Fixtures & Appliances",,55.95,1.08,155183,New York Stock Exchange,NYSE,US,False,False,True
+476,PVH,PVH Corp.,7766293438,Consumer Cyclical,Apparel Manufacturing,2.204,130.225,0.15,415872,New York Stock Exchange,NYSE,US,False,False,True
+477,NNN,"National Retail Properties, Inc.",7741501875,Real Estate,REIT—Retail,0.973,42.425,2.25,183981,New York Stock Exchange,NYSE,US,False,False,True
+478,INGR,Ingredion Incorporated,7721425054,Consumer Defensive,Packaged Foods,0.813,117.77,3.12,83861,New York Stock Exchange,NYSE,US,False,False,True
+479,BRBR,"BellRing Brands, Inc.",7695016250,Consumer Defensive,Packaged Foods,0.895,58.75,0.0,208038,New York Stock Exchange,NYSE,US,False,False,True
+480,MTDR,Matador Resources Company,7682745600,Energy,Oil & Gas E&P,3.332,64.28,0.8,194874,New York Stock Exchange,NYSE,US,False,False,True
+481,SWN,Southwestern Energy Company,7682683500,Energy,Oil & Gas E&P,1.121,6.975,0.0,2716262,New York Stock Exchange,NYSE,US,False,False,True
+482,MHK,"Mohawk Industries, Inc.",7660766028,Consumer Cyclical,"Furnishings, Fixtures & Appliances",1.331,120.27,0.0,84558,New York Stock Exchange,NYSE,US,False,False,True
+483,EHC,Encompass Health Corporation,7602698898,Healthcare,Medical Care Facilities,0.832,75.9207,0.6,63856,New York Stock Exchange,NYSE,US,False,False,True
+484,SF,Stifel Financial Corp.,7599708280,Financial Services,Capital Markets,1.177,73.93,1.68,93368,New York Stock Exchange,NYSE,US,False,False,True
+485,OHI,"Omega Healthcare Investors, Inc.",7591097577,Real Estate,REIT—Healthcare Facilities,0.888,30.9458,2.68,184001,New York Stock Exchange,NYSE,US,False,False,True
+486,CCCS,CCC Intelligent Solutions Holdings Inc.,7573253875,Technology,Software—Infrastructure,0.613,12.525,0.0,769833,New York Stock Exchange,NYSE,US,False,False,True
+487,CIEN,Ciena Corporation,7548443495,Technology,Communication Equipment,1.006,52.055,0.0,772070,New York Stock Exchange,NYSE,US,False,False,True
+488,EVR,Evercore Inc.,7503030012,Financial Services,Capital Markets,1.44,193.98,3.04,211066,New York Stock Exchange,NYSE,US,False,False,True
+489,OSK,Oshkosh Corporation,7481825263,Industrials,Farm & Heavy Construction Machinery,1.278,114.095,1.84,128191,New York Stock Exchange,NYSE,US,False,False,True
+490,GMED,"Globus Medical, Inc.",7446835559,Healthcare,Medical Devices,1.087,55.01,0.0,173773,New York Stock Exchange,NYSE,US,False,False,True
+491,EDR,"Endeavor Group Holdings, Inc.",7431195695,Communication Services,Entertainment,0.812,24.745,0.24,356756,New York Stock Exchange,NYSE,US,False,False,True
+492,CR,Crane Company,7406073326,Industrials,Specialty Industrial Machinery,1.413,130.115,0.82,43090,New York Stock Exchange,NYSE,US,False,False,True
+493,BWA,BorgWarner Inc.,7388575900,Consumer Cyclical,Auto Parts,1.281,32.155,0.44,1326216,New York Stock Exchange,NYSE,US,False,False,True
+494,SUM,"Summit Materials, Inc.",7343653520,Basic Materials,Building Materials,1.321,42.14,0.0,182350,New York Stock Exchange,NYSE,US,False,False,True
+495,SAIC,Science Applications International Corporation,7325193750,Technology,Information Technology Services,0.702,140.7,1.48,49557,New York Stock Exchange,NYSE,US,False,False,True
+496,AXTA,Axalta Coating Systems Ltd.,7315252200,Basic Materials,Specialty Chemicals,1.505,33.23,0.0,236647,New York Stock Exchange,NYSE,US,False,False,True
+497,W,Wayfair Inc.,7305274175,Consumer Cyclical,Internet Retail,3.275,60.695,0.0,1288939,New York Stock Exchange,NYSE,US,False,False,True
+498,MSA,MSA Safety Incorporated,7257408730,Industrials,Security & Protection Services,1.003,184.58,1.88,8876,New York Stock Exchange,NYSE,US,False,False,True
+499,CAVA,"CAVA Group, Inc.",7253494295,Consumer Cyclical,Restaurants,,63.845,0.0,706020,New York Stock Exchange,NYSE,US,False,False,True
+500,LEVI,Levi Strauss & Co.,7213408555,Consumer Cyclical,Apparel Manufacturing,1.205,18.13,0.48,253352,New York Stock Exchange,NYSE,US,False,False,True
+501,FCN,"FTI Consulting, Inc.",7196381583,Industrials,Consulting Services,0.115,202.525,0.0,35684,New York Stock Exchange,NYSE,US,False,False,True
+502,UI,Ubiquiti Inc.,7182185948,Technology,Communication Equipment,1.241,118.79,2.4,13603,New York Stock Exchange,NYSE,US,False,False,True
+503,NYT,The New York Times Company,7150062040,Communication Services,Publishing,1.012,43.78,0.52,227574,New York Stock Exchange,NYSE,US,False,False,True
+504,MTZ,"MasTec, Inc.",7128605064,Industrials,Engineering & Construction,1.598,89.915,0.0,145780,New York Stock Exchange,NYSE,US,False,False,True
+505,GNRC,Generac Holdings Inc.,7090683145,Industrials,Specialty Industrial Machinery,1.436,117.65,0.0,178824,New York Stock Exchange,NYSE,US,False,False,True
+506,IVZ,Invesco Ltd.,7088439120,Financial Services,Asset Management,1.429,15.78,0.8,633227,New York Stock Exchange,NYSE,US,False,False,True
+507,BILL,"Bill.com Holdings, Inc.",7087150350,Technology,Software—Application,1.664,67.41,0.0,416813,New York Stock Exchange,NYSE,US,False,False,True
+508,AIT,"Applied Industrial Technologies, Inc.",7035528830,Industrials,Industrial Distribution,1.077,181.94,1.48,38587,New York Stock Exchange,NYSE,US,False,False,True
+509,DAR,Darling Ingredients Inc.,7027672330,Consumer Defensive,Packaged Foods,1.284,44.03,0.0,216711,New York Stock Exchange,NYSE,US,False,False,True
+510,CIVI,"Civitas Resources, Inc.",7008836980,Energy,Oil & Gas E&P,1.552,69.38,5.8,250174,New York Stock Exchange,NYSE,US,False,False,True
+511,NOV,NOV Inc.,6987660940,Energy,Oil & Gas Equipment & Services,1.735,17.735,0.2,694152,New York Stock Exchange,NYSE,US,False,False,True
+512,VOYA,"Voya Financial, Inc.",6981993720,Financial Services,Financial Conglomerates,1.049,68.715,1.6,315797,New York Stock Exchange,NYSE,US,False,False,True
+513,AZEK,The AZEK Company Inc.,6977774100,Industrials,Building Products & Equipment,1.926,47.85,0.0,280331,New York Stock Exchange,NYSE,US,False,False,True
+514,BERY,"Berry Global Group, Inc.",6934876500,Consumer Cyclical,Packaging & Containers,1.241,59.835,1.1,121427,New York Stock Exchange,NYSE,US,False,False,True
+515,CFR,"Cullen/Frost Bankers, Inc.",6931987113,Financial Services,Banks—Regional,1.03,107.97,3.68,37678,New York Stock Exchange,NYSE,US,False,False,True
+516,RHP,"Ryman Hospitality Properties, Inc.",6919690355,Real Estate,REIT—Hotel & Motel,1.579,115.885,4.4,43169,New York Stock Exchange,NYSE,US,False,False,True
+517,CMA,Comerica Incorporated,6915978000,Financial Services,Banks—Regional,1.272,52.2,2.84,416682,New York Stock Exchange,NYSE,US,False,False,True
+518,OLN,Olin Corporation,6909981750,Basic Materials,Specialty Chemicals,1.414,56.385,0.8,160616,New York Stock Exchange,NYSE,US,False,False,True
+519,FOUR,"Shift4 Payments, Inc.",6890084692,Technology,Software—Infrastructure,1.604,83.6,0.0,592544,New York Stock Exchange,NYSE,US,False,False,True
+520,STAG,"STAG Industrial, Inc.",6871397400,Real Estate,REIT—Industrial,1.017,37.8,1.48,428668,New York Stock Exchange,NYSE,US,False,False,True
+521,BRX,Brixmor Property Group Inc.,6828805845,Real Estate,REIT—Retail,1.502,22.665,1.09,308761,New York Stock Exchange,NYSE,US,False,False,True
+522,OGE,OGE Energy Corp.,6795193600,Utilities,Utilities—Regulated Electric,0.709,33.92,1.67,344902,New York Stock Exchange,NYSE,US,False,False,True
+523,WTS,"Watts Water Technologies, Inc.",6791578439,Industrials,Specialty Industrial Machinery,0.935,203.92,1.44,10548,New York Stock Exchange,NYSE,US,False,False,True
+524,BFAM,Bright Horizons Family Solutions Inc.,6738871388,Consumer Cyclical,Personal Services,1.377,116.26,0.0,45580,New York Stock Exchange,NYSE,US,False,False,True
+525,RLI,RLI Corp.,6700045682,Financial Services,Insurance—Property & Casualty,0.349,146.74,1.08,15237,New York Stock Exchange,NYSE,US,False,False,True
+526,IBP,"Installed Building Products, Inc.",6652985094,Industrials,Building Products & Equipment,1.889,234.54,1.4,31094,New York Stock Exchange,NYSE,US,False,False,True
+527,TKO,"TKO Group Holdings, Inc.",6644999552,Communication Services,Entertainment,,80.72,4.1,121134,New York Stock Exchange,NYSE,US,False,False,True
+528,VNT,Vontier Corporation,6633090000,Technology,Scientific & Technical Instruments,1.317,43.1,0.1,85879,New York Stock Exchange,NYSE,US,False,False,True
+529,HRB,"H&R Block, Inc.",6628642710,Consumer Cyclical,Personal Services,0.717,47.51,1.28,189137,New York Stock Exchange,NYSE,US,False,False,True
+530,WAL,Western Alliance Bancorporation,6519350600,Financial Services,Banks—Regional,1.456,59.17,1.48,329028,New York Stock Exchange,NYSE,US,False,False,True
+531,KVYO,"Klaviyo, Inc.",6508588095,Technology,Software—Infrastructure,,25.03,0.0,276122,New York Stock Exchange,NYSE,US,False,False,True
+532,DDS,"Dillard's, Inc.",6503653277,Consumer Cyclical,Department Stores,0.963,400.92,1.0,17930,New York Stock Exchange,NYSE,US,False,False,True
+533,ARW,"Arrow Electronics, Inc.",6458744278,Technology,Electronics & Computer Distribution,1.401,120.02,0.0,75487,New York Stock Exchange,NYSE,US,False,False,True
+534,AM,Antero Midstream Corporation,6445280030,Energy,Oil & Gas Midstream,2.13,13.435,0.9,507676,New York Stock Exchange,NYSE,US,False,False,True
+535,ALSN,"Allison Transmission Holdings, Inc.",6412860126,Consumer Cyclical,Auto Parts,1.016,73.53,1.0,137755,New York Stock Exchange,NYSE,US,False,False,True
+536,RYAN,"Ryan Specialty Holdings, Inc.",6388440900,Financial Services,Insurance—Specialty,0.51,53.85,0.44,88293,New York Stock Exchange,NYSE,US,False,False,True
+537,FLR,Fluor Corporation,6371480340,Industrials,Engineering & Construction,2.12,37.39,0.0,174505,New York Stock Exchange,NYSE,US,False,False,True
+538,VFC,V.F. Corporation,6318260000,Consumer Cyclical,Apparel Manufacturing,1.527,16.25,0.36,1226233,New York Stock Exchange,NYSE,US,False,False,True
+539,HXL,Hexcel Corporation,6316863740,Industrials,Aerospace & Defense,1.232,74.855,0.53,89809,New York Stock Exchange,NYSE,US,False,False,True
+540,MUR,Murphy Oil Corporation,6313364150,Energy,Oil & Gas E&P,2.201,41.33,1.2,172495,New York Stock Exchange,NYSE,US,False,False,True
+541,CHH,"Choice Hotels International, Inc.",6270343852,Consumer Cyclical,Lodging,1.203,126.52,1.15,1027722,New York Stock Exchange,NYSE,US,False,False,True
+542,POST,"Post Holdings, Inc.",6255018096,Consumer Defensive,Packaged Foods,0.615,103.08,0.0,47822,New York Stock Exchange,NYSE,US,False,False,True
+543,WH,"Wyndham Hotels & Resorts, Inc.",6243908126,Consumer Cyclical,Lodging,1.357,77.085,1.43,572539,New York Stock Exchange,NYSE,US,False,False,True
+544,TNET,"TriNet Group, Inc.",6235527749,Industrials,Staffing & Employment Services,1.091,123.31,1.0,81726,New York Stock Exchange,NYSE,US,False,False,True
+545,ATI,ATI Inc.,6221656890,Industrials,Metal Fabrication,1.212,48.69,0.0,168516,New York Stock Exchange,NYSE,US,False,False,True
+546,AN,"AutoNation, Inc.",6182849646,Consumer Cyclical,Auto & Truck Dealerships,1.232,148.41,0.0,30861,New York Stock Exchange,NYSE,US,False,False,True
+547,GTLS,"Chart Industries, Inc.",6159255862,Industrials,Specialty Industrial Machinery,1.691,145.685,0.0,106230,New York Stock Exchange,NYSE,US,False,False,True
+548,BYD,Boyd Gaming Corporation,6133957352,Consumer Cyclical,Resorts & Casinos,1.598,63.86,0.68,91485,New York Stock Exchange,NYSE,US,False,False,True
+549,NE,Noble Corporation,6119421368,Energy,Oil & Gas Drilling,0.993,44.64,1.6,204360,New York Stock Exchange,NYSE,US,False,False,True
+550,BC,Brunswick Corporation,6114624750,Consumer Cyclical,Recreational Vehicles,1.55,89.7,1.68,98946,New York Stock Exchange,NYSE,US,False,False,True
+551,ATKR,Atkore Inc.,6096919506,Industrials,Electrical Equipment & Parts,2.179,165.82,1.28,98950,New York Stock Exchange,NYSE,US,False,False,True
+552,TMHC,Taylor Morrison Home Corporation,6094124540,Consumer Cyclical,Residential Construction,1.869,57.26,0.0,84781,New York Stock Exchange,NYSE,US,False,False,True
+553,CMC,Commercial Metals Company,6028898400,Basic Materials,Steel,1.315,51.8,0.64,262379,New York Stock Exchange,NYSE,US,False,False,True
+554,ESAB,ESAB Corporation,5983135762,Industrials,Metal Fabrication,0.0,99.23,0.24,54070,New York Stock Exchange,NYSE,US,False,False,True
+555,TKR,The Timken Company,5980164167,Industrials,Tools & Accessories,1.544,85.27,1.32,45690,New York Stock Exchange,NYSE,US,False,False,True
+556,OBDC,Blue Owl Capital Corporation,5912288583,Financial Services,Credit Services,0.953,15.1701,0.88,543541,New York Stock Exchange,NYSE,US,False,False,True
+557,PB,"Prosperity Bancshares, Inc.",5905686454,Financial Services,Banks—Regional,0.941,63.1425,2.24,59673,New York Stock Exchange,NYSE,US,False,False,True
+558,WHR,Whirlpool Corporation,5889235545,Consumer Cyclical,"Furnishings, Fixtures & Appliances",1.461,107.775,7.0,175903,New York Stock Exchange,NYSE,US,False,False,True
+559,PBF,PBF Energy Inc.,5879862440,Energy,Oil & Gas Refining & Marketing,1.72,49.18,1.0,279974,New York Stock Exchange,NYSE,US,False,False,True
+560,MLI,"Mueller Industries, Inc.",5876065850,Industrials,Metal Fabrication,1.083,51.71,0.65,142105,New York Stock Exchange,NYSE,US,False,False,True
+561,NEU,NewMarket Corporation,5869110600,Basic Materials,Specialty Chemicals,0.461,612.0,10.0,3498,New York Stock Exchange,NYSE,US,False,False,True
+562,GXO,"GXO Logistics, Inc.",5849801100,Industrials,Integrated Freight & Logistics,1.735,49.05,0.0,124142,New York Stock Exchange,NYSE,US,False,False,True
+563,ANF,Abercrombie & Fitch Co.,5816290645,Consumer Cyclical,Apparel Retail,1.603,115.39,0.0,647897,New York Stock Exchange,NYSE,US,False,False,True
+564,OMF,"OneMain Holdings, Inc.",5803860360,Financial Services,Credit Services,1.652,48.46,4.0,93405,New York Stock Exchange,NYSE,US,False,False,True
+565,SNV,Synovus Financial Corp.,5785688480,Financial Services,Banks—Regional,1.413,39.52,1.52,78163,New York Stock Exchange,NYSE,US,False,False,True
+566,FAF,First American Financial Corporation,5783910000,Financial Services,Insurance—Specialty,1.289,56.1,2.12,133175,New York Stock Exchange,NYSE,US,False,False,True
+567,ADC,Agree Realty Corporation,5782355475,Real Estate,REIT—Retail,0.52,57.525,2.96,195632,New York Stock Exchange,NYSE,US,False,False,True
+568,INSP,"Inspire Medical Systems, Inc.",5777970030,Healthcare,Medical Devices,1.35,195.3,0.0,59938,New York Stock Exchange,NYSE,US,False,False,True
+569,ESI,Element Solutions Inc,5777582875,Basic Materials,Specialty Chemicals,1.31,23.875,0.32,126582,New York Stock Exchange,NYSE,US,False,False,True
+570,ENLC,"EnLink Midstream, LLC",5753082015,Energy,Oil & Gas Midstream,2.328,12.695,0.53,216853,New York Stock Exchange,NYSE,US,False,False,True
+571,M,"Macy's, Inc.",5730866430,Consumer Cyclical,Department Stores,2.164,20.91,0.69,3086318,New York Stock Exchange,NYSE,US,False,False,True
+572,MTH,Meritage Homes Corporation,5682212740,Consumer Cyclical,Residential Construction,1.759,157.1,3.0,69896,New York Stock Exchange,NYSE,US,False,False,True
+573,VVV,Valvoline Inc.,5677329710,Energy,Oil & Gas Refining & Marketing,1.442,43.79,0.5,167914,New York Stock Exchange,NYSE,US,False,False,True
+574,FLS,Flowserve Corporation,5674911615,Industrials,Specialty Industrial Machinery,1.468,43.245,0.84,100794,New York Stock Exchange,NYSE,US,False,False,True
+575,DTM,"DT Midstream, Inc.",5667487824,Energy,Oil & Gas Midstream,0.759,58.44,2.81,66204,New York Stock Exchange,NYSE,US,False,False,True
+576,ADT,ADT Inc.,5665232100,Industrials,Security & Protection Services,1.575,6.53,0.16,3164255,New York Stock Exchange,NYSE,US,False,False,True
+577,TRNO,Terreno Realty Corporation,5655930045,Real Estate,REIT—Industrial,0.823,64.275,1.8,66946,New York Stock Exchange,NYSE,US,False,False,True
+578,SMAR,Smartsheet Inc.,5645127510,Technology,Software—Application,0.747,41.43,0.0,777792,New York Stock Exchange,NYSE,US,False,False,True
+579,BROS,Dutch Bros Inc.,5635062682,Consumer Cyclical,Restaurants,2.406,31.71,0.0,1023660,New York Stock Exchange,NYSE,US,False,False,True
+580,SON,Sonoco Products Company,5623709949,Consumer Cyclical,Packaging & Containers,0.682,57.31,2.04,93595,New York Stock Exchange,NYSE,US,False,False,True
+581,DV,"DoubleVerify Holdings, Inc.",5570036350,Technology,Software—Application,1.014,32.525,0.0,611619,New York Stock Exchange,NYSE,US,False,False,True
+582,LPX,Louisiana-Pacific Corporation,5510268274,Industrials,Building Products & Equipment,1.832,76.265,1.04,238499,New York Stock Exchange,NYSE,US,False,False,True
+583,MTG,MGIC Investment Corporation,5495874600,Financial Services,Insurance—Specialty,1.224,20.38,0.46,679839,New York Stock Exchange,NYSE,US,False,False,True
+584,PLNT,"Planet Fitness, Inc.",5491132395,Consumer Cyclical,Leisure,1.402,64.27,0.0,133931,New York Stock Exchange,NYSE,US,False,False,True
+585,THO,"Thor Industries, Inc.",5463628270,Consumer Cyclical,Recreational Vehicles,1.782,102.46,1.92,144363,New York Stock Exchange,NYSE,US,False,False,True
+586,ZWS,Zurn Elkay Water Solutions Corporation,5429913720,Industrials,Pollution & Treatment Controls,1.036,31.57,0.32,112141,New York Stock Exchange,NYSE,US,False,False,True
+587,AA,Alcoa Corporation,5428966365,Basic Materials,Aluminum,2.446,30.235,0.4,2045760,New York Stock Exchange,NYSE,US,False,False,True
+588,MSM,"MSC Industrial Direct Co., Inc.",5420078440,Industrials,Industrial Distribution,0.904,96.1,3.32,77847,New York Stock Exchange,NYSE,US,False,False,True
+589,FSK,FS KKR Capital Corp.,5410875120,Financial Services,Asset Management,1.294,19.32,2.8,633087,New York Stock Exchange,NYSE,US,False,False,True
+590,HOG,"Harley-Davidson, Inc.",5327322630,Consumer Cyclical,Recreational Vehicles,1.435,39.01,0.69,418381,New York Stock Exchange,NYSE,US,False,False,True
+591,UGI,UGI Corporation,5326786420,Utilities,Utilities—Regulated Gas,1.173,25.42,1.5,354966,New York Stock Exchange,NYSE,US,False,False,True
+592,ST,Sensata Technologies Holding plc,5314600400,Technology,Scientific & Technical Instruments,1.358,35.32,0.48,255321,New York Stock Exchange,NYSE,US,False,False,True
+593,SEE,Sealed Air Corporation,5304374740,Consumer Cyclical,Packaging & Containers,1.281,36.71,0.8,207118,New York Stock Exchange,NYSE,US,False,False,True
+594,SWX,"Southwest Gas Holdings, Inc.",5302362730,Utilities,Utilities—Regulated Gas,0.347,74.06,2.48,132720,New York Stock Exchange,NYSE,US,False,False,True
+595,SUN,Sunoco LP,5301240399,Energy,Oil & Gas Refining & Marketing,1.286,62.79,3.37,25385,New York Stock Exchange,NYSE,US,False,False,True
+596,RITM,Rithm Capital Corp.,5287023989,Real Estate,REIT—Mortgage,1.789,10.9411,1.0,541121,New York Stock Exchange,NYSE,US,False,False,True
+597,DOCS,"Doximity, Inc.",5274159785,Healthcare,Health Information Services,1.185,28.27,0.0,125111,New York Stock Exchange,NYSE,US,False,False,True
+598,AWI,"Armstrong World Industries, Inc.",5257215042,Industrials,Building Products & Equipment,1.119,120.005,1.12,30069,New York Stock Exchange,NYSE,US,False,False,True
+599,AMG,"Affiliated Managers Group, Inc.",5222624396,Financial Services,Asset Management,1.307,159.255,0.04,24502,New York Stock Exchange,NYSE,US,False,False,True
+600,KBH,KB Home,5221546275,Consumer Cyclical,Residential Construction,1.729,68.825,0.8,111139,New York Stock Exchange,NYSE,US,False,False,True
+601,PII,Polaris Inc.,5209131708,Consumer Cyclical,Recreational Vehicles,1.593,92.36,2.64,74924,New York Stock Exchange,NYSE,US,False,False,True
+602,SPXC,"SPX Technologies, Inc.",5195182480,Industrials,Specialty Industrial Machinery,1.249,113.71,0.0,13457,New York Stock Exchange,NYSE,US,False,False,True
+603,RYN,Rayonier Inc.,5183076800,Real Estate,REIT—Specialty,1.089,34.87,1.14,98748,New York Stock Exchange,NYSE,US,False,False,True
+604,MMS,"Maximus, Inc.",5178819447,Industrials,Specialty Business Services,0.725,84.855,1.2,21748,New York Stock Exchange,NYSE,US,False,False,True
+605,SM,SM Energy Company,5166946080,Energy,Oil & Gas E&P,4.203,44.64,0.72,318820,New York Stock Exchange,NYSE,US,False,False,True
+606,CADE,Cadence Bank,5153309200,Financial Services,Banks—Regional,1.025,27.95,1.0,198286,New York Stock Exchange,NYSE,US,False,False,True
+607,KEX,Kirby Corporation,5089658340,Industrials,Marine Shipping,1.205,86.97,0.0,45234,New York Stock Exchange,NYSE,US,False,False,True
+608,KD,"Kyndryl Holdings, Inc.",5042750000,Technology,Information Technology Services,1.648,21.925,0.0,230029,New York Stock Exchange,NYSE,US,False,False,True
+609,RH,RH,5038301779,Consumer Cyclical,Specialty Retail,2.426,276.535,0.0,102497,New York Stock Exchange,NYSE,US,False,False,True
+610,R,"Ryder System, Inc.",5010310783,Industrials,Rental & Leasing Services,1.392,114.095,2.84,44207,New York Stock Exchange,NYSE,US,False,False,True
+611,BCC,Boise Cascade Company,5007715670,Basic Materials,Building Materials,1.58,126.65,0.8,53491,New York Stock Exchange,NYSE,US,False,False,True
+612,ETRN,Equitrans Midstream Corporation,4988461575,Energy,Oil & Gas Midstream,1.986,11.435,0.6,18573442,New York Stock Exchange,NYSE,US,False,False,True
+613,ALIT,"Alight, Inc.",4932398700,Technology,Software—Application,1.15,9.005,0.0,410790,New York Stock Exchange,NYSE,US,False,False,True
+614,AL,Air Lease Corporation,4905727995,Industrials,Rental & Leasing Services,1.626,44.185,0.84,393195,New York Stock Exchange,NYSE,US,False,False,True
+615,FNB,F.N.B. Corporation,4881665600,Financial Services,Banks—Regional,1.034,13.6,0.48,153714,New York Stock Exchange,NYSE,US,False,False,True
+616,FLO,"Flowers Foods, Inc.",4843041000,Consumer Defensive,Packaged Foods,0.383,23.0,0.92,186900,New York Stock Exchange,NYSE,US,False,False,True
+617,CBT,Cabot Corporation,4842294912,Basic Materials,Specialty Chemicals,1.241,87.36,1.6,38876,New York Stock Exchange,NYSE,US,False,False,True
+618,HOMB,"Home Bancshares, Inc. (Conway, AR)",4824246960,Financial Services,Banks—Regional,1.1,23.985,0.72,113266,New York Stock Exchange,NYSE,US,False,False,True
+619,WU,The Western Union Company,4819844745,Financial Services,Credit Services,0.86,14.085,0.94,851001,New York Stock Exchange,NYSE,US,False,False,True
+620,ASH,Ashland Inc.,4790083900,Basic Materials,Specialty Chemicals,0.921,95.62,1.54,23349,New York Stock Exchange,NYSE,US,False,False,True
+621,NFG,National Fuel Gas Company,4784186268,Energy,Oil & Gas Integrated,0.632,51.93,1.98,218464,New York Stock Exchange,NYSE,US,False,False,True
+622,FSS,Federal Signal Corporation,4782102080,Industrials,Pollution & Treatment Controls,1.031,78.4,0.48,35618,New York Stock Exchange,NYSE,US,False,False,True
+623,SKY,Skyline Champion Corporation,4746760165,Consumer Cyclical,Residential Construction,1.53,82.19,0.0,18560,New York Stock Exchange,NYSE,US,False,False,True
+624,MOG-A,Moog Inc.,4743605152,Industrials,Aerospace & Defense,1.18,149.77,1.12,11142,New York Stock Exchange,NYSE,US,False,False,True
+625,HGV,Hilton Grand Vacations Inc.,4739348880,Consumer Cyclical,Resorts & Casinos,1.929,45.36,0.0,148774,New York Stock Exchange,NYSE,US,False,False,True
+626,SLGN,Silgan Holdings Inc.,4734990000,Consumer Cyclical,Packaging & Containers,0.673,44.46,0.76,60014,New York Stock Exchange,NYSE,US,False,False,True
+627,MDC,"M.D.C. Holdings, Inc.",4704740313,Consumer Cyclical,Residential Construction,1.545,62.69,2.15,504454,New York Stock Exchange,NYSE,US,False,False,True
+628,OGN,Organon & Co.,4697348250,Healthcare,Drug Manufacturers—General,0.771,18.375,1.12,497832,New York Stock Exchange,NYSE,US,False,False,True
+629,RDN,Radian Group Inc.,4690378080,Financial Services,Insurance—Specialty,1.008,30.96,0.98,751528,New York Stock Exchange,NYSE,US,False,False,True
+630,ASGN,ASGN Incorporated,4683480000,Technology,Information Technology Services,1.498,100.72,0.0,30280,New York Stock Exchange,NYSE,US,False,False,True
+631,JXN,Jackson Financial Inc.,4679889848,Financial Services,Insurance—Life,1.544,59.495,2.8,405709,New York Stock Exchange,NYSE,US,False,False,True
+632,GATX,GATX Corporation,4676770000,Industrials,Rental & Leasing Services,0.98,131.74,2.32,14052,New York Stock Exchange,NYSE,US,False,False,True
+633,THG,"The Hanover Insurance Group, Inc.",4668730035,Financial Services,Insurance—Property & Casualty,0.676,130.335,3.4,12450,New York Stock Exchange,NYSE,US,False,False,True
+634,WK,Workiva Inc.,4667955390,Technology,Software—Application,1.032,85.29,0.0,81268,New York Stock Exchange,NYSE,US,False,False,True
+635,BMI,"Badger Meter, Inc.",4647376697,Technology,Scientific & Technical Instruments,0.854,158.332,1.04,14215,New York Stock Exchange,NYSE,US,False,False,True
+636,ALK,"Alaska Air Group, Inc.",4611376616,Industrials,Airlines,1.624,36.584,0.0,511815,New York Stock Exchange,NYSE,US,False,False,True
+637,AMR,"Alpha Metallurgical Resources, Inc.",4600023427,Basic Materials,Coking Coal,1.397,353.995,2.0,78549,New York Stock Exchange,NYSE,US,False,False,True
+638,GBCI,"Glacier Bancorp, Inc.",4582334560,Financial Services,Banks—Regional,0.776,40.42,1.32,82166,New York Stock Exchange,NYSE,US,False,False,True
+639,BIPC,Brookfield Infrastructure Corporation,4570511880,Utilities,Utilities—Regulated Gas,1.358,34.68,1.62,48507,New York Stock Exchange,NYSE,US,False,False,True
+640,BEPC,Brookfield Renewable Corporation,4566703000,Utilities,Utilities—Renewable,0.886,25.42,1.42,90084,New York Stock Exchange,NYSE,US,False,False,True
+641,MDU,"MDU Resources Group, Inc.",4564670490,Industrials,Conglomerates,0.674,22.41,0.5,187995,New York Stock Exchange,NYSE,US,False,False,True
+642,LNC,Lincoln National Corporation,4558157685,Financial Services,Insurance—Life,1.775,26.865,1.8,297835,New York Stock Exchange,NYSE,US,False,False,True
+643,IDA,"IDACORP, Inc.",4552478752,Utilities,Utilities—Regulated Electric,0.556,89.92,3.32,49923,New York Stock Exchange,NYSE,US,False,False,True
+644,HUN,Huntsman Corporation,4539578000,Basic Materials,Chemicals,1.127,26.35,1.0,164136,New York Stock Exchange,NYSE,US,False,False,True
+645,FG,"F&G Annuities & Life, Inc.",4539113862,Financial Services,Insurance—Life,0.0,35.93,0.84,7044,New York Stock Exchange,NYSE,US,False,False,True
+646,DNB,"Dun & Bradstreet Holdings, Inc.",4534956660,Financial Services,Financial Data & Stock Exchanges,1.16,10.335,0.2,263726,New York Stock Exchange,NYSE,US,False,False,True
+647,CWEN,"Clearway Energy, Inc.",4488007296,Utilities,Utilities—Renewable,0.97,22.47,1.61,86783,New York Stock Exchange,NYSE,US,False,False,True
+648,BHVN,Biohaven Pharmaceutical Holding Company Ltd.,4484077167,Healthcare,Biotechnology,0.0,55.28,0.0,225903,New York Stock Exchange,NYSE,US,False,False,True
+649,AEO,"American Eagle Outfitters, Inc.",4443617310,Consumer Cyclical,Apparel Retail,1.577,22.495,0.5,1346459,New York Stock Exchange,NYSE,US,False,False,True
+650,MSGS,Madison Square Garden Sports Corp.,4431162328,Communication Services,Entertainment,0.704,185.045,0.0,11631,New York Stock Exchange,NYSE,US,False,False,True
+651,GME,GameStop Corp.,4414677300,Consumer Cyclical,Specialty Retail,-0.384,14.45,0.0,991888,New York Stock Exchange,NYSE,US,False,False,True
+652,AEL,American Equity Investment Life Holding Company,4414243000,Financial Services,Insurance—Life,0.789,55.595,0.0,32011,New York Stock Exchange,NYSE,US,False,False,True
+653,AQNB,Algonquin Power & Utilities Cor,4396953718,Industrials,,0.0,25.235,1.9375,1405,New York Stock Exchange,NYSE,US,False,False,True
+654,HRI,Herc Holdings Inc.,4333273802,Industrials,Rental & Leasing Services,2.275,153.01,2.66,39693,New York Stock Exchange,NYSE,US,False,False,True
+655,SQSP,"Squarespace, Inc.",4330735950,Technology,Software—Infrastructure,0.487,31.71,0.0,87772,New York Stock Exchange,NYSE,US,False,False,True
+656,VMI,"Valmont Industries, Inc.",4330150716,Industrials,Conglomerates,1.024,214.19,2.4,28949,New York Stock Exchange,NYSE,US,False,False,True
+657,GKOS,Glaukos Corporation,4323465608,Healthcare,Medical Devices,1.08,87.395,0.0,42584,New York Stock Exchange,NYSE,US,False,False,True
+658,PFSI,"PennyMac Financial Services, Inc.",4318166766,Financial Services,Mortgage Finance,1.662,85.63,0.8,48579,New York Stock Exchange,NYSE,US,False,False,True
+659,MGY,Magnolia Oil & Gas Corporation,4296697500,Energy,Oil & Gas E&P,2.04,23.55,0.48,772166,New York Stock Exchange,NYSE,US,False,False,True
+660,FUL,H.B. Fuller Company,4273216640,Basic Materials,Specialty Chemicals,1.513,78.83,0.82,17143,New York Stock Exchange,NYSE,US,False,False,True
+661,AAP,"Advance Auto Parts, Inc.",4272243600,Consumer Cyclical,Specialty Retail,1.162,71.8,1.0,245508,New York Stock Exchange,NYSE,US,False,False,True
+662,GTES,Gates Industrial Corporation plc,4267976650,Industrials,Specialty Industrial Machinery,1.552,16.15,0.0,352308,New York Stock Exchange,NYSE,US,False,False,True
+663,KNF,Knife River Corporation,4262051324,Basic Materials,Building Materials,,75.33,0.0,76192,New York Stock Exchange,NYSE,US,False,False,True
+664,NJR,New Jersey Resources Corporation,4259490655,Utilities,Utilities—Regulated Gas,0.65,43.33,1.68,59342,New York Stock Exchange,NYSE,US,False,False,True
+665,KRC,Kilroy Realty Corporation,4254240760,Real Estate,REIT—Office,1.035,36.26,2.16,93827,New York Stock Exchange,NYSE,US,False,False,True
+666,BGC,"BGC Group, Inc",4250535329,Financial Services,Capital Markets,1.523,8.485,0.04,1047663,New York Stock Exchange,NYSE,US,False,False,True
+667,BOX,"Box, Inc.",4234498590,Technology,Software—Infrastructure,0.835,29.49,0.0,600203,New York Stock Exchange,NYSE,US,False,False,True
+668,ASAN,"Asana, Inc.",4230385217,Technology,Software—Application,1.27,19.01,0.0,877523,New York Stock Exchange,NYSE,US,False,False,True
+669,POR,Portland General Electric Company,4225536740,Utilities,Utilities—Regulated Electric,0.584,41.77,1.9,99810,New York Stock Exchange,NYSE,US,False,False,True
+670,ABG,"Asbury Automotive Group, Inc.",4221404249,Consumer Cyclical,Auto & Truck Dealerships,1.168,206.89,0.0,17065,New York Stock Exchange,NYSE,US,False,False,True
+671,MOD,Modine Manufacturing Company,4185084089,Consumer Cyclical,Auto Parts,2.283,80.1622,0.0,449327,New York Stock Exchange,NYSE,US,False,False,True
+672,TDW,Tidewater Inc.,4156075161,Energy,Oil & Gas Equipment & Services,1.173,79.51,0.0,246933,New York Stock Exchange,NYSE,US,False,False,True
+673,ORA,"Ormat Technologies, Inc.",4145449252,Utilities,Utilities—Renewable,0.475,68.68,0.48,98045,New York Stock Exchange,NYSE,US,False,False,True
+674,CWAN,"Clearwater Analytics Holdings, Inc.",4115829577,Technology,Software—Application,0.441,16.82,0.0,253233,New York Stock Exchange,NYSE,US,False,False,True
+675,SNDR,"Schneider National, Inc.",4084200811,Industrials,Trucking,0.847,23.2076,0.38,155879,New York Stock Exchange,NYSE,US,False,False,True
+676,ACA,"Arcosa, Inc.",4078019143,Industrials,Infrastructure Operations,0.648,83.975,0.2,22346,New York Stock Exchange,NYSE,US,False,False,True
+677,HAE,Haemonetics Corporation,4060094765,Healthcare,Medical Instruments & Supplies,0.34,79.945,0.0,56731,New York Stock Exchange,NYSE,US,False,False,True
+678,APLE,"Apple Hospitality REIT, Inc.",4052806280,Real Estate,REIT—Hotel & Motel,1.1,16.78,0.96,388813,New York Stock Exchange,NYSE,US,False,False,True
+679,DY,"Dycom Industries, Inc.",4011599972,Industrials,Engineering & Construction,1.367,137.895,0.0,79682,New York Stock Exchange,NYSE,US,False,False,True
+680,GOLF,Acushnet Holdings Corp.,4006515570,Consumer Cyclical,Leisure,0.878,63.1,0.86,35176,New York Stock Exchange,NYSE,US,False,False,True
+681,SPR,"Spirit AeroSystems Holdings, Inc.",4000927175,Industrials,Aerospace & Defense,1.74,34.475,0.0,1136837,New York Stock Exchange,NYSE,US,False,False,True
